@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-08-27",
-      "last_pretty": "27 august 2025"
+      "last": "2025-08-27"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-08-08",
-      "last_pretty": "08 august 2025"
+      "last": "2025-08-08"
     }
   ]
 }

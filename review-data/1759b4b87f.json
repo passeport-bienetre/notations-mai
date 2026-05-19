@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-04-07",
-      "last_pretty": "07 april 2026"
+      "last": "2026-04-07"
     },
     {
       "name": "Espace Beauté Harmonie",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "visits": 1,
-      "last": "2025-06-20",
-      "last_pretty": "20 june 2025"
+      "last": "2025-06-20"
     }
   ]
 }

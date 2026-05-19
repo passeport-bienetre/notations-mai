@@ -5,51 +5,51 @@
   "estabs": [
     {
       "name": "Maison B",
+      "url": "https://www.bodypass.ch/?s=Maison%20B",
       "visits": 1,
-      "last": "2026-05-05",
-      "last_pretty": "05 may 2026"
+      "last": "2026-05-05"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-02-23",
-      "last_pretty": "23 february 2026"
+      "last": "2026-02-23"
     },
     {
       "name": "Chandolin Boutique Hôtel",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "visits": 1,
-      "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last": "2026-02-14"
     },
     {
       "name": "Experimental Chalet",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-01-20",
-      "last_pretty": "20 january 2026"
+      "last": "2026-01-20"
     },
     {
       "name": "Espace Beauté Sarah",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2025-12-16",
-      "last_pretty": "16 december 2025"
+      "last": "2025-12-16"
     },
     {
       "name": "Urban Spa",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/",
       "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025"
+      "last": "2025-11-20"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-07-03",
-      "last_pretty": "03 july 2025"
+      "last": "2025-07-03"
     },
     {
       "name": "Institut Beauté Bertmans",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2025-06-05",
-      "last_pretty": "05 june 2025"
+      "last": "2025-06-05"
     }
   ]
 }

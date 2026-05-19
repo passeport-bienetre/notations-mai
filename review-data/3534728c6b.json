@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LES BAINS PUBLICS",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-05-05",
-      "last_pretty": "05 may 2026"
+      "last": "2026-05-05"
     },
     {
       "name": "Crans Ambassador Spa",
+      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2026-03-17",
-      "last_pretty": "17 march 2026"
+      "last": "2026-03-17"
     }
   ]
 }

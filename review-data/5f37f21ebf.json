@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last": "2026-02-19"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2026-01-13",
-      "last_pretty": "13 january 2026"
+      "last": "2026-01-13"
     },
     {
       "name": "Elvi Haute Coiffure",
+      "url": "https://www.bodypass.ch/?s=Elvi%20Haute%20Coiffure",
       "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025"
+      "last": "2025-07-30"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-06-21",
-      "last_pretty": "21 june 2025"
+      "last": "2025-06-21"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-06-12",
-      "last_pretty": "12 june 2025"
+      "last": "2025-06-12"
     }
   ]
 }

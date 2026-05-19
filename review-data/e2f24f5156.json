@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-04-01",
-      "last_pretty": "01 april 2026"
+      "last": "2026-04-01"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-09-17",
-      "last_pretty": "17 september 2025"
+      "last": "2025-09-17"
     },
     {
       "name": "Noemi Spataro Esthétique",
+      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025"
+      "last": "2025-07-08"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-04",
-      "last_pretty": "04 july 2025"
+      "last": "2025-07-04"
     },
     {
       "name": "Institut Biotiful",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2025-06-04",
-      "last_pretty": "04 june 2025"
+      "last": "2025-06-04"
     }
   ]
 }

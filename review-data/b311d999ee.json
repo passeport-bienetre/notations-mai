@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Chandolin Boutique Hôtel",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "visits": 1,
-      "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last": "2026-02-19"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last": "2025-07-10"
     }
   ]
 }

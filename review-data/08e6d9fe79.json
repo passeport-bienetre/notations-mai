@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Espace Beauté Sarah",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2025-10-01",
-      "last_pretty": "01 october 2025"
+      "last": "2025-10-01"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last": "2025-09-02"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-08-08",
-      "last_pretty": "08 august 2025"
+      "last": "2025-08-08"
     },
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-08-07",
-      "last_pretty": "07 august 2025"
+      "last": "2025-08-07"
     }
   ]
 }

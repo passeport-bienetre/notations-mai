@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "19th AVENUE &#8211; Versonnex",
+      "url": "https://www.bodypass.ch/etablissements/versonnex/",
       "visits": 1,
-      "last": "2026-04-15",
-      "last_pretty": "15 april 2026"
+      "last": "2026-04-15"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2026-04-15",
-      "last_pretty": "15 april 2026"
+      "last": "2026-04-15"
     }
   ]
 }

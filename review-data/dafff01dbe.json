@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Institut ZenSkin",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2025-10-25",
-      "last_pretty": "25 october 2025"
+      "last": "2025-10-25"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-05-19",
-      "last_pretty": "19 may 2025"
+      "last": "2025-05-19"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-05-02",
-      "last_pretty": "02 may 2026"
+      "last": "2026-05-02"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2026-02-13",
-      "last_pretty": "13 february 2026"
+      "last": "2026-02-13"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last": "2025-12-19"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-11-10",
-      "last_pretty": "10 november 2025"
+      "last": "2025-11-10"
     }
   ]
 }

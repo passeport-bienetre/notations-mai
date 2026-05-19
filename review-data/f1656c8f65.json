@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-18",
-      "last_pretty": "18 february 2026"
+      "last": "2026-02-18"
     },
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-02-11",
-      "last_pretty": "11 february 2026"
+      "last": "2026-02-11"
     },
     {
       "name": "Luna aesthetic",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-12-22",
-      "last_pretty": "22 december 2025"
+      "last": "2025-12-22"
     }
   ]
 }

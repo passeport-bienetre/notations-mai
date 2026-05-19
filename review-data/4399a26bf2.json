@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Serenityblue",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2026-04-16",
-      "last_pretty": "16 april 2026"
+      "last": "2026-04-16"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     }
   ]
 }

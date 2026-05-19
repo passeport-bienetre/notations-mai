@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last": "2026-03-12"
     },
     {
       "name": "Nirvana Spa",
+      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-08-23",
-      "last_pretty": "23 august 2025"
+      "last": "2025-08-23"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2026-02-06",
-      "last_pretty": "06 february 2026"
+      "last": "2026-02-06"
     }
   ]
 }

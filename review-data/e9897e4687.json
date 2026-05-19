@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-05-13",
-      "last_pretty": "13 may 2026"
+      "last": "2026-05-13"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-03-18",
-      "last_pretty": "18 march 2026"
+      "last": "2026-03-18"
     }
   ]
 }

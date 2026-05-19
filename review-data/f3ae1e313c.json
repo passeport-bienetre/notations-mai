@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "Signature Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2026-05-07",
-      "last_pretty": "07 may 2026"
+      "last": "2026-05-07"
     },
     {
       "name": "MYO Style",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last": "2026-02-24"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-02-18",
-      "last_pretty": "18 february 2026"
+      "last": "2026-02-18"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last": "2025-12-19"
     },
     {
       "name": "Salon Privé Ecublens",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2025-11-08",
-      "last_pretty": "08 november 2025"
+      "last": "2025-11-08"
     },
     {
       "name": "Flaventino coiffure Aubonne",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
       "visits": 1,
-      "last": "2025-08-23",
-      "last_pretty": "23 august 2025"
+      "last": "2025-08-23"
     },
     {
       "name": "Anita Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025"
+      "last": "2025-07-30"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-05-26",
-      "last_pretty": "26 may 2025"
+      "last": "2025-05-26"
     },
     {
       "name": "Arte Beauty EHL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2025-05-23",
-      "last_pretty": "23 may 2025"
+      "last": "2025-05-23"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-05-23",
-      "last_pretty": "23 may 2025"
+      "last": "2025-05-23"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "AVEDA VIEILLE-VILLE",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2026-03-25",
-      "last_pretty": "25 march 2026"
+      "last": "2026-03-25"
     },
     {
       "name": "ÂM SOEURS",
+      "url": "https://www.bodypass.ch/?s=%C3%82M%20SOEURS",
       "visits": 1,
-      "last": "2026-02-11",
-      "last_pretty": "11 february 2026"
+      "last": "2026-02-11"
     }
   ]
 }

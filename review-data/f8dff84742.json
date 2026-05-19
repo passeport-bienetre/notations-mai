@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "RUBIS SPA",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last": "2026-04-29"
     },
     {
       "name": "Le Lokal",
+      "url": "https://www.bodypass.ch/etablissements/le-lokal/",
       "visits": 1,
-      "last": "2025-09-27",
-      "last_pretty": "27 september 2025"
+      "last": "2025-09-27"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last": "2025-08-15"
     },
     {
       "name": "Experimental Chalet",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2025-08-02",
-      "last_pretty": "02 august 2025"
+      "last": "2025-08-02"
     }
   ]
 }

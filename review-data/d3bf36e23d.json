@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "BORROMEO COIFFURE",
+      "url": "https://www.bodypass.ch/etablissements/borromeo-coiffure/",
       "visits": 1,
-      "last": "2026-01-29",
-      "last_pretty": "29 january 2026"
+      "last": "2026-01-29"
     },
     {
       "name": "So Hair",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/",
       "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last": "2025-11-14"
     }
   ]
 }

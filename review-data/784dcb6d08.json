@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Chandolin Boutique Hôtel",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "visits": 1,
-      "last": "2026-02-13",
-      "last_pretty": "13 february 2026"
+      "last": "2026-02-13"
     },
     {
       "name": "Experimental Chalet",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-01-20",
-      "last_pretty": "20 january 2026"
+      "last": "2026-01-20"
     },
     {
       "name": "Urban Spa",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/",
       "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025"
+      "last": "2025-11-20"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-07-03",
-      "last_pretty": "03 july 2025"
+      "last": "2025-07-03"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026"
+      "last": "2026-02-12"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-06-11",
-      "last_pretty": "11 june 2025"
+      "last": "2025-06-11"
     }
   ]
 }

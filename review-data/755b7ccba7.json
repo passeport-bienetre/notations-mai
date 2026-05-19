@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "LA SUITE COIFFURE",
+      "url": "https://www.bodypass.ch/etablissements/la-suite-coiffure/",
       "visits": 1,
-      "last": "2026-03-07",
-      "last_pretty": "07 march 2026"
+      "last": "2026-03-07"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-02-07",
-      "last_pretty": "07 february 2026"
+      "last": "2026-02-07"
     },
     {
       "name": "19th AVENUE &#8211; Versonnex",
+      "url": "https://www.bodypass.ch/etablissements/versonnex/",
       "visits": 1,
-      "last": "2026-01-10",
-      "last_pretty": "10 january 2026"
+      "last": "2026-01-10"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-11-03",
-      "last_pretty": "03 november 2025"
+      "last": "2025-11-03"
     },
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-06-19",
-      "last_pretty": "19 june 2025"
+      "last": "2025-06-19"
     }
   ]
 }

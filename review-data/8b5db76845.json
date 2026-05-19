@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Altitude by Garance",
+      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last": "2026-04-10"
     },
     {
       "name": "Le Grand Bellevue",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2026-02-13",
-      "last_pretty": "13 february 2026"
+      "last": "2026-02-13"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-08",
-      "last_pretty": "08 february 2026"
+      "last": "2026-02-08"
     },
     {
       "name": "Experimental Chalet",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-02-03",
-      "last_pretty": "03 february 2026"
+      "last": "2026-02-03"
     }
   ]
 }

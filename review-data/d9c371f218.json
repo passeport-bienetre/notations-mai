@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Salon Privé Ecublens",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2026-05-13",
-      "last_pretty": "13 may 2026"
+      "last": "2026-05-13"
     },
     {
       "name": "NUTRITION SANTE JULIETTE",
+      "url": "https://www.bodypass.ch/etablissements/nutrition-sante-juliette/",
       "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last": "2026-01-30"
     },
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-01-26",
-      "last_pretty": "26 january 2026"
+      "last": "2026-01-26"
     },
     {
       "name": "Nueva Luna Yoga",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2026-01-22",
-      "last_pretty": "22 january 2026"
+      "last": "2026-01-22"
     }
   ]
 }

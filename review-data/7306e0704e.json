@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-09-16",
-      "last_pretty": "16 september 2025"
+      "last": "2025-09-16"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-09-05",
-      "last_pretty": "05 september 2025"
+      "last": "2025-09-05"
     }
   ]
 }

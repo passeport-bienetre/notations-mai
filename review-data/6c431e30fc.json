@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-03-31",
-      "last_pretty": "31 march 2026"
+      "last": "2026-03-31"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-12-18",
-      "last_pretty": "18 december 2025"
+      "last": "2025-12-18"
     }
   ]
 }

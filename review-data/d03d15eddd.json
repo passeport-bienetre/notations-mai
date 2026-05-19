@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-08-23",
-      "last_pretty": "23 august 2025"
+      "last": "2025-08-23"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-08-20",
-      "last_pretty": "20 august 2025"
+      "last": "2025-08-20"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-07-16",
-      "last_pretty": "16 july 2025"
+      "last": "2025-07-16"
     }
   ]
 }

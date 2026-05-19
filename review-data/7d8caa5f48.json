@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last": "2026-04-10"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last": "2026-01-23"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-12-11",
-      "last_pretty": "11 december 2025"
+      "last": "2025-12-11"
     }
   ]
 }

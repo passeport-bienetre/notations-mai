@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "AVEDA VIEILLE-VILLE",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2026-05-08",
-      "last_pretty": "08 may 2026"
+      "last": "2026-05-08"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-05-07",
-      "last_pretty": "07 may 2026"
+      "last": "2026-05-07"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-04-23",
-      "last_pretty": "23 april 2026"
+      "last": "2026-04-23"
     },
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2026-04-23",
-      "last_pretty": "23 april 2026"
+      "last": "2026-04-23"
     },
     {
       "name": "So Beauty Home",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "visits": 1,
-      "last": "2026-03-24",
-      "last_pretty": "24 march 2026"
+      "last": "2026-03-24"
     }
   ]
 }

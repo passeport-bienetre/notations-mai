@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-21",
-      "last_pretty": "21 september 2025"
+      "last": "2025-09-21"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025"
+      "last": "2025-08-22"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-27",
-      "last_pretty": "27 july 2025"
+      "last": "2025-07-27"
     },
     {
       "name": "Arte Beauty EHL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2025-06-18",
-      "last_pretty": "18 june 2025"
+      "last": "2025-06-18"
     }
   ]
 }

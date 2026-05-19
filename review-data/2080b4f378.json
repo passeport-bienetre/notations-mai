@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-01-31",
-      "last_pretty": "31 january 2026"
+      "last": "2026-01-31"
     },
     {
       "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2026-01-14",
-      "last_pretty": "14 january 2026"
+      "last": "2026-01-14"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-06-27",
-      "last_pretty": "27 june 2025"
+      "last": "2025-06-27"
     }
   ]
 }

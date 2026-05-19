@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Institut Biotiful",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2026-04-25",
-      "last_pretty": "25 april 2026"
+      "last": "2026-04-25"
     },
     {
       "name": "LES TRESOMS",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2025-09-24",
-      "last_pretty": "24 september 2025"
+      "last": "2025-09-24"
     }
   ]
 }

@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "Institut Sirène",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last": "2026-04-29"
     },
     {
       "name": "LA MAISON VALMONT – BONGENIE",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2026-04-21",
-      "last_pretty": "21 april 2026"
+      "last": "2026-04-21"
     },
     {
       "name": "Signature Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2026-04-09",
-      "last_pretty": "09 april 2026"
+      "last": "2026-04-09"
     },
     {
       "name": "Institut ZenSkin",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2026-03-05",
-      "last_pretty": "05 march 2026"
+      "last": "2026-03-05"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-03-02",
-      "last_pretty": "02 march 2026"
+      "last": "2026-03-02"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-02-18",
-      "last_pretty": "18 february 2026"
+      "last": "2026-02-18"
     },
     {
       "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last": "2026-01-23"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-15",
-      "last_pretty": "15 january 2026"
+      "last": "2026-01-15"
     },
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2025-12-29",
-      "last_pretty": "29 december 2025"
+      "last": "2025-12-29"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-12-15",
-      "last_pretty": "15 december 2025"
+      "last": "2025-12-15"
     }
   ]
 }

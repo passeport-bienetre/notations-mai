@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025"
+      "last": "2025-06-25"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-06-11",
-      "last_pretty": "11 june 2025"
+      "last": "2025-06-11"
     }
   ]
 }

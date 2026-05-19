@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     },
     {
       "name": "NUANCES NATURE",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     },
     {
       "name": "Noemi Spataro Esthétique",
+      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-06-10",
-      "last_pretty": "10 june 2025"
+      "last": "2025-06-10"
     }
   ]
 }

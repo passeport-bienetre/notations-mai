@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut Bienitude &#038; Bienitude Natura",
+      "url": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "Institut Kaori",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2026-01-16",
-      "last_pretty": "16 january 2026"
+      "last": "2026-01-16"
     },
     {
       "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025"
+      "last": "2025-12-30"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-05-29",
-      "last_pretty": "29 may 2025"
+      "last": "2025-05-29"
     }
   ]
 }

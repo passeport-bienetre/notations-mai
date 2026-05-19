@@ -5,69 +5,69 @@
   "estabs": [
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-05-12",
-      "last_pretty": "12 may 2026"
+      "last": "2026-05-12"
     },
     {
       "name": "Naïda Massothérapie",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
       "visits": 1,
-      "last": "2026-02-11",
-      "last_pretty": "11 february 2026"
+      "last": "2026-02-11"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-01-17",
-      "last_pretty": "17 january 2026"
+      "last": "2026-01-17"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-10-25",
-      "last_pretty": "25 october 2025"
+      "last": "2025-10-25"
     },
     {
       "name": "Sawatdee Temple",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2025-09-25",
-      "last_pretty": "25 september 2025"
+      "last": "2025-09-25"
     },
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
+      "last": "2025-09-10"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last": "2025-09-02"
     },
     {
       "name": "BuiCil Genève",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last": "2025-09-02"
     },
     {
       "name": "Sawatdee Delices",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-08-12",
-      "last_pretty": "12 august 2025"
+      "last": "2025-08-12"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-08-07",
-      "last_pretty": "07 august 2025"
+      "last": "2025-08-07"
     },
     {
       "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025"
+      "last": "2025-07-24"
     }
   ]
 }

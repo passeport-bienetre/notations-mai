@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-01-15",
-      "last_pretty": "15 january 2026"
+      "last": "2026-01-15"
     },
     {
       "name": "Mon Bonheur Ayurvédique",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
       "visits": 1,
-      "last": "2025-11-27",
-      "last_pretty": "27 november 2025"
+      "last": "2025-11-27"
     },
     {
       "name": "Corps Sains",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
       "visits": 1,
-      "last": "2025-11-17",
-      "last_pretty": "17 november 2025"
+      "last": "2025-11-17"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-10-28",
-      "last_pretty": "28 october 2025"
+      "last": "2025-10-28"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-10-03",
-      "last_pretty": "03 october 2025"
+      "last": "2025-10-03"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-09-20",
-      "last_pretty": "20 september 2025"
+      "last": "2025-09-20"
     }
   ]
 }

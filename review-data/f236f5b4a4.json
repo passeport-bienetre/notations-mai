@@ -5,57 +5,57 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-12-17",
-      "last_pretty": "17 december 2025"
+      "last": "2025-12-17"
     },
     {
       "name": "LES BAINS PUBLICS",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last": "2025-11-28"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last": "2025-11-07"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-10-20",
-      "last_pretty": "20 october 2025"
+      "last": "2025-10-20"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-29",
-      "last_pretty": "29 august 2025"
+      "last": "2025-08-29"
     },
     {
       "name": "Luna aesthetic",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025"
+      "last": "2025-08-22"
     },
     {
       "name": "Bains d&rsquo;Ovronnaz",
+      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
       "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last": "2025-07-10"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last": "2025-07-02"
     },
     {
       "name": "Le Grand Bellevue",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2025-06-20",
-      "last_pretty": "20 june 2025"
+      "last": "2025-06-20"
     }
   ]
 }

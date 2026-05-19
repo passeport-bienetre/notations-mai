@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "COMME SUR UN NUAGE",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
       "visits": 1,
-      "last": "2026-01-13",
-      "last_pretty": "13 january 2026"
+      "last": "2026-01-13"
     },
     {
       "name": "Institut Biotiful",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2025-12-09",
-      "last_pretty": "09 december 2025"
+      "last": "2025-12-09"
     }
   ]
 }

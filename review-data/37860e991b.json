@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last": "2026-02-27"
     },
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2026-02-05",
-      "last_pretty": "05 february 2026"
+      "last": "2026-02-05"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last": "2026-01-23"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2026-01-22",
-      "last_pretty": "22 january 2026"
+      "last": "2026-01-22"
     },
     {
       "name": "L&rsquo;Atelier du Visage",
+      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
       "visits": 1,
-      "last": "2026-01-16",
-      "last_pretty": "16 january 2026"
+      "last": "2026-01-16"
     },
     {
       "name": "Amiia Clinique",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last": "2025-11-14"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-10-13",
-      "last_pretty": "13 october 2025"
+      "last": "2025-10-13"
     }
   ]
 }

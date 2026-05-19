@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2026-04-07",
-      "last_pretty": "07 april 2026"
+      "last": "2026-04-07"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2026-03-15",
-      "last_pretty": "15 march 2026"
+      "last": "2026-03-15"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-12-03",
-      "last_pretty": "03 december 2025"
+      "last": "2025-12-03"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last": "2025-11-01"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
+      "last": "2025-09-10"
     },
     {
       "name": "Europe Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-16",
-      "last_pretty": "16 august 2025"
+      "last": "2025-08-16"
     },
     {
       "name": "Damien &#038; Co",
+      "url": "https://www.bodypass.ch/etablissements/damien-co-3/",
       "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025"
+      "last": "2025-07-08"
     }
   ]
 }

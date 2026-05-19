@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Institut Kaori",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2026-04-20",
-      "last_pretty": "20 april 2026"
+      "last": "2026-04-20"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last": "2026-01-30"
     }
   ]
 }

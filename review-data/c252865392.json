@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-03-17",
-      "last_pretty": "17 march 2026"
+      "last": "2026-03-17"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-02-03",
-      "last_pretty": "03 february 2026"
+      "last": "2026-02-03"
     }
   ]
 }

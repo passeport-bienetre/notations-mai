@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-04-22",
-      "last_pretty": "22 april 2026"
+      "last": "2026-04-22"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-02-06",
-      "last_pretty": "06 february 2026"
+      "last": "2026-02-06"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-07-20",
-      "last_pretty": "20 july 2025"
+      "last": "2025-07-20"
     },
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-05-21",
-      "last_pretty": "21 may 2025"
+      "last": "2025-05-21"
     }
   ]
 }

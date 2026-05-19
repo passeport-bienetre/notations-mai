@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2026-03-25",
-      "last_pretty": "25 march 2026"
+      "last": "2026-03-25"
     },
     {
       "name": "Studio Beauté",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2026-03-24",
-      "last_pretty": "24 march 2026"
+      "last": "2026-03-24"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2026-03-04",
-      "last_pretty": "04 march 2026"
+      "last": "2026-03-04"
     }
   ]
 }

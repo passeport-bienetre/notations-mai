@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025"
+      "last": "2025-06-25"
     },
     {
       "name": "Luna aesthetic",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-06-05",
-      "last_pretty": "05 june 2025"
+      "last": "2025-06-05"
     }
   ]
 }

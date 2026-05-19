@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "GLOW IN GENEVA",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last": "2026-04-29"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last": "2026-04-29"
     },
     {
       "name": "Centre Sattva",
+      "url": "https://www.bodypass.ch/etablissements/centre-sattva/",
       "visits": 1,
-      "last": "2026-04-21",
-      "last_pretty": "21 april 2026"
+      "last": "2026-04-21"
     },
     {
       "name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
+      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
       "visits": 1,
-      "last": "2026-01-22",
-      "last_pretty": "22 january 2026"
+      "last": "2026-01-22"
     }
   ]
 }

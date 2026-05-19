@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Experimental Chalet",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2025-08-03",
-      "last_pretty": "03 august 2025"
+      "last": "2025-08-03"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-05-28",
-      "last_pretty": "28 may 2025"
+      "last": "2025-05-28"
     }
   ]
 }

@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-03-18",
-      "last_pretty": "18 march 2026"
+      "last": "2026-03-18"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2026-01-09",
-      "last_pretty": "09 january 2026"
+      "last": "2026-01-09"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-15",
-      "last_pretty": "15 december 2025"
+      "last": "2025-12-15"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2025-12-10",
-      "last_pretty": "10 december 2025"
+      "last": "2025-12-10"
     },
     {
       "name": "BEAUTY B",
+      "url": "https://www.bodypass.ch/?s=BEAUTY%20B",
       "visits": 1,
-      "last": "2025-09-20",
-      "last_pretty": "20 september 2025"
+      "last": "2025-09-20"
     }
   ]
 }

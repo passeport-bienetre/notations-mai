@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "CS Caro Création Studio",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/",
       "visits": 1,
-      "last": "2026-02-26",
-      "last_pretty": "26 february 2026"
+      "last": "2026-02-26"
     },
     {
       "name": "Serenityblue",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2025-10-25",
-      "last_pretty": "25 october 2025"
+      "last": "2025-10-25"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-07-18",
-      "last_pretty": "18 july 2025"
+      "last": "2025-07-18"
     }
   ]
 }

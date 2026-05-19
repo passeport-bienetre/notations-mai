@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2026-04-18",
-      "last_pretty": "18 april 2026"
+      "last": "2026-04-18"
     },
     {
       "name": "Le St-Gervais Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-03",
-      "last_pretty": "03 january 2026"
+      "last": "2026-01-03"
     }
   ]
 }

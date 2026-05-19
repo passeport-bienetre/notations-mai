@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2026-04-30",
-      "last_pretty": "30 april 2026"
+      "last": "2026-04-30"
     },
     {
       "name": "BEAUTY B",
+      "url": "https://www.bodypass.ch/?s=BEAUTY%20B",
       "visits": 1,
-      "last": "2026-04-24",
-      "last_pretty": "24 april 2026"
+      "last": "2026-04-24"
     },
     {
       "name": "INTUITIVE JESS",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/",
       "visits": 1,
-      "last": "2026-01-16",
-      "last_pretty": "16 january 2026"
+      "last": "2026-01-16"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     }
   ]
 }

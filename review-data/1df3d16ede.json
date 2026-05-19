@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-12-10",
-      "last_pretty": "10 december 2025"
+      "last": "2025-12-10"
     },
     {
       "name": "Institut Kaori",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2025-11-27",
-      "last_pretty": "27 november 2025"
+      "last": "2025-11-27"
     },
     {
       "name": "Anita Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last": "2025-11-07"
     },
     {
       "name": "MYO Style",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2025-11-05",
-      "last_pretty": "05 november 2025"
+      "last": "2025-11-05"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2026-04-24",
-      "last_pretty": "24 april 2026"
+      "last": "2026-04-24"
     },
     {
       "name": "RUBIS SPA",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-04-07",
-      "last_pretty": "07 april 2026"
+      "last": "2026-04-07"
     },
     {
       "name": "BEAUTY CONCEPT PULLY",
+      "url": "https://www.bodypass.ch/?s=BEAUTY%20CONCEPT%20PULLY",
       "visits": 1,
-      "last": "2026-03-02",
-      "last_pretty": "02 march 2026"
+      "last": "2026-03-02"
     },
     {
       "name": "Institut Beauté Bertmans",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last": "2026-02-27"
     }
   ]
 }

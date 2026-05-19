@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "AVEDA VIEILLE-VILLE",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2025-12-06",
-      "last_pretty": "06 december 2025"
+      "last": "2025-12-06"
     },
     {
       "name": "La Coifferie",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2025-10-22",
-      "last_pretty": "22 october 2025"
+      "last": "2025-10-22"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-05-21",
-      "last_pretty": "21 may 2025"
+      "last": "2025-05-21"
     }
   ]
 }

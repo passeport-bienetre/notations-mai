@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Mon Bonheur Ayurvédique",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
       "visits": 1,
-      "last": "2026-04-09",
-      "last_pretty": "09 april 2026"
+      "last": "2026-04-09"
     },
     {
       "name": "ERINGER INSTITUT",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last": "2026-02-27"
     }
   ]
 }

@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Sawatdee Temple",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last": "2026-04-10"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-03-28",
-      "last_pretty": "28 march 2026"
+      "last": "2026-03-28"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last": "2026-02-27"
     },
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2026-01-13",
-      "last_pretty": "13 january 2026"
+      "last": "2026-01-13"
     },
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-09-19",
-      "last_pretty": "19 september 2025"
+      "last": "2025-09-19"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-08-06",
-      "last_pretty": "06 august 2025"
+      "last": "2025-08-06"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-06-11",
-      "last_pretty": "11 june 2025"
+      "last": "2025-06-11"
     }
   ]
 }

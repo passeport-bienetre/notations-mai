@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "Arte Beauty EHL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2026-05-04",
-      "last_pretty": "04 may 2026"
+      "last": "2026-05-04"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-04-09",
-      "last_pretty": "09 april 2026"
+      "last": "2026-04-09"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-03-10",
-      "last_pretty": "10 march 2026"
+      "last": "2026-03-10"
     },
     {
       "name": "Luna aesthetic",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-12-16",
-      "last_pretty": "16 december 2025"
+      "last": "2025-12-16"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-11-10",
-      "last_pretty": "10 november 2025"
+      "last": "2025-11-10"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-09-17",
-      "last_pretty": "17 september 2025"
+      "last": "2025-09-17"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-09-03",
-      "last_pretty": "03 september 2025"
+      "last": "2025-09-03"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-07-29",
-      "last_pretty": "29 july 2025"
+      "last": "2025-07-29"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025"
+      "last": "2025-07-24"
     },
     {
       "name": "Karré Long",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last": "2025-07-02"
     }
   ]
 }

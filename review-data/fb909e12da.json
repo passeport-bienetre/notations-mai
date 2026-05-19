@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-03-13",
-      "last_pretty": "13 march 2026"
+      "last": "2026-03-13"
     },
     {
       "name": "BEAUTY CONCEPT PULLY",
+      "url": "https://www.bodypass.ch/?s=BEAUTY%20CONCEPT%20PULLY",
       "visits": 1,
-      "last": "2026-02-28",
-      "last_pretty": "28 february 2026"
+      "last": "2026-02-28"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-10-02",
-      "last_pretty": "02 october 2025"
+      "last": "2025-10-02"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-06-19",
-      "last_pretty": "19 june 2025"
+      "last": "2025-06-19"
     }
   ]
 }

@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-01-15",
-      "last_pretty": "15 january 2026"
+      "last": "2026-01-15"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-17",
-      "last_pretty": "17 december 2025"
+      "last": "2025-12-17"
     },
     {
       "name": "La Coifferie",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2025-10-22",
-      "last_pretty": "22 october 2025"
+      "last": "2025-10-22"
     },
     {
       "name": "Le Cabinet de Beauté",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025"
+      "last": "2025-10-15"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-08-27",
-      "last_pretty": "27 august 2025"
+      "last": "2025-08-27"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-06-18",
-      "last_pretty": "18 june 2025"
+      "last": "2025-06-18"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-05-23",
-      "last_pretty": "23 may 2025"
+      "last": "2025-05-23"
     }
   ]
 }

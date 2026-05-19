@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-04-30",
-      "last_pretty": "30 april 2026"
+      "last": "2026-04-30"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-12-18",
-      "last_pretty": "18 december 2025"
+      "last": "2025-12-18"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-12-05",
-      "last_pretty": "05 december 2025"
+      "last": "2025-12-05"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-11-12",
-      "last_pretty": "12 november 2025"
+      "last": "2025-11-12"
     }
   ]
 }

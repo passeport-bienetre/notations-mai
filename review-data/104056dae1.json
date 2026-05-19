@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-03-09",
-      "last_pretty": "09 march 2026"
+      "last": "2026-03-09"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last": "2026-02-14"
     },
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025"
+      "last": "2025-12-30"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-12-11",
-      "last_pretty": "11 december 2025"
+      "last": "2025-12-11"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025"
+      "last": "2025-08-14"
     }
   ]
 }

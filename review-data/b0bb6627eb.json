@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-01-15",
-      "last_pretty": "15 january 2026"
+      "last": "2026-01-15"
     },
     {
       "name": "GLOW IN GENEVA",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-09-03",
-      "last_pretty": "03 september 2025"
+      "last": "2025-09-03"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-06-14",
-      "last_pretty": "14 june 2025"
+      "last": "2025-06-14"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-05-30",
-      "last_pretty": "30 may 2025"
+      "last": "2025-05-30"
     }
   ]
 }

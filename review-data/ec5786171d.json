@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-01-27",
-      "last_pretty": "27 january 2026"
+      "last": "2026-01-27"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-01-27",
-      "last_pretty": "27 january 2026"
+      "last": "2026-01-27"
     },
     {
       "name": "Corps Sains",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
       "visits": 1,
-      "last": "2026-01-26",
-      "last_pretty": "26 january 2026"
+      "last": "2026-01-26"
     }
   ]
 }

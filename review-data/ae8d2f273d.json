@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-04-27",
-      "last_pretty": "27 april 2026"
+      "last": "2026-04-27"
     },
     {
       "name": "Nueva Luna Yoga",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2026-03-08",
-      "last_pretty": "08 march 2026"
+      "last": "2026-03-08"
     }
   ]
 }

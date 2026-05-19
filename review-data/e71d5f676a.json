@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-12-26",
-      "last_pretty": "26 december 2025"
+      "last": "2025-12-26"
     },
     {
       "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "url": "https://www.bodypass.ch/etablissements/namaka/",
       "visits": 1,
-      "last": "2025-12-14",
-      "last_pretty": "14 december 2025"
+      "last": "2025-12-14"
     },
     {
       "name": "Parallèles Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-11-22",
-      "last_pretty": "22 november 2025"
+      "last": "2025-11-22"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025"
+      "last": "2025-07-24"
     }
   ]
 }

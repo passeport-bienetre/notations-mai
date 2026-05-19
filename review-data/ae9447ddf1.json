@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-04-20",
-      "last_pretty": "20 april 2026"
+      "last": "2026-04-20"
     },
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-04-13",
-      "last_pretty": "13 april 2026"
+      "last": "2026-04-13"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-12-20",
-      "last_pretty": "20 december 2025"
+      "last": "2025-12-20"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last": "2025-07-11"
     }
   ]
 }

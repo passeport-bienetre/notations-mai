@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-09-16",
-      "last_pretty": "16 september 2025"
+      "last": "2025-09-16"
     },
     {
       "name": "Espace Beauté Sarah",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2025-09-15",
-      "last_pretty": "15 september 2025"
+      "last": "2025-09-15"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2025-06-28",
-      "last_pretty": "28 june 2025"
+      "last": "2025-06-28"
     }
   ]
 }

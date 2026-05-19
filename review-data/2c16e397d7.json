@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Salon Privé Ecublens",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2025-12-13",
-      "last_pretty": "13 december 2025"
+      "last": "2025-12-13"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-10-20",
-      "last_pretty": "20 october 2025"
+      "last": "2025-10-20"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Luna aesthetic",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2026-05-08",
-      "last_pretty": "08 may 2026"
+      "last": "2026-05-08"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-05-01",
-      "last_pretty": "01 may 2026"
+      "last": "2026-05-01"
     },
     {
       "name": "Institut ZenSkin",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2026-04-02",
-      "last_pretty": "02 april 2026"
+      "last": "2026-04-02"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-01-28",
-      "last_pretty": "28 january 2026"
+      "last": "2026-01-28"
     }
   ]
 }

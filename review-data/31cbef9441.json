@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Hôtel de Rougemont &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last": "2026-02-19"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-02-04",
-      "last_pretty": "04 february 2026"
+      "last": "2026-02-04"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last": "2025-12-19"
     },
     {
       "name": "Anzère SPA &#038; Wellness",
+      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "visits": 1,
-      "last": "2025-11-19",
-      "last_pretty": "19 november 2025"
+      "last": "2025-11-19"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last": "2025-10-29"
     },
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-10-18",
-      "last_pretty": "18 october 2025"
+      "last": "2025-10-18"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-08-16",
-      "last_pretty": "16 august 2025"
+      "last": "2025-08-16"
     }
   ]
 }

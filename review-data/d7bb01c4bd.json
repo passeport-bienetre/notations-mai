@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Origin Float Spa",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/",
       "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last": "2026-03-12"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-02-28",
-      "last_pretty": "28 february 2026"
+      "last": "2026-02-28"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-02-26",
-      "last_pretty": "26 february 2026"
+      "last": "2026-02-26"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last": "2026-01-30"
     }
   ]
 }

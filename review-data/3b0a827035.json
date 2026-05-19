@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Odyssée Santé &#038; Beauté",
+      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "visits": 1,
-      "last": "2025-11-19",
-      "last_pretty": "19 november 2025"
+      "last": "2025-11-19"
     },
     {
       "name": "Fairmont le Montreux Palace",
+      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-08-11",
-      "last_pretty": "11 august 2025"
+      "last": "2025-08-11"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-06-04",
-      "last_pretty": "04 june 2025"
+      "last": "2025-06-04"
     },
     {
       "name": "Nirvana Spa",
+      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-05-26",
-      "last_pretty": "26 may 2025"
+      "last": "2025-05-26"
     }
   ]
 }

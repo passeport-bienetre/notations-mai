@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "AVEDA VIEILLE-VILLE",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2025-11-21",
-      "last_pretty": "21 november 2025"
+      "last": "2025-11-21"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     }
   ]
 }

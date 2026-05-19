@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Institut Beauté Bertmans",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2026-04-09",
-      "last_pretty": "09 april 2026"
+      "last": "2026-04-09"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-03-04",
-      "last_pretty": "04 march 2026"
+      "last": "2026-03-04"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-11-29",
-      "last_pretty": "29 november 2025"
+      "last": "2025-11-29"
     },
     {
       "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-11-19",
-      "last_pretty": "19 november 2025"
+      "last": "2025-11-19"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-11-11",
-      "last_pretty": "11 november 2025"
+      "last": "2025-11-11"
     }
   ]
 }

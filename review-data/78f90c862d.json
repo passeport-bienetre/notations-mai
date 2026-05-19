@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "La VILLA Kobido et Massage",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/",
       "visits": 1,
-      "last": "2025-11-25",
-      "last_pretty": "25 november 2025"
+      "last": "2025-11-25"
     },
     {
       "name": "Le Grand Bellevue",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2025-09-21",
-      "last_pretty": "21 september 2025"
+      "last": "2025-09-21"
     },
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2025-07-18",
-      "last_pretty": "18 july 2025"
+      "last": "2025-07-18"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-07-15",
-      "last_pretty": "15 july 2025"
+      "last": "2025-07-15"
     }
   ]
 }

@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "L&rsquo;Atelier du Visage",
+      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
       "visits": 1,
-      "last": "2026-05-13",
-      "last_pretty": "13 may 2026"
+      "last": "2026-05-13"
     },
     {
       "name": "Tempête de Calme",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
       "visits": 1,
-      "last": "2026-05-01",
-      "last_pretty": "01 may 2026"
+      "last": "2026-05-01"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2026-04-24",
-      "last_pretty": "24 april 2026"
+      "last": "2026-04-24"
     },
     {
       "name": "Les Sources des Alpes",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last": "2026-02-27"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last": "2025-12-19"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-06-18",
-      "last_pretty": "18 june 2025"
+      "last": "2025-06-18"
     }
   ]
 }

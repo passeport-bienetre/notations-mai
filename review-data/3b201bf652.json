@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Vogue La Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
       "visits": 1,
-      "last": "2026-03-19",
-      "last_pretty": "19 march 2026"
+      "last": "2026-03-19"
     },
     {
       "name": "Atmosp&rsquo;hair",
+      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2026-02-11",
-      "last_pretty": "11 february 2026"
+      "last": "2026-02-11"
     },
     {
       "name": "Crans Ambassador Spa",
+      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2026-02-06",
-      "last_pretty": "06 february 2026"
+      "last": "2026-02-06"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2026-01-13",
-      "last_pretty": "13 january 2026"
+      "last": "2026-01-13"
     }
   ]
 }

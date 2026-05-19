@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last": "2025-10-16"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-10-07",
-      "last_pretty": "07 october 2025"
+      "last": "2025-10-07"
     }
   ]
 }

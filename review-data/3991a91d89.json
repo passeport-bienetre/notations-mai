@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Amiia Clinique",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2026-03-24",
-      "last_pretty": "24 march 2026"
+      "last": "2026-03-24"
     },
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-03-23",
-      "last_pretty": "23 march 2026"
+      "last": "2026-03-23"
     },
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026"
+      "last": "2026-02-12"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-07-01",
-      "last_pretty": "01 july 2025"
+      "last": "2025-07-01"
     }
   ]
 }

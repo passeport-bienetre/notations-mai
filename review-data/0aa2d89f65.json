@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Belle et Naturelle",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-02-11",
-      "last_pretty": "11 february 2026"
+      "last": "2026-02-11"
     },
     {
       "name": "GLOW IN GENEVA",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2026-02-10",
-      "last_pretty": "10 february 2026"
+      "last": "2026-02-10"
     },
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-11-09",
-      "last_pretty": "09 november 2025"
+      "last": "2025-11-09"
     }
   ]
 }

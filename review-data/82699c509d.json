@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-04-01",
-      "last_pretty": "01 april 2026"
+      "last": "2026-04-01"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-03-06",
-      "last_pretty": "06 march 2026"
+      "last": "2026-03-06"
     }
   ]
 }

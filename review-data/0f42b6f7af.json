@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "LES TRESOMS",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2026-05-14",
-      "last_pretty": "14 may 2026"
+      "last": "2026-05-14"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-04-22",
-      "last_pretty": "22 april 2026"
+      "last": "2026-04-22"
     },
     {
       "name": "Luna aesthetic",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2026-03-11",
-      "last_pretty": "11 march 2026"
+      "last": "2026-03-11"
     }
   ]
 }

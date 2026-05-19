@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-05-15",
-      "last_pretty": "15 may 2026"
+      "last": "2026-05-15"
     },
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last": "2026-04-10"
     },
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-03-21",
-      "last_pretty": "21 march 2026"
+      "last": "2026-03-21"
     },
     {
       "name": "Bhumi",
+      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-12-24",
-      "last_pretty": "24 december 2025"
+      "last": "2025-12-24"
     },
     {
       "name": "La Coifferie",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2025-11-26",
-      "last_pretty": "26 november 2025"
+      "last": "2025-11-26"
     },
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-08-18",
-      "last_pretty": "18 august 2025"
+      "last": "2025-08-18"
     },
     {
       "name": "Ipanema Beauté",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     }
   ]
 }

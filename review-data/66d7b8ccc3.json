@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Sawatdee Delices",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last": "2025-12-19"
     },
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2025-11-12",
-      "last_pretty": "12 november 2025"
+      "last": "2025-11-12"
     }
   ]
 }

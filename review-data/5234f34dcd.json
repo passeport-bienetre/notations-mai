@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-05-24",
-      "last_pretty": "24 may 2025"
+      "last": "2025-05-24"
     }
   ]
 }

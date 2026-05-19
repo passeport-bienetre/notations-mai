@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-03-07",
-      "last_pretty": "07 march 2026"
+      "last": "2026-03-07"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2026-03-02",
-      "last_pretty": "02 march 2026"
+      "last": "2026-03-02"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-10-25",
-      "last_pretty": "25 october 2025"
+      "last": "2025-10-25"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-10-11",
-      "last_pretty": "11 october 2025"
+      "last": "2025-10-11"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-03",
-      "last_pretty": "03 october 2025"
+      "last": "2025-10-03"
     }
   ]
 }

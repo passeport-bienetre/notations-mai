@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-03-23",
-      "last_pretty": "23 march 2026"
+      "last": "2026-03-23"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-02-22",
-      "last_pretty": "22 february 2026"
+      "last": "2026-02-22"
     }
   ]
 }

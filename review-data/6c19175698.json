@@ -5,69 +5,69 @@
   "estabs": [
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last": "2026-02-27"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-02-07",
-      "last_pretty": "07 february 2026"
+      "last": "2026-02-07"
     },
     {
       "name": "Arte Beauty EHL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2026-01-28",
-      "last_pretty": "28 january 2026"
+      "last": "2026-01-28"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-12-26",
-      "last_pretty": "26 december 2025"
+      "last": "2025-12-26"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
+      "last": "2025-10-08"
     },
     {
       "name": "Karré Long",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2025-10-04",
-      "last_pretty": "04 october 2025"
+      "last": "2025-10-04"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-07-04",
-      "last_pretty": "04 july 2025"
+      "last": "2025-07-04"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last": "2025-07-02"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last": "2025-06-26"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-06-11",
-      "last_pretty": "11 june 2025"
+      "last": "2025-06-11"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-05-26",
-      "last_pretty": "26 may 2025"
+      "last": "2025-05-26"
     }
   ]
 }

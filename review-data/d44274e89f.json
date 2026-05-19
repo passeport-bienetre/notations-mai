@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Fairmont le Montreux Palace",
+      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-06-24",
-      "last_pretty": "24 june 2025"
+      "last": "2025-06-24"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-05-22",
-      "last_pretty": "22 may 2025"
+      "last": "2025-05-22"
     }
   ]
 }

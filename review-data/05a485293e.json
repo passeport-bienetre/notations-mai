@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hairmania",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2026-03-13",
-      "last_pretty": "13 march 2026"
+      "last": "2026-03-13"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-18",
-      "last_pretty": "18 january 2026"
+      "last": "2026-01-18"
     }
   ]
 }

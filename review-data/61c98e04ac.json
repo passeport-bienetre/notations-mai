@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Corps Sains",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
       "visits": 1,
-      "last": "2025-09-18",
-      "last_pretty": "18 september 2025"
+      "last": "2025-09-18"
     },
     {
       "name": "NUANCES NATURE",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025"
+      "last": "2025-08-22"
     },
     {
       "name": "Sawatdee Delices",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-06-12",
-      "last_pretty": "12 june 2025"
+      "last": "2025-06-12"
     }
   ]
 }

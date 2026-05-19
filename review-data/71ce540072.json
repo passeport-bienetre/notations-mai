@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2026-01-25",
-      "last_pretty": "25 january 2026"
+      "last": "2026-01-25"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-01-20",
-      "last_pretty": "20 january 2026"
+      "last": "2026-01-20"
     }
   ]
 }

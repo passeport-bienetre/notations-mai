@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Ipanema Beauté",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
       "visits": 1,
-      "last": "2026-05-08",
-      "last_pretty": "08 may 2026"
+      "last": "2026-05-08"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-11-21",
-      "last_pretty": "21 november 2025"
+      "last": "2025-11-21"
     },
     {
       "name": "So Hair",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/",
       "visits": 1,
-      "last": "2025-11-11",
-      "last_pretty": "11 november 2025"
+      "last": "2025-11-11"
     },
     {
       "name": "Bhumi",
+      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-09-04",
-      "last_pretty": "04 september 2025"
+      "last": "2025-09-04"
     },
     {
       "name": "19Th Avenue &#8211; Thonex",
+      "url": "https://www.bodypass.ch/?s=19Th%20Avenue%20%E2%80%93%20Thonex",
       "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025"
+      "last": "2025-08-14"
     },
     {
       "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "visits": 1,
-      "last": "2025-08-02",
-      "last_pretty": "02 august 2025"
+      "last": "2025-08-02"
     },
     {
       "name": "Belle et Naturelle",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last": "2025-07-02"
     }
   ]
 }

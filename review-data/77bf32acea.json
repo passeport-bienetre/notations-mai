@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-02-20",
-      "last_pretty": "20 february 2026"
+      "last": "2026-02-20"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last": "2026-02-19"
     },
     {
       "name": "Karré Long",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last": "2026-02-14"
     },
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-01-06",
-      "last_pretty": "06 january 2026"
+      "last": "2026-01-06"
     }
   ]
 }

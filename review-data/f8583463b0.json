@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last": "2025-07-11"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-05-23",
-      "last_pretty": "23 may 2025"
+      "last": "2025-05-23"
     }
   ]
 }

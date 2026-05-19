@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-03-06",
-      "last_pretty": "06 march 2026"
+      "last": "2026-03-06"
     },
     {
       "name": "Espace Beauté Sarah",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2026-02-05",
-      "last_pretty": "05 february 2026"
+      "last": "2026-02-05"
     },
     {
       "name": "Institut ZenSkin",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2026-01-21",
-      "last_pretty": "21 january 2026"
+      "last": "2026-01-21"
     },
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-01-13",
-      "last_pretty": "13 january 2026"
+      "last": "2026-01-13"
     }
   ]
 }

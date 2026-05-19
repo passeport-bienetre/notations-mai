@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025"
+      "last": "2025-12-30"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last": "2025-10-29"
     }
   ]
 }

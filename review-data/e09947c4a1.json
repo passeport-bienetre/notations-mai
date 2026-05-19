@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-11-10",
-      "last_pretty": "10 november 2025"
+      "last": "2025-11-10"
     },
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-11-09",
-      "last_pretty": "09 november 2025"
+      "last": "2025-11-09"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-10-02",
-      "last_pretty": "02 october 2025"
+      "last": "2025-10-02"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-09-19",
-      "last_pretty": "19 september 2025"
+      "last": "2025-09-19"
     },
     {
       "name": "Studio Beauté",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2025-09-18",
-      "last_pretty": "18 september 2025"
+      "last": "2025-09-18"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last": "2025-09-02"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "BuiCil Genève",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last": "2025-07-11"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-05-28",
-      "last_pretty": "28 may 2025"
+      "last": "2025-05-28"
     }
   ]
 }

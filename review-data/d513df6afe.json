@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "ALEX COIFFURE SARL",
+      "url": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
       "visits": 1,
-      "last": "2026-05-13",
-      "last_pretty": "13 may 2026"
+      "last": "2026-05-13"
     },
     {
       "name": "Fjacco Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/fjacco-coiffure/",
       "visits": 1,
-      "last": "2026-01-07",
-      "last_pretty": "07 january 2026"
+      "last": "2026-01-07"
     }
   ]
 }

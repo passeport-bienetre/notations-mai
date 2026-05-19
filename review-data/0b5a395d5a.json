@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-11-30",
-      "last_pretty": "30 november 2025"
+      "last": "2025-11-30"
     },
     {
       "name": "LES TRESOMS",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last": "2025-11-28"
     }
   ]
 }

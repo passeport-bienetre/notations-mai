@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Centre de bien-être J&#038;J",
+      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "visits": 1,
-      "last": "2026-02-21",
-      "last_pretty": "21 february 2026"
+      "last": "2026-02-21"
     },
     {
       "name": "Organik Beauty",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2026-01-29",
-      "last_pretty": "29 january 2026"
+      "last": "2026-01-29"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025"
+      "last": "2025-08-30"
     }
   ]
 }

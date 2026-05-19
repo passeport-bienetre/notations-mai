@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-12-16",
-      "last_pretty": "16 december 2025"
+      "last": "2025-12-16"
     },
     {
       "name": "ERINGER INSTITUT",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-11-19",
-      "last_pretty": "19 november 2025"
+      "last": "2025-11-19"
     }
   ]
 }

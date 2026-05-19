@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2025-08-02",
-      "last_pretty": "02 august 2025"
+      "last": "2025-08-02"
     },
     {
       "name": "Noemi Spataro Esthétique",
+      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-07-18",
-      "last_pretty": "18 july 2025"
+      "last": "2025-07-18"
     }
   ]
 }

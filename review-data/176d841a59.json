@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LECRANS HOTEL &#038; SPA",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2026-03-02",
-      "last_pretty": "02 march 2026"
+      "last": "2026-03-02"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-02-20",
-      "last_pretty": "20 february 2026"
+      "last": "2026-02-20"
     }
   ]
 }

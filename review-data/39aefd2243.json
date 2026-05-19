@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Flocoon Spa Cinq Mondes",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2025-12-29",
-      "last_pretty": "29 december 2025"
+      "last": "2025-12-29"
     },
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-11-15",
-      "last_pretty": "15 november 2025"
+      "last": "2025-11-15"
     },
     {
       "name": "Crans Ambassador Spa",
+      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2025-08-01",
-      "last_pretty": "01 august 2025"
+      "last": "2025-08-01"
     },
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     }
   ]
 }

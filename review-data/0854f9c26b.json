@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Organik Beauty",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2026-01-12",
-      "last_pretty": "12 january 2026"
+      "last": "2026-01-12"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-12-10",
-      "last_pretty": "10 december 2025"
+      "last": "2025-12-10"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
+      "last": "2025-10-08"
     },
     {
       "name": "Crans Ambassador Spa",
+      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     }
   ]
 }

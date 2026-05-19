@@ -5,69 +5,69 @@
   "estabs": [
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-04-21",
-      "last_pretty": "21 april 2026"
+      "last": "2026-04-21"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-04-08",
-      "last_pretty": "08 april 2026"
+      "last": "2026-04-08"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-03-25",
-      "last_pretty": "25 march 2026"
+      "last": "2026-03-25"
     },
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-03-21",
-      "last_pretty": "21 march 2026"
+      "last": "2026-03-21"
     },
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last": "2026-02-19"
     },
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-01-26",
-      "last_pretty": "26 january 2026"
+      "last": "2026-01-26"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last": "2025-10-29"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-08-23",
-      "last_pretty": "23 august 2025"
+      "last": "2025-08-23"
     },
     {
       "name": "Institut Bienitude &#038; Bienitude Natura",
+      "url": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/",
       "visits": 1,
-      "last": "2025-08-20",
-      "last_pretty": "20 august 2025"
+      "last": "2025-08-20"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     },
     {
       "name": "Noemi Spataro Esthétique",
+      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-07-22",
-      "last_pretty": "22 july 2025"
+      "last": "2025-07-22"
     }
   ]
 }

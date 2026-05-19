@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2026-04-13",
-      "last_pretty": "13 april 2026"
+      "last": "2026-04-13"
     },
     {
       "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "visits": 1,
-      "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last": "2026-03-27"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-01-10",
-      "last_pretty": "10 january 2026"
+      "last": "2026-01-10"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-11-10",
-      "last_pretty": "10 november 2025"
+      "last": "2025-11-10"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-05-21",
-      "last_pretty": "21 may 2025"
+      "last": "2025-05-21"
     }
   ]
 }

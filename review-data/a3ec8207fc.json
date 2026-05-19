@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-01-05",
-      "last_pretty": "05 january 2026"
+      "last": "2026-01-05"
     },
     {
       "name": "Nueva Luna Yoga",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2025-11-24",
-      "last_pretty": "24 november 2025"
+      "last": "2025-11-24"
     }
   ]
 }

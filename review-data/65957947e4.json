@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty EHL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2025-09-25",
-      "last_pretty": "25 september 2025"
+      "last": "2025-09-25"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last": "2025-09-02"
     }
   ]
 }

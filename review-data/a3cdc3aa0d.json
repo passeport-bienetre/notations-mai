@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-04-07",
-      "last_pretty": "07 april 2026"
+      "last": "2026-04-07"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
+      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2025-09-27",
-      "last_pretty": "27 september 2025"
+      "last": "2025-09-27"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025"
+      "last": "2025-07-24"
     }
   ]
 }

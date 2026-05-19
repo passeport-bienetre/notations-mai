@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-25",
-      "last_pretty": "25 november 2025"
+      "last": "2025-11-25"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-09-26",
-      "last_pretty": "26 september 2025"
+      "last": "2025-09-26"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-09-09",
-      "last_pretty": "09 september 2025"
+      "last": "2025-09-09"
     },
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-06-13",
-      "last_pretty": "13 june 2025"
+      "last": "2025-06-13"
     }
   ]
 }

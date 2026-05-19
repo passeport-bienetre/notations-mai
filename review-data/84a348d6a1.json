@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Hairmania",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2026-03-13",
-      "last_pretty": "13 march 2026"
+      "last": "2026-03-13"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last": "2025-11-28"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last": "2025-11-07"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-08-29",
-      "last_pretty": "29 august 2025"
+      "last": "2025-08-29"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut Kaori",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last": "2026-03-12"
     },
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last": "2026-01-30"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last": "2025-06-26"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-06-12",
-      "last_pretty": "12 june 2025"
+      "last": "2025-06-12"
     }
   ]
 }

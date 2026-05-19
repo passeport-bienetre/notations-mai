@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2026-01-09",
-      "last_pretty": "09 january 2026"
+      "last": "2026-01-09"
     },
     {
       "name": "Le Cabinet de Beauté",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2025-11-13",
-      "last_pretty": "13 november 2025"
+      "last": "2025-11-13"
     },
     {
       "name": "Le St-Gervais Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last": "2025-11-01"
     }
   ]
 }

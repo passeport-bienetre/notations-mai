@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-05-14",
-      "last_pretty": "14 may 2026"
+      "last": "2026-05-14"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Eva",
+      "url": "https://www.bodypass.ch/?s=LE%20CENTRE%20GEN%C3%88VE%20BY%20CHARLINE%20%E2%80%93%20Eva",
       "visits": 1,
-      "last": "2026-03-24",
-      "last_pretty": "24 march 2026"
+      "last": "2026-03-24"
     }
   ]
 }

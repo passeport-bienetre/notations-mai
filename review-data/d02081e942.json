@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-05-05",
-      "last_pretty": "05 may 2026"
+      "last": "2026-05-05"
     },
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-02-28",
-      "last_pretty": "28 february 2026"
+      "last": "2026-02-28"
     },
     {
       "name": "LES BAINS PUBLICS",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-02-23",
-      "last_pretty": "23 february 2026"
+      "last": "2026-02-23"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-02-20",
-      "last_pretty": "20 february 2026"
+      "last": "2026-02-20"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last": "2025-11-14"
     },
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last": "2025-11-14"
     }
   ]
 }

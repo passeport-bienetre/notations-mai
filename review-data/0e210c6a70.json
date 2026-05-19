@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Amiia Clinique",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2026-05-08",
-      "last_pretty": "08 may 2026"
+      "last": "2026-05-08"
     },
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025"
+      "last": "2025-12-30"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LAUSANNE PALACE",
+      "url": "https://www.bodypass.ch/?s=LAUSANNE%20PALACE",
       "visits": 1,
-      "last": "2026-03-16",
-      "last_pretty": "16 march 2026"
+      "last": "2026-03-16"
     },
     {
       "name": "Le Grand Bellevue",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2026-02-15",
-      "last_pretty": "15 february 2026"
+      "last": "2026-02-15"
     }
   ]
 }

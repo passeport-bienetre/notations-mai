@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut ZenSkin",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2025-10-30",
-      "last_pretty": "30 october 2025"
+      "last": "2025-10-30"
     },
     {
       "name": "Odyssée Santé &#038; Beauté",
+      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "visits": 1,
-      "last": "2025-10-17",
-      "last_pretty": "17 october 2025"
+      "last": "2025-10-17"
     },
     {
       "name": "Salon Privé Ecublens",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2025-10-09",
-      "last_pretty": "09 october 2025"
+      "last": "2025-10-09"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025"
+      "last": "2025-08-14"
     }
   ]
 }

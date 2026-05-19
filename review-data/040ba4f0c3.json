@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Belle et Naturelle",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2025-08-13",
-      "last_pretty": "13 august 2025"
+      "last": "2025-08-13"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-07-09",
-      "last_pretty": "09 july 2025"
+      "last": "2025-07-09"
     }
   ]
 }

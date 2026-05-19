@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2026-04-04",
-      "last_pretty": "04 april 2026"
+      "last": "2026-04-04"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-11-27",
-      "last_pretty": "27 november 2025"
+      "last": "2025-11-27"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-10-11",
-      "last_pretty": "11 october 2025"
+      "last": "2025-10-11"
     }
   ]
 }

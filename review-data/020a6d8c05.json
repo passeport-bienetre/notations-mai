@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Institut Biotiful",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2026-04-01",
-      "last_pretty": "01 april 2026"
+      "last": "2026-04-01"
     },
     {
       "name": "Institut Beauté d&rsquo;Or",
+      "url": "https://www.bodypass.ch/?s=Institut%20Beaut%C3%A9%20d%E2%80%99Or",
       "visits": 1,
-      "last": "2026-02-06",
-      "last_pretty": "06 february 2026"
+      "last": "2026-02-06"
     },
     {
       "name": "Serenityblue",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2025-09-20",
-      "last_pretty": "20 september 2025"
+      "last": "2025-09-20"
     }
   ]
 }

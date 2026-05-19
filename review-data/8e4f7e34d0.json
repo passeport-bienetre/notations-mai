@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "ÂM SOEURS",
+      "url": "https://www.bodypass.ch/?s=%C3%82M%20SOEURS",
       "visits": 1,
-      "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last": "2026-03-27"
     },
     {
       "name": "Le Cabinet de Beauté",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last": "2025-10-29"
     },
     {
       "name": "Parallèles Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
+      "last": "2025-10-08"
     }
   ]
 }

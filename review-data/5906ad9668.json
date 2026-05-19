@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-01-17",
-      "last_pretty": "17 january 2026"
+      "last": "2026-01-17"
     },
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2025-12-29",
-      "last_pretty": "29 december 2025"
+      "last": "2025-12-29"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-12-24",
-      "last_pretty": "24 december 2025"
+      "last": "2025-12-24"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-10-11",
-      "last_pretty": "11 october 2025"
+      "last": "2025-10-11"
     },
     {
       "name": "Noemi Spataro Esthétique",
+      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-07-23",
-      "last_pretty": "23 july 2025"
+      "last": "2025-07-23"
     }
   ]
 }

@@ -5,51 +5,51 @@
   "estabs": [
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-04-28",
-      "last_pretty": "28 april 2026"
+      "last": "2026-04-28"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-04-04",
-      "last_pretty": "04 april 2026"
+      "last": "2026-04-04"
     },
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-03-18",
-      "last_pretty": "18 march 2026"
+      "last": "2026-03-18"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last": "2026-03-12"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last": "2025-11-14"
     },
     {
       "name": "Hôtel Schweizerhof Bern &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-26",
-      "last_pretty": "26 september 2025"
+      "last": "2025-09-26"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-29",
-      "last_pretty": "29 august 2025"
+      "last": "2025-08-29"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-08-23",
-      "last_pretty": "23 august 2025"
+      "last": "2025-08-23"
     }
   ]
 }

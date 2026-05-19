@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "CS Caro Création Studio",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/",
       "visits": 1,
-      "last": "2026-04-24",
-      "last_pretty": "24 april 2026"
+      "last": "2026-04-24"
     },
     {
       "name": "Simple Passion",
+      "url": "https://www.bodypass.ch/etablissements/simple-passion/",
       "visits": 1,
-      "last": "2026-04-22",
-      "last_pretty": "22 april 2026"
+      "last": "2026-04-22"
     },
     {
       "name": "Serenityblue",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2025-11-11",
-      "last_pretty": "11 november 2025"
+      "last": "2025-11-11"
     },
     {
       "name": "Institut Biotiful",
+      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2025-08-19",
-      "last_pretty": "19 august 2025"
+      "last": "2025-08-19"
     }
   ]
 }

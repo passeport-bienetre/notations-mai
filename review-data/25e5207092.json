@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-03-19",
-      "last_pretty": "19 march 2026"
+      "last": "2026-03-19"
     },
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-01-13",
-      "last_pretty": "13 january 2026"
+      "last": "2026-01-13"
     },
     {
       "name": "La VILLA Kobido et Massage",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-12-09",
-      "last_pretty": "09 december 2025"
+      "last": "2025-12-09"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-12-04",
-      "last_pretty": "04 december 2025"
+      "last": "2025-12-04"
     },
     {
       "name": "Signature Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last": "2025-11-01"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-10-30",
-      "last_pretty": "30 october 2025"
+      "last": "2025-10-30"
     },
     {
       "name": "Arte Beauty EHL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2025-10-27",
-      "last_pretty": "27 october 2025"
+      "last": "2025-10-27"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-21",
-      "last_pretty": "21 october 2025"
+      "last": "2025-10-21"
     },
     {
       "name": "Nueva Luna Yoga",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
+      "last": "2025-09-10"
     }
   ]
 }

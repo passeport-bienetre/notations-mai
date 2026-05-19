@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2026-04-28",
-      "last_pretty": "28 april 2026"
+      "last": "2026-04-28"
     },
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-04-13",
-      "last_pretty": "13 april 2026"
+      "last": "2026-04-13"
     },
     {
       "name": "Serenityblue",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2026-02-20",
-      "last_pretty": "20 february 2026"
+      "last": "2026-02-20"
     }
   ]
 }

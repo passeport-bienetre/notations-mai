@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-01-28",
-      "last_pretty": "28 january 2026"
+      "last": "2026-01-28"
     },
     {
       "name": "LES BAINS PUBLICS",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2025-11-02",
-      "last_pretty": "02 november 2025"
+      "last": "2025-11-02"
     }
   ]
 }

@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "La VILLA Kobido et Massage",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/",
       "visits": 1,
-      "last": "2026-02-04",
-      "last_pretty": "04 february 2026"
+      "last": "2026-02-04"
     },
     {
       "name": "Institut Sirène",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2026-01-14",
-      "last_pretty": "14 january 2026"
+      "last": "2026-01-14"
     },
     {
       "name": "ERINGER INSTITUT",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-08-06",
-      "last_pretty": "06 august 2025"
+      "last": "2025-08-06"
     }
   ]
 }

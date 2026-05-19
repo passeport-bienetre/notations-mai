@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-05-13",
-      "last_pretty": "13 may 2026"
+      "last": "2026-05-13"
     },
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-04-02",
-      "last_pretty": "02 april 2026"
+      "last": "2026-04-02"
     }
   ]
 }

@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last": "2026-02-14"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-02-02",
-      "last_pretty": "02 february 2026"
+      "last": "2026-02-02"
     },
     {
       "name": "Amiia Clinique",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last": "2026-01-23"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-12-17",
-      "last_pretty": "17 december 2025"
+      "last": "2025-12-17"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-12-12",
-      "last_pretty": "12 december 2025"
+      "last": "2025-12-12"
     },
     {
       "name": "Institut Kaori",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2025-12-03",
-      "last_pretty": "03 december 2025"
+      "last": "2025-12-03"
     },
     {
       "name": "Altitude by Garance",
+      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "visits": 1,
-      "last": "2025-10-14",
-      "last_pretty": "14 october 2025"
+      "last": "2025-10-14"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-06-07",
-      "last_pretty": "07 june 2025"
+      "last": "2025-06-07"
     }
   ]
 }

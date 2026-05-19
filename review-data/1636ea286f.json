@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2026-04-20",
-      "last_pretty": "20 april 2026"
+      "last": "2026-04-20"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2026-04-17",
-      "last_pretty": "17 april 2026"
+      "last": "2026-04-17"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-04-09",
-      "last_pretty": "09 april 2026"
+      "last": "2026-04-09"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last": "2026-03-27"
     },
     {
       "name": "Swiss Beauty Studio",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last": "2026-02-24"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2026-02-21",
-      "last_pretty": "21 february 2026"
+      "last": "2026-02-21"
     }
   ]
 }

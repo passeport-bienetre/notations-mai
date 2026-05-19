@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-04-02",
-      "last_pretty": "02 april 2026"
+      "last": "2026-04-02"
     },
     {
       "name": "So Beauty Home",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last": "2026-02-27"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Eva",
+      "url": "https://www.bodypass.ch/?s=LE%20CENTRE%20GEN%C3%88VE%20BY%20CHARLINE%20%E2%80%93%20Eva",
       "visits": 1,
-      "last": "2026-02-16",
-      "last_pretty": "16 february 2026"
+      "last": "2026-02-16"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "Le Grand Bellevue",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2025-12-13",
-      "last_pretty": "13 december 2025"
+      "last": "2025-12-13"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-12-03",
-      "last_pretty": "03 december 2025"
+      "last": "2025-12-03"
     }
   ]
 }

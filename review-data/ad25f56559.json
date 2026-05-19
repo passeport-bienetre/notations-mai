@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2026-01-27",
-      "last_pretty": "27 january 2026"
+      "last": "2026-01-27"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-01-15",
-      "last_pretty": "15 january 2026"
+      "last": "2026-01-15"
     }
   ]
 }

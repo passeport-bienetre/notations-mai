@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026"
+      "last": "2026-02-12"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-27",
-      "last_pretty": "27 december 2025"
+      "last": "2025-12-27"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Grand Bellevue",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2026-03-05",
-      "last_pretty": "05 march 2026"
+      "last": "2026-03-05"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-13",
-      "last_pretty": "13 february 2026"
+      "last": "2026-02-13"
     }
   ]
 }

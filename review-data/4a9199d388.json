@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Flocoon Spa Cinq Mondes",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025"
+      "last": "2025-12-30"
     },
     {
       "name": "La VILLA Kobido et Massage",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "Tête à Clak",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "visits": 1,
-      "last": "2025-12-04",
-      "last_pretty": "04 december 2025"
+      "last": "2025-12-04"
     }
   ]
 }

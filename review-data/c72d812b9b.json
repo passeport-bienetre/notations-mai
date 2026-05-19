@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Parallèles Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025"
+      "last": "2025-07-08"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-07-04",
-      "last_pretty": "04 july 2025"
+      "last": "2025-07-04"
     },
     {
       "name": "La VILLA Kobido et Massage",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/",
       "visits": 1,
-      "last": "2025-06-14",
-      "last_pretty": "14 june 2025"
+      "last": "2025-06-14"
     }
   ]
 }

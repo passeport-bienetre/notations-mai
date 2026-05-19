@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "So Beauty Home",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "visits": 1,
-      "last": "2026-02-20",
-      "last_pretty": "20 february 2026"
+      "last": "2026-02-20"
     },
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-02-13",
-      "last_pretty": "13 february 2026"
+      "last": "2026-02-13"
     }
   ]
 }

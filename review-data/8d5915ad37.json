@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2026-05-12",
-      "last_pretty": "12 may 2026"
+      "last": "2026-05-12"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-05-07",
-      "last_pretty": "07 may 2026"
+      "last": "2026-05-07"
     }
   ]
 }

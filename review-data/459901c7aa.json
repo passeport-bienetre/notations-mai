@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
+      "last": "2025-10-08"
     },
     {
       "name": "Bhumi",
+      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-07-15",
-      "last_pretty": "15 july 2025"
+      "last": "2025-07-15"
     }
   ]
 }

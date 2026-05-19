@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025"
+      "last": "2025-11-20"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last": "2025-11-01"
     }
   ]
 }

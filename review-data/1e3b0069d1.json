@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "AVEDA VIEILLE-VILLE",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2026-02-26",
-      "last_pretty": "26 february 2026"
+      "last": "2026-02-26"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-01-15",
-      "last_pretty": "15 january 2026"
+      "last": "2026-01-15"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Urban Spa",
+      "url": "https://www.bodypass.ch/etablissements/urban-spa/",
       "visits": 1,
-      "last": "2026-03-26",
-      "last_pretty": "26 march 2026"
+      "last": "2026-03-26"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-03-05",
-      "last_pretty": "05 march 2026"
+      "last": "2026-03-05"
     }
   ]
 }

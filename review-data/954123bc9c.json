@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-06-16",
-      "last_pretty": "16 june 2025"
+      "last": "2025-06-16"
     },
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2025-05-19",
-      "last_pretty": "19 may 2025"
+      "last": "2025-05-19"
     }
   ]
 }

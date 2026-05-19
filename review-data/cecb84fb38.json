@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "visits": 1,
-      "last": "2026-04-14",
-      "last_pretty": "14 april 2026"
+      "last": "2026-04-14"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last": "2026-02-24"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2026-01-31",
-      "last_pretty": "31 january 2026"
+      "last": "2026-01-31"
     },
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2025-12-20",
-      "last_pretty": "20 december 2025"
+      "last": "2025-12-20"
     }
   ]
 }

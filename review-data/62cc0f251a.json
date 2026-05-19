@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-12-06",
-      "last_pretty": "06 december 2025"
+      "last": "2025-12-06"
     },
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2025-12-06",
-      "last_pretty": "06 december 2025"
+      "last": "2025-12-06"
     },
     {
       "name": "LES TRESOMS",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2025-10-12",
-      "last_pretty": "12 october 2025"
+      "last": "2025-10-12"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-10-06",
-      "last_pretty": "06 october 2025"
+      "last": "2025-10-06"
     }
   ]
 }

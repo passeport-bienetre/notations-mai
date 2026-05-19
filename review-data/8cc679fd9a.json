@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-04-27",
-      "last_pretty": "27 april 2026"
+      "last": "2026-04-27"
     },
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-04-27",
-      "last_pretty": "27 april 2026"
+      "last": "2026-04-27"
     }
   ]
 }

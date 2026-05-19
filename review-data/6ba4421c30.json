@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-07-23",
-      "last_pretty": "23 july 2025"
+      "last": "2025-07-23"
     },
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-07-05",
-      "last_pretty": "05 july 2025"
+      "last": "2025-07-05"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-11-06",
-      "last_pretty": "06 november 2025"
+      "last": "2025-11-06"
     },
     {
       "name": "GLOW IN GENEVA",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-10-02",
-      "last_pretty": "02 october 2025"
+      "last": "2025-10-02"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-10-01",
-      "last_pretty": "01 october 2025"
+      "last": "2025-10-01"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-05-28",
-      "last_pretty": "28 may 2025"
+      "last": "2025-05-28"
     }
   ]
 }

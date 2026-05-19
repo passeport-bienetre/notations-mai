@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "LA MAISON VALMONT – BONGENIE",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2026-01-27",
-      "last_pretty": "27 january 2026"
+      "last": "2026-01-27"
     },
     {
       "name": "Crans Ambassador Spa",
+      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2025-12-16",
-      "last_pretty": "16 december 2025"
+      "last": "2025-12-16"
     },
     {
       "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last": "2025-11-28"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last": "2025-10-29"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last": "2025-07-11"
     },
     {
       "name": "Flocoon Spa Cinq Mondes",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2025-06-14",
-      "last_pretty": "14 june 2025"
+      "last": "2025-06-14"
     }
   ]
 }

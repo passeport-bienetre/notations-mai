@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Experimental Chalet",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-03-14",
-      "last_pretty": "14 march 2026"
+      "last": "2026-03-14"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-12",
-      "last_pretty": "12 october 2025"
+      "last": "2025-10-12"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel &#038; Spa Le National",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last": "2025-08-15"
     },
     {
       "name": "Amiia Clinique",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025"
+      "last": "2025-06-25"
     }
   ]
 }

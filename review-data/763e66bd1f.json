@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Tête à Clak",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "visits": 1,
-      "last": "2026-04-22",
-      "last_pretty": "22 april 2026"
+      "last": "2026-04-22"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last": "2026-02-24"
     },
     {
       "name": "ALEX COIFFURE SARL",
+      "url": "https://www.bodypass.ch/etablissements/a-lex-coiffure-3/",
       "visits": 1,
-      "last": "2026-02-10",
-      "last_pretty": "10 february 2026"
+      "last": "2026-02-10"
     },
     {
       "name": "EssenCiel Institut",
+      "url": "https://www.bodypass.ch/etablissements/essenciel-institut/",
       "visits": 1,
-      "last": "2025-10-28",
-      "last_pretty": "28 october 2025"
+      "last": "2025-10-28"
     },
     {
       "name": "Institut Orphée",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last": "2025-06-26"
     }
   ]
 }

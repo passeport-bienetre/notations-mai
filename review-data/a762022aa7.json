@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "INTUITIVE JESS",
+      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/",
       "visits": 1,
-      "last": "2026-01-16",
-      "last_pretty": "16 january 2026"
+      "last": "2026-01-16"
     },
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-12-22",
-      "last_pretty": "22 december 2025"
+      "last": "2025-12-22"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-10-10",
-      "last_pretty": "10 october 2025"
+      "last": "2025-10-10"
     },
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-06-22",
-      "last_pretty": "22 june 2025"
+      "last": "2025-06-22"
     }
   ]
 }

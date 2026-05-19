@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LES BAINS PUBLICS",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-04-18",
-      "last_pretty": "18 april 2026"
+      "last": "2026-04-18"
     },
     {
       "name": "Karré Long",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2026-03-31",
-      "last_pretty": "31 march 2026"
+      "last": "2026-03-31"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-03-13",
-      "last_pretty": "13 march 2026"
+      "last": "2026-03-13"
     },
     {
       "name": "Salon Privé Ecublens",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026"
+      "last": "2026-02-12"
     }
   ]
 }

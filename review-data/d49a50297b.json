@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-08-12",
-      "last_pretty": "12 august 2025"
+      "last": "2025-08-12"
     },
     {
       "name": "Flaventino coiffure Aubonne",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
       "visits": 1,
-      "last": "2025-05-23",
-      "last_pretty": "23 may 2025"
+      "last": "2025-05-23"
     }
   ]
 }

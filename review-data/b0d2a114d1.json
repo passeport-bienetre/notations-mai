@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-02-21",
-      "last_pretty": "21 february 2026"
+      "last": "2026-02-21"
     },
     {
       "name": "Les Vagabondes",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last": "2026-02-14"
     },
     {
       "name": "La VILLA Kobido et Massage",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "Hairmania",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-12-06",
-      "last_pretty": "06 december 2025"
+      "last": "2025-12-06"
     }
   ]
 }

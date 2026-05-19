@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LAUSANNE PALACE",
+      "url": "https://www.bodypass.ch/?s=LAUSANNE%20PALACE",
       "visits": 1,
-      "last": "2026-05-14",
-      "last_pretty": "14 may 2026"
+      "last": "2026-05-14"
     },
     {
       "name": "HÔTEL ROYAL SAVOY",
+      "url": "https://www.bodypass.ch/?s=H%C3%94TEL%20ROYAL%20SAVOY",
       "visits": 1,
-      "last": "2026-05-14",
-      "last_pretty": "14 may 2026"
+      "last": "2026-05-14"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-04",
-      "last_pretty": "04 january 2026"
+      "last": "2026-01-04"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-01-01",
-      "last_pretty": "01 january 2026"
+      "last": "2026-01-01"
     }
   ]
 }

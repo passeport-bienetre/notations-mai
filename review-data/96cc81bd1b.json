@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-11-18",
-      "last_pretty": "18 november 2025"
+      "last": "2025-11-18"
     },
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-10-20",
-      "last_pretty": "20 october 2025"
+      "last": "2025-10-20"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
+      "last": "2025-10-08"
     },
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2025-08-06",
-      "last_pretty": "06 august 2025"
+      "last": "2025-08-06"
     },
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-06-17",
-      "last_pretty": "17 june 2025"
+      "last": "2025-06-17"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-06-02",
-      "last_pretty": "02 june 2025"
+      "last": "2025-06-02"
     }
   ]
 }

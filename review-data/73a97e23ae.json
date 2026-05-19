@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-04-15",
-      "last_pretty": "15 april 2026"
+      "last": "2026-04-15"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2026-02-06",
-      "last_pretty": "06 february 2026"
+      "last": "2026-02-06"
     },
     {
       "name": "LA MAISON VALMONT – BONGENIE",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2025-11-27",
-      "last_pretty": "27 november 2025"
+      "last": "2025-11-27"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-10-31",
-      "last_pretty": "31 october 2025"
+      "last": "2025-10-31"
     }
   ]
 }

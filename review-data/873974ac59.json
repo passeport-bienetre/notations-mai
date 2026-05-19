@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-12-24",
-      "last_pretty": "24 december 2025"
+      "last": "2025-12-24"
     },
     {
       "name": "Bhumi",
+      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-11-26",
-      "last_pretty": "26 november 2025"
+      "last": "2025-11-26"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
+      "last": "2025-10-08"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last": "2025-06-26"
     },
     {
       "name": "Flaventino coiffure Aubonne",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
       "visits": 1,
-      "last": "2025-06-13",
-      "last_pretty": "13 june 2025"
+      "last": "2025-06-13"
     }
   ]
 }

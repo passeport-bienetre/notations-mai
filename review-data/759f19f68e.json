@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LA MAISON VALMONT – BONGENIE",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2026-04-15",
-      "last_pretty": "15 april 2026"
+      "last": "2026-04-15"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-04-04",
-      "last_pretty": "04 april 2026"
+      "last": "2026-04-04"
     }
   ]
 }

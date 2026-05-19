@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-02-25",
-      "last_pretty": "25 february 2026"
+      "last": "2026-02-25"
     },
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-02-04",
-      "last_pretty": "04 february 2026"
+      "last": "2026-02-04"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2026-01-23",
-      "last_pretty": "23 january 2026"
+      "last": "2026-01-23"
     },
     {
       "name": "Organik Beauty",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2025-12-17",
-      "last_pretty": "17 december 2025"
+      "last": "2025-12-17"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-11-19",
-      "last_pretty": "19 november 2025"
+      "last": "2025-11-19"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-31",
-      "last_pretty": "31 october 2025"
+      "last": "2025-10-31"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-09-03",
-      "last_pretty": "03 september 2025"
+      "last": "2025-09-03"
     },
     {
       "name": "Centre de bien-être J&#038;J",
+      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "visits": 1,
-      "last": "2025-08-20",
-      "last_pretty": "20 august 2025"
+      "last": "2025-08-20"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-22",
-      "last_pretty": "22 july 2025"
+      "last": "2025-07-22"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-06-19",
-      "last_pretty": "19 june 2025"
+      "last": "2025-06-19"
     }
   ]
 }

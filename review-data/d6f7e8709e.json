@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LECRANS HOTEL &#038; SPA",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025"
+      "last": "2025-10-15"
     },
     {
       "name": "ERINGER INSTITUT",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-10-14",
-      "last_pretty": "14 october 2025"
+      "last": "2025-10-14"
     }
   ]
 }

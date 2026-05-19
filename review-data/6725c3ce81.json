@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Le St-Gervais Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2026-05-16",
-      "last_pretty": "16 may 2026"
+      "last": "2026-05-16"
     },
     {
       "name": "RUBIS SPA",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last": "2026-04-29"
     },
     {
       "name": "ERINGER HÔTEL",
+      "url": "https://www.bodypass.ch/?s=ERINGER%20H%C3%94TEL",
       "visits": 1,
-      "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last": "2026-02-19"
     }
   ]
 }

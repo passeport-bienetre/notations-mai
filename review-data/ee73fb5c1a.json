@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2026-01-31",
-      "last_pretty": "31 january 2026"
+      "last": "2026-01-31"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-01-19",
-      "last_pretty": "19 january 2026"
+      "last": "2026-01-19"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last": "2025-11-07"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-06-09",
-      "last_pretty": "09 june 2025"
+      "last": "2025-06-09"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "La Coifferie",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2026-01-24",
-      "last_pretty": "24 january 2026"
+      "last": "2026-01-24"
     },
     {
       "name": "Les Petits Pieds du Bonheur",
+      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/",
       "visits": 1,
-      "last": "2026-01-15",
-      "last_pretty": "15 january 2026"
+      "last": "2026-01-15"
     }
   ]
 }

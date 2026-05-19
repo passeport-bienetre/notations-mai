@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-04-08",
-      "last_pretty": "08 april 2026"
+      "last": "2026-04-08"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2026-04-04",
-      "last_pretty": "04 april 2026"
+      "last": "2026-04-04"
     },
     {
       "name": "Anita Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "visits": 1,
-      "last": "2026-01-10",
-      "last_pretty": "10 january 2026"
+      "last": "2026-01-10"
     },
     {
       "name": "Atmosp&rsquo;hair",
+      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2025-10-24",
-      "last_pretty": "24 october 2025"
+      "last": "2025-10-24"
     },
     {
       "name": "Signature Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025"
+      "last": "2025-08-30"
     }
   ]
 }

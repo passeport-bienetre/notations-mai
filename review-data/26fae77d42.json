@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-03-02",
-      "last_pretty": "02 march 2026"
+      "last": "2026-03-02"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-10-10",
-      "last_pretty": "10 october 2025"
+      "last": "2025-10-10"
     },
     {
       "name": "Tête à Clak",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "visits": 1,
-      "last": "2025-07-09",
-      "last_pretty": "09 july 2025"
+      "last": "2025-07-09"
     }
   ]
 }

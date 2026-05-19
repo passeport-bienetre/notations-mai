@@ -5,57 +5,57 @@
   "estabs": [
     {
       "name": "So Beauty Home",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "visits": 1,
-      "last": "2026-05-06",
-      "last_pretty": "06 may 2026"
+      "last": "2026-05-06"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2026-03-14",
-      "last_pretty": "14 march 2026"
+      "last": "2026-03-14"
     },
     {
       "name": "Sawatdee Delices",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last": "2026-03-12"
     },
     {
       "name": "NUANCES NATURE",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-11-06",
-      "last_pretty": "06 november 2025"
+      "last": "2025-11-06"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-10-17",
-      "last_pretty": "17 october 2025"
+      "last": "2025-10-17"
     },
     {
       "name": "Damien &#038; Co",
+      "url": "https://www.bodypass.ch/etablissements/damien-co-3/",
       "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last": "2025-08-15"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-07-09",
-      "last_pretty": "09 july 2025"
+      "last": "2025-07-09"
     },
     {
       "name": "Corps Sains",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
       "visits": 1,
-      "last": "2025-06-11",
-      "last_pretty": "11 june 2025"
+      "last": "2025-06-11"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-05-20",
-      "last_pretty": "20 may 2025"
+      "last": "2025-05-20"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Serenityblue",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2026-04-24",
-      "last_pretty": "24 april 2026"
+      "last": "2026-04-24"
     },
     {
       "name": "Anzère SPA &#038; Wellness",
+      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "visits": 1,
-      "last": "2026-02-28",
-      "last_pretty": "28 february 2026"
+      "last": "2026-02-28"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last": "2026-01-30"
     },
     {
       "name": "COMME SUR UN NUAGE",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
       "visits": 1,
-      "last": "2025-10-31",
-      "last_pretty": "31 october 2025"
+      "last": "2025-10-31"
     }
   ]
 }

@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-02-09",
-      "last_pretty": "09 february 2026"
+      "last": "2026-02-09"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2026-01-10",
-      "last_pretty": "10 january 2026"
+      "last": "2026-01-10"
     },
     {
       "name": "Sawatdee Delices",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-12-22",
-      "last_pretty": "22 december 2025"
+      "last": "2025-12-22"
     },
     {
       "name": "19th AVENUE &#8211; Versonnex",
+      "url": "https://www.bodypass.ch/etablissements/versonnex/",
       "visits": 1,
-      "last": "2025-11-15",
-      "last_pretty": "15 november 2025"
+      "last": "2025-11-15"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-08-20",
-      "last_pretty": "20 august 2025"
+      "last": "2025-08-20"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025"
+      "last": "2025-07-08"
     }
   ]
 }

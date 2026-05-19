@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-04-02",
-      "last_pretty": "02 april 2026"
+      "last": "2026-04-02"
     },
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-02-25",
-      "last_pretty": "25 february 2026"
+      "last": "2026-02-25"
     },
     {
       "name": "BEAUTY CONCEPT PULLY",
+      "url": "https://www.bodypass.ch/?s=BEAUTY%20CONCEPT%20PULLY",
       "visits": 1,
-      "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last": "2026-02-14"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-07-09",
-      "last_pretty": "09 july 2025"
+      "last": "2025-07-09"
     }
   ]
 }

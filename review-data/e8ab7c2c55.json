@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2026-04-13",
-      "last_pretty": "13 april 2026"
+      "last": "2026-04-13"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last": "2025-07-10"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-07-03",
-      "last_pretty": "03 july 2025"
+      "last": "2025-07-03"
     }
   ]
 }

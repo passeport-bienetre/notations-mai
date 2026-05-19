@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-02-25",
-      "last_pretty": "25 february 2026"
+      "last": "2026-02-25"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2025-12-10",
-      "last_pretty": "10 december 2025"
+      "last": "2025-12-10"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-09-17",
-      "last_pretty": "17 september 2025"
+      "last": "2025-09-17"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-06",
-      "last_pretty": "06 january 2026"
+      "last": "2026-01-06"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-08-21",
-      "last_pretty": "21 august 2025"
+      "last": "2025-08-21"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025"
+      "last": "2025-08-14"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last": "2025-07-02"
     }
   ]
 }

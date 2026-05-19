@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025"
+      "last": "2025-07-24"
     },
     {
       "name": "Le Grand Bellevue",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last": "2025-06-26"
     }
   ]
 }

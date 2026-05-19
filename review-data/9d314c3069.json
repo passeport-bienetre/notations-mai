@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "JOIA LAUSANNE",
+      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-04-27",
-      "last_pretty": "27 april 2026"
+      "last": "2026-04-27"
     },
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2026-02-13",
-      "last_pretty": "13 february 2026"
+      "last": "2026-02-13"
     },
     {
       "name": "W Verbier",
+      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2026-01-25",
-      "last_pretty": "25 january 2026"
+      "last": "2026-01-25"
     }
   ]
 }

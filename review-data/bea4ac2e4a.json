@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-03-21",
-      "last_pretty": "21 march 2026"
+      "last": "2026-03-21"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-12-31",
-      "last_pretty": "31 december 2025"
+      "last": "2025-12-31"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last": "2025-11-07"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-10-23",
-      "last_pretty": "23 october 2025"
+      "last": "2025-10-23"
     },
     {
       "name": "Espace Beauté Harmonie",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025"
+      "last": "2025-08-30"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-08-29",
-      "last_pretty": "29 august 2025"
+      "last": "2025-08-29"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-07-28",
-      "last_pretty": "28 july 2025"
+      "last": "2025-07-28"
     }
   ]
 }

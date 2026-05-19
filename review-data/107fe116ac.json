@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2026-02-19",
-      "last_pretty": "19 february 2026"
+      "last": "2026-02-19"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-10-25",
-      "last_pretty": "25 october 2025"
+      "last": "2025-10-25"
     },
     {
       "name": "Flaventino coiffure Aubonne",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
       "visits": 1,
-      "last": "2025-10-11",
-      "last_pretty": "11 october 2025"
+      "last": "2025-10-11"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-09-13",
-      "last_pretty": "13 september 2025"
+      "last": "2025-09-13"
     }
   ]
 }

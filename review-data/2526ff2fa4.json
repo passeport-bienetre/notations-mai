@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-04-02",
-      "last_pretty": "02 april 2026"
+      "last": "2026-04-02"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last": "2026-02-24"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-10-09",
-      "last_pretty": "09 october 2025"
+      "last": "2025-10-09"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-06-23",
-      "last_pretty": "23 june 2025"
+      "last": "2025-06-23"
     }
   ]
 }

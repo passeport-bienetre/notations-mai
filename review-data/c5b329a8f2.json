@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-04-07",
-      "last_pretty": "07 april 2026"
+      "last": "2026-04-07"
     },
     {
       "name": "Odyssée Santé &#038; Beauté",
+      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "visits": 1,
-      "last": "2026-03-17",
-      "last_pretty": "17 march 2026"
+      "last": "2026-03-17"
     },
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-03-10",
-      "last_pretty": "10 march 2026"
+      "last": "2026-03-10"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last": "2026-02-24"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-01-27",
-      "last_pretty": "27 january 2026"
+      "last": "2026-01-27"
     }
   ]
 }

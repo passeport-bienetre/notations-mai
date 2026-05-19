@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-03-23",
-      "last_pretty": "23 march 2026"
+      "last": "2026-03-23"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-03-09",
-      "last_pretty": "09 march 2026"
+      "last": "2026-03-09"
     },
     {
       "name": "Le St-Gervais Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-12-08",
-      "last_pretty": "08 december 2025"
+      "last": "2025-12-08"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2025-09-14",
-      "last_pretty": "14 september 2025"
+      "last": "2025-09-14"
     }
   ]
 }

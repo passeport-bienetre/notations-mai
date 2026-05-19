@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "La VILLA Kobido et Massage",
+      "url": "https://www.bodypass.ch/etablissements/la-villa/",
       "visits": 1,
-      "last": "2026-02-04",
-      "last_pretty": "04 february 2026"
+      "last": "2026-02-04"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last": "2026-01-30"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last": "2025-11-01"
     },
     {
       "name": "Les Sources des Alpes",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "visits": 1,
-      "last": "2025-10-09",
-      "last_pretty": "09 october 2025"
+      "last": "2025-10-09"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-06-07",
-      "last_pretty": "07 june 2025"
+      "last": "2025-06-07"
     }
   ]
 }

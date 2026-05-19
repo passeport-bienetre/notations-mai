@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2026-03-17",
-      "last_pretty": "17 march 2026"
+      "last": "2026-03-17"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-28",
-      "last_pretty": "28 october 2025"
+      "last": "2025-10-28"
     }
   ]
 }

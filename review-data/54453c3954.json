@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-12-01",
-      "last_pretty": "01 december 2025"
+      "last": "2025-12-01"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025"
+      "last": "2025-11-20"
     }
   ]
 }

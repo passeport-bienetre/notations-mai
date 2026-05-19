@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-04-08",
-      "last_pretty": "08 april 2026"
+      "last": "2026-04-08"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-01-12",
-      "last_pretty": "12 january 2026"
+      "last": "2026-01-12"
     },
     {
       "name": "Europe Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-13",
-      "last_pretty": "13 september 2025"
+      "last": "2025-09-13"
     },
     {
       "name": "Noemi Spataro Esthétique",
+      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last": "2025-08-15"
     }
   ]
 }

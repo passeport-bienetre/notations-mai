@@ -392,7 +392,7 @@
     return `
     <section class="estab">
       <div class="estab-head">
-        <div class="estab-name"><a href="https://www.bodypass.ch/?s=${encodeURIComponent(decodeEntities(estab.name))}" target="_blank" rel="noopener" class="estab-link">${escapeHtml(decodeEntities(estab.name))}</a></div>
+        <div class="estab-name"><a href="${escapeHtml(estab.url || "https://www.bodypass.ch/?s=" + encodeURIComponent(decodeEntities(estab.name)))}" target="_blank" rel="noopener" class="estab-link">${escapeHtml(decodeEntities(estab.name))}</a></div>
         <div class="estab-meta">${estab.visits} visite${estab.visits>1?'s':''} <span class="dot">·</span> Dernière le ${formatDateFR(estab.last)}</div>
       </div>
       ${renderStarsRow(key, 'beauty', "Beauté du lieu")}

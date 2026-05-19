@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-10-18",
-      "last_pretty": "18 october 2025"
+      "last": "2025-10-18"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-09-24",
-      "last_pretty": "24 september 2025"
+      "last": "2025-09-24"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-09-06",
-      "last_pretty": "06 september 2025"
+      "last": "2025-09-06"
     }
   ]
 }

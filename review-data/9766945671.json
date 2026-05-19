@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Bhumi",
+      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-12-04",
-      "last_pretty": "04 december 2025"
+      "last": "2025-12-04"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-08-29",
-      "last_pretty": "29 august 2025"
+      "last": "2025-08-29"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-06-04",
-      "last_pretty": "04 june 2025"
+      "last": "2025-06-04"
     }
   ]
 }

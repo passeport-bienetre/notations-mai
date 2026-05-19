@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "GLOW IN GENEVA",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-09-16",
-      "last_pretty": "16 september 2025"
+      "last": "2025-09-16"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last": "2025-08-15"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-07-16",
-      "last_pretty": "16 july 2025"
+      "last": "2025-07-16"
     },
     {
       "name": "Les Petits Pieds du Bonheur",
+      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/",
       "visits": 1,
-      "last": "2025-06-12",
-      "last_pretty": "12 june 2025"
+      "last": "2025-06-12"
     }
   ]
 }

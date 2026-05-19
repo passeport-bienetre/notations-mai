@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last": "2025-11-28"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-10-23",
-      "last_pretty": "23 october 2025"
+      "last": "2025-10-23"
     },
     {
       "name": "Atmosp&rsquo;hair",
+      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
+      "last": "2025-10-08"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-05-28",
-      "last_pretty": "28 may 2025"
+      "last": "2025-05-28"
     }
   ]
 }

@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-01-17",
-      "last_pretty": "17 january 2026"
+      "last": "2026-01-17"
     },
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-09-23",
-      "last_pretty": "23 september 2025"
+      "last": "2025-09-23"
     },
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-07-10",
-      "last_pretty": "10 july 2025"
+      "last": "2025-07-10"
     }
   ]
 }

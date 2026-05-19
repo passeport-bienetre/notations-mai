@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Odyssée Santé &#038; Beauté",
+      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last": "2026-04-10"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2026-03-30",
-      "last_pretty": "30 march 2026"
+      "last": "2026-03-30"
     },
     {
       "name": "Karré Long",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2026-03-14",
-      "last_pretty": "14 march 2026"
+      "last": "2026-03-14"
     },
     {
       "name": "Salon Privé Ecublens",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last": "2025-11-28"
     },
     {
       "name": "Anita Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "visits": 1,
-      "last": "2025-10-10",
-      "last_pretty": "10 october 2025"
+      "last": "2025-10-10"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last": "2025-08-15"
     },
     {
       "name": "MYO Style",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2025-07-08",
-      "last_pretty": "08 july 2025"
+      "last": "2025-07-08"
     }
   ]
 }

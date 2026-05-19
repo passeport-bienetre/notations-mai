@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Parallèles Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2026-05-06",
-      "last_pretty": "06 may 2026"
+      "last": "2026-05-06"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-04-14",
-      "last_pretty": "14 april 2026"
+      "last": "2026-04-14"
     }
   ]
 }

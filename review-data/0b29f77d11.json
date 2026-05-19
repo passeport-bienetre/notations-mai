@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-03-31",
-      "last_pretty": "31 march 2026"
+      "last": "2026-03-31"
     },
     {
       "name": "Belle et Naturelle",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last": "2026-03-12"
     },
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2026-02-21",
-      "last_pretty": "21 february 2026"
+      "last": "2026-02-21"
     },
     {
       "name": "Origin Float Spa",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/",
       "visits": 1,
-      "last": "2026-01-24",
-      "last_pretty": "24 january 2026"
+      "last": "2026-01-24"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last": "2025-11-28"
     }
   ]
 }

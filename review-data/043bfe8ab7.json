@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-12-12",
-      "last_pretty": "12 december 2025"
+      "last": "2025-12-12"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last": "2025-10-29"
     },
     {
       "name": "MYO Style",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2025-10-24",
-      "last_pretty": "24 october 2025"
+      "last": "2025-10-24"
     },
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2025-08-29",
-      "last_pretty": "29 august 2025"
+      "last": "2025-08-29"
     },
     {
       "name": "Fairmont le Montreux Palace",
+      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-06-10",
-      "last_pretty": "10 june 2025"
+      "last": "2025-06-10"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-08-07",
-      "last_pretty": "07 august 2025"
+      "last": "2025-08-07"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-07-26",
-      "last_pretty": "26 july 2025"
+      "last": "2025-07-26"
     }
   ]
 }

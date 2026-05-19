@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-03-18",
-      "last_pretty": "18 march 2026"
+      "last": "2026-03-18"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025"
+      "last": "2025-10-15"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
+      "last": "2025-09-10"
     },
     {
       "name": "Tête à Clak",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "visits": 1,
-      "last": "2025-05-30",
-      "last_pretty": "30 may 2025"
+      "last": "2025-05-30"
     }
   ]
 }

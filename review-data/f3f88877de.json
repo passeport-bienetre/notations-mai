@@ -5,57 +5,57 @@
   "estabs": [
     {
       "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "visits": 1,
-      "last": "2025-11-12",
-      "last_pretty": "12 november 2025"
+      "last": "2025-11-12"
     },
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-11-10",
-      "last_pretty": "10 november 2025"
+      "last": "2025-11-10"
     },
     {
       "name": "Les Petits Pieds du Bonheur",
+      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/",
       "visits": 1,
-      "last": "2025-10-23",
-      "last_pretty": "23 october 2025"
+      "last": "2025-10-23"
     },
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025"
+      "last": "2025-10-15"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-08-26",
-      "last_pretty": "26 august 2025"
+      "last": "2025-08-26"
     },
     {
       "name": "Le Cabinet de Beauté",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2025-08-13",
-      "last_pretty": "13 august 2025"
+      "last": "2025-08-13"
     },
     {
       "name": "Wulan Studio",
+      "url": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "visits": 1,
-      "last": "2025-07-22",
-      "last_pretty": "22 july 2025"
+      "last": "2025-07-22"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-07-16",
-      "last_pretty": "16 july 2025"
+      "last": "2025-07-16"
     },
     {
       "name": "Swiss Beauty Studio",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2025-07-09",
-      "last_pretty": "09 july 2025"
+      "last": "2025-07-09"
     }
   ]
 }

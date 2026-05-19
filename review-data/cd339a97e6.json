@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last": "2025-07-02"
     },
     {
       "name": "Belle et Naturelle",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2025-06-30",
-      "last_pretty": "30 june 2025"
+      "last": "2025-06-30"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-06-04",
-      "last_pretty": "04 june 2025"
+      "last": "2025-06-04"
     }
   ]
 }

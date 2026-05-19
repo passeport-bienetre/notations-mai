@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-05-15",
-      "last_pretty": "15 may 2026"
+      "last": "2026-05-15"
     },
     {
       "name": "Maison B",
+      "url": "https://www.bodypass.ch/?s=Maison%20B",
       "visits": 1,
-      "last": "2026-05-15",
-      "last_pretty": "15 may 2026"
+      "last": "2026-05-15"
     },
     {
       "name": "L&rsquo;Atelier du Visage",
+      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
       "visits": 1,
-      "last": "2026-05-02",
-      "last_pretty": "02 may 2026"
+      "last": "2026-05-02"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2026-02-05",
-      "last_pretty": "05 february 2026"
+      "last": "2026-02-05"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "visits": 1,
-      "last": "2026-02-05",
-      "last_pretty": "05 february 2026"
+      "last": "2026-02-05"
     }
   ]
 }

@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-10-14",
-      "last_pretty": "14 october 2025"
+      "last": "2025-10-14"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2025-09-26",
-      "last_pretty": "26 september 2025"
+      "last": "2025-09-26"
     },
     {
       "name": "ERINGER INSTITUT",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-07-26",
-      "last_pretty": "26 july 2025"
+      "last": "2025-07-26"
     }
   ]
 }

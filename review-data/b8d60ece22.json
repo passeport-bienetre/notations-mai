@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "LA MAISON VALMONT – BONGENIE",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2026-01-06",
-      "last_pretty": "06 january 2026"
+      "last": "2026-01-06"
     },
     {
       "name": "Nueva Luna Yoga",
+      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2025-11-24",
-      "last_pretty": "24 november 2025"
+      "last": "2025-11-24"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-11-20",
-      "last_pretty": "20 november 2025"
+      "last": "2025-11-20"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025"
+      "last": "2025-10-15"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-09-07",
-      "last_pretty": "07 september 2025"
+      "last": "2025-09-07"
     }
   ]
 }

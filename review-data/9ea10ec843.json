@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Nirvana Spa",
+      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-10-24",
-      "last_pretty": "24 october 2025"
+      "last": "2025-10-24"
     },
     {
       "name": "Flaventino coiffure Aubonne",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
       "visits": 1,
-      "last": "2025-10-03",
-      "last_pretty": "03 october 2025"
+      "last": "2025-10-03"
     },
     {
       "name": "Crans Ambassador Spa",
+      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2025-09-20",
-      "last_pretty": "20 september 2025"
+      "last": "2025-09-20"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-05-30",
-      "last_pretty": "30 may 2025"
+      "last": "2025-05-30"
     }
   ]
 }

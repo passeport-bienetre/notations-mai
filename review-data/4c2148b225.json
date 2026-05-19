@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-03-31",
-      "last_pretty": "31 march 2026"
+      "last": "2026-03-31"
     },
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
       "visits": 1,
-      "last": "2026-02-07",
-      "last_pretty": "07 february 2026"
+      "last": "2026-02-07"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-09-09",
-      "last_pretty": "09 september 2025"
+      "last": "2025-09-09"
     },
     {
       "name": "Swiss Beauty Studio",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2025-09-09",
-      "last_pretty": "09 september 2025"
+      "last": "2025-09-09"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-08-15",
-      "last_pretty": "15 august 2025"
+      "last": "2025-08-15"
     }
   ]
 }

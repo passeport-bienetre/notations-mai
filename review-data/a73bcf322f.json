@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-05-12",
-      "last_pretty": "12 may 2026"
+      "last": "2026-05-12"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-11-11",
-      "last_pretty": "11 november 2025"
+      "last": "2025-11-11"
     },
     {
       "name": "Institut Beauté d&rsquo;Or",
+      "url": "https://www.bodypass.ch/?s=Institut%20Beaut%C3%A9%20d%E2%80%99Or",
       "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last": "2025-11-07"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-10-15",
-      "last_pretty": "15 october 2025"
+      "last": "2025-10-15"
     },
     {
       "name": "Institut Orphée",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2025-07-22",
-      "last_pretty": "22 july 2025"
+      "last": "2025-07-22"
     }
   ]
 }

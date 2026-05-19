@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Intuition Massage",
+      "url": "https://www.bodypass.ch/etablissements/intuition-massage/",
       "visits": 1,
-      "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last": "2026-02-14"
     },
     {
       "name": "Organik Beauty",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2026-01-29",
-      "last_pretty": "29 january 2026"
+      "last": "2026-01-29"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-10-03",
-      "last_pretty": "03 october 2025"
+      "last": "2025-10-03"
     },
     {
       "name": "Centre de bien-être J&#038;J",
+      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "visits": 1,
-      "last": "2025-07-29",
-      "last_pretty": "29 july 2025"
+      "last": "2025-07-29"
     }
   ]
 }

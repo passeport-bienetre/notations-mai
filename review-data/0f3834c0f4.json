@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Institut Bienitude &#038; Bienitude Natura",
+      "url": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/",
       "visits": 1,
-      "last": "2026-02-03",
-      "last_pretty": "03 february 2026"
+      "last": "2026-02-03"
     },
     {
       "name": "Odyssée Santé &#038; Beauté",
+      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "visits": 1,
-      "last": "2025-10-10",
-      "last_pretty": "10 october 2025"
+      "last": "2025-10-10"
     },
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last": "2025-07-02"
     }
   ]
 }

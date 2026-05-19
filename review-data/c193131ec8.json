@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Espace Beauté Sarah",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2025-11-05",
-      "last_pretty": "05 november 2025"
+      "last": "2025-11-05"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-08-20",
-      "last_pretty": "20 august 2025"
+      "last": "2025-08-20"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-06-06",
-      "last_pretty": "06 june 2025"
+      "last": "2025-06-06"
     }
   ]
 }

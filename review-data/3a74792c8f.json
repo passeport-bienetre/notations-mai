@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Wulan Studio",
+      "url": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "visits": 1,
-      "last": "2025-10-07",
-      "last_pretty": "07 october 2025"
+      "last": "2025-10-07"
     },
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-07-21",
-      "last_pretty": "21 july 2025"
+      "last": "2025-07-21"
     }
   ]
 }

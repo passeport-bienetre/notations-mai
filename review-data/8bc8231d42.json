@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Chandolin Boutique Hôtel",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "visits": 1,
-      "last": "2026-01-29",
-      "last_pretty": "29 january 2026"
+      "last": "2026-01-29"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-11-04",
-      "last_pretty": "04 november 2025"
+      "last": "2025-11-04"
     },
     {
       "name": "Fairmont le Montreux Palace",
+      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-06-24",
-      "last_pretty": "24 june 2025"
+      "last": "2025-06-24"
     },
     {
       "name": "Namasté",
+      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2025-05-20",
-      "last_pretty": "20 may 2025"
+      "last": "2025-05-20"
     }
   ]
 }

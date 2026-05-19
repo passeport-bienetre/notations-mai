@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "INSTITUT NATURALPE",
+      "url": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
       "visits": 1,
-      "last": "2025-12-01",
-      "last_pretty": "01 december 2025"
+      "last": "2025-12-01"
     },
     {
       "name": "19Th Avenue &#8211; Thonex",
+      "url": "https://www.bodypass.ch/?s=19Th%20Avenue%20%E2%80%93%20Thonex",
       "visits": 1,
-      "last": "2025-09-17",
-      "last_pretty": "17 september 2025"
+      "last": "2025-09-17"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-08-20",
-      "last_pretty": "20 august 2025"
+      "last": "2025-08-20"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-06-14",
-      "last_pretty": "14 june 2025"
+      "last": "2025-06-14"
     }
   ]
 }

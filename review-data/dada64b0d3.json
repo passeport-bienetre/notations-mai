@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Amiia Clinique",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2026-04-17",
-      "last_pretty": "17 april 2026"
+      "last": "2026-04-17"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-07-26",
-      "last_pretty": "26 july 2025"
+      "last": "2025-07-26"
     }
   ]
 }

@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-05-15",
-      "last_pretty": "15 may 2026"
+      "last": "2026-05-15"
     },
     {
       "name": "RUBIS SPA",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last": "2026-04-29"
     },
     {
       "name": "Crans Ambassador Spa",
+      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2026-03-16",
-      "last_pretty": "16 march 2026"
+      "last": "2026-03-16"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-12-26",
-      "last_pretty": "26 december 2025"
+      "last": "2025-12-26"
     },
     {
       "name": "Europe Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-24",
-      "last_pretty": "24 october 2025"
+      "last": "2025-10-24"
     },
     {
       "name": "Spa Baron Tavernier",
+      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025"
+      "last": "2025-08-30"
     },
     {
       "name": "Grand Hôtel du Lac",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-05-29",
-      "last_pretty": "29 may 2025"
+      "last": "2025-05-29"
     }
   ]
 }

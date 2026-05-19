@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Centre de bien-être J&#038;J",
+      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026"
+      "last": "2026-02-12"
     },
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-01-06",
-      "last_pretty": "06 january 2026"
+      "last": "2026-01-06"
     }
   ]
 }

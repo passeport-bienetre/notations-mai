@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Amiia Clinique",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last": "2025-12-19"
     },
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-12-03",
-      "last_pretty": "03 december 2025"
+      "last": "2025-12-03"
     },
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-12-02",
-      "last_pretty": "02 december 2025"
+      "last": "2025-12-02"
     },
     {
       "name": "NUTRITION BY AURELIA",
+      "url": "https://www.bodypass.ch/etablissements/nutrition-by-aurelia/",
       "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025"
+      "last": "2025-08-14"
     },
     {
       "name": "Espace Beauté Sarah",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2025-07-18",
-      "last_pretty": "18 july 2025"
+      "last": "2025-07-18"
     }
   ]
 }

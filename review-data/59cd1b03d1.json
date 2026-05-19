@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-19",
-      "last_pretty": "19 january 2026"
+      "last": "2026-01-19"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-04",
-      "last_pretty": "04 january 2026"
+      "last": "2026-01-04"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-01-01",
-      "last_pretty": "01 january 2026"
+      "last": "2026-01-01"
     },
     {
       "name": "Fairmont le Montreux Palace",
+      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
+      "last": "2025-09-10"
     },
     {
       "name": "INSTITUT NATURALPE",
+      "url": "https://www.bodypass.ch/etablissements/institut-naturalpe/",
       "visits": 1,
-      "last": "2025-08-26",
-      "last_pretty": "26 august 2025"
+      "last": "2025-08-26"
     },
     {
       "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "visits": 1,
-      "last": "2025-07-15",
-      "last_pretty": "15 july 2025"
+      "last": "2025-07-15"
     }
   ]
 }

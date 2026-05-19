@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-02-26",
-      "last_pretty": "26 february 2026"
+      "last": "2026-02-26"
     },
     {
       "name": "Experimental Chalet",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-01-03",
-      "last_pretty": "03 january 2026"
+      "last": "2026-01-03"
     }
   ]
 }

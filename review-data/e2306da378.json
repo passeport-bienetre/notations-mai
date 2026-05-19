@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Karré Long",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2026-05-05",
-      "last_pretty": "05 may 2026"
+      "last": "2026-05-05"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-03-23",
-      "last_pretty": "23 march 2026"
+      "last": "2026-03-23"
     },
     {
       "name": "1er Acte Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-03-18",
-      "last_pretty": "18 march 2026"
+      "last": "2026-03-18"
     },
     {
       "name": "Anita Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "visits": 1,
-      "last": "2026-01-08",
-      "last_pretty": "08 january 2026"
+      "last": "2026-01-08"
     }
   ]
 }

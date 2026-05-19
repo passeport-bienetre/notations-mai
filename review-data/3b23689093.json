@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-04-28",
-      "last_pretty": "28 april 2026"
+      "last": "2026-04-28"
     },
     {
       "name": "Amiia Clinique",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "Espace Beauté Harmonie",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "visits": 1,
-      "last": "2025-11-22",
-      "last_pretty": "22 november 2025"
+      "last": "2025-11-22"
     },
     {
       "name": "Karré Long",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     }
   ]
 }

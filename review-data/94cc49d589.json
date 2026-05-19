@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Le Cabinet de Beauté",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2026-01-31",
-      "last_pretty": "31 january 2026"
+      "last": "2026-01-31"
     },
     {
       "name": "Parallèles Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-09-18",
-      "last_pretty": "18 september 2025"
+      "last": "2025-09-18"
     },
     {
       "name": "NUANCES NATURE",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-09-06",
-      "last_pretty": "06 september 2025"
+      "last": "2025-09-06"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025"
+      "last": "2025-08-30"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-07-24",
-      "last_pretty": "24 july 2025"
+      "last": "2025-07-24"
     }
   ]
 }

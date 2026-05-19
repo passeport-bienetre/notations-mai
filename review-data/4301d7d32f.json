@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-09-21",
-      "last_pretty": "21 september 2025"
+      "last": "2025-09-21"
     },
     {
       "name": "W Verbier",
+      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2025-05-19",
-      "last_pretty": "19 may 2025"
+      "last": "2025-05-19"
     }
   ]
 }

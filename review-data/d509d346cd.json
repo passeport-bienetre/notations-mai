@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Salon Privé Ecublens",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2026-02-28",
-      "last_pretty": "28 february 2026"
+      "last": "2026-02-28"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2026-01-18",
-      "last_pretty": "18 january 2026"
+      "last": "2026-01-18"
     },
     {
       "name": "Chandolin Boutique Hôtel",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "visits": 1,
-      "last": "2025-12-29",
-      "last_pretty": "29 december 2025"
+      "last": "2025-12-29"
     },
     {
       "name": "Salon Privé Gare",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last": "2025-11-14"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-07-23",
-      "last_pretty": "23 july 2025"
+      "last": "2025-07-23"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-06-17",
-      "last_pretty": "17 june 2025"
+      "last": "2025-06-17"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-05-27",
-      "last_pretty": "27 may 2025"
+      "last": "2025-05-27"
     }
   ]
 }

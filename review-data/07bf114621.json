@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "RUBIS SPA",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last": "2026-04-29"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-03-05",
-      "last_pretty": "05 march 2026"
+      "last": "2026-03-05"
     },
     {
       "name": "Beauty Concept Vevey",
+      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-02-05",
-      "last_pretty": "05 february 2026"
+      "last": "2026-02-05"
     }
   ]
 }

@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Lumen Spa &#038; Wellness",
+      "url": "https://www.bodypass.ch/etablissements/lumen-spa-wellness/",
       "visits": 1,
-      "last": "2026-05-14",
-      "last_pretty": "14 may 2026"
+      "last": "2026-05-14"
     },
     {
       "name": "Tempête de Calme",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
       "visits": 1,
-      "last": "2026-04-28",
-      "last_pretty": "28 april 2026"
+      "last": "2026-04-28"
     },
     {
       "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "url": "https://www.bodypass.ch/etablissements/namaka/",
       "visits": 1,
-      "last": "2026-02-13",
-      "last_pretty": "13 february 2026"
+      "last": "2026-02-13"
     },
     {
       "name": "Le Grand Bellevue",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2026-01-10",
-      "last_pretty": "10 january 2026"
+      "last": "2026-01-10"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025"
+      "last": "2025-12-30"
     },
     {
       "name": "LES BAINS PUBLICS",
+      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2025-12-29",
-      "last_pretty": "29 december 2025"
+      "last": "2025-12-29"
     }
   ]
 }

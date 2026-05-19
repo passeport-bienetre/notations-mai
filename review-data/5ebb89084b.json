@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-02-23",
-      "last_pretty": "23 february 2026"
+      "last": "2026-02-23"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-07-23",
-      "last_pretty": "23 july 2025"
+      "last": "2025-07-23"
     },
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-07-15",
-      "last_pretty": "15 july 2025"
+      "last": "2025-07-15"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-07-15",
-      "last_pretty": "15 july 2025"
+      "last": "2025-07-15"
     },
     {
       "name": "Belle et Naturelle",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2025-07-14",
-      "last_pretty": "14 july 2025"
+      "last": "2025-07-14"
     }
   ]
 }

@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-03-28",
-      "last_pretty": "28 march 2026"
+      "last": "2026-03-28"
     },
     {
       "name": "So Beauty Home",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "visits": 1,
-      "last": "2026-03-21",
-      "last_pretty": "21 march 2026"
+      "last": "2026-03-21"
     },
     {
       "name": "Origin Float Spa",
+      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/",
       "visits": 1,
-      "last": "2026-03-12",
-      "last_pretty": "12 march 2026"
+      "last": "2026-03-12"
     },
     {
       "name": "Mon Bonheur Ayurvédique",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
       "visits": 1,
-      "last": "2026-02-26",
-      "last_pretty": "26 february 2026"
+      "last": "2026-02-26"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-01-29",
-      "last_pretty": "29 january 2026"
+      "last": "2026-01-29"
     }
   ]
 }

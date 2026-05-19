@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Crans Ambassador Spa",
+      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2026-03-20",
-      "last_pretty": "20 march 2026"
+      "last": "2026-03-20"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-02-16",
-      "last_pretty": "16 february 2026"
+      "last": "2026-02-16"
     },
     {
       "name": "Flocoon Spa Cinq Mondes",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last": "2026-01-30"
     },
     {
       "name": "VAGHEGGI Phyto Space Crans-Montana",
+      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "visits": 1,
-      "last": "2025-10-23",
-      "last_pretty": "23 october 2025"
+      "last": "2025-10-23"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-10-01",
-      "last_pretty": "01 october 2025"
+      "last": "2025-10-01"
     }
   ]
 }

@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "Belle et Naturelle",
+      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2025-11-11",
-      "last_pretty": "11 november 2025"
+      "last": "2025-11-11"
     },
     {
       "name": "BL Institut",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-11-08",
-      "last_pretty": "08 november 2025"
+      "last": "2025-11-08"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last": "2025-11-07"
     },
     {
       "name": "BEAUTY B",
+      "url": "https://www.bodypass.ch/?s=BEAUTY%20B",
       "visits": 1,
-      "last": "2025-11-06",
-      "last_pretty": "06 november 2025"
+      "last": "2025-11-06"
     },
     {
       "name": "NUANCES NATURE",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-08-14",
-      "last_pretty": "14 august 2025"
+      "last": "2025-08-14"
     },
     {
       "name": "Ipanema Beauté",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
       "visits": 1,
-      "last": "2025-06-06",
-      "last_pretty": "06 june 2025"
+      "last": "2025-06-06"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-06-06",
-      "last_pretty": "06 june 2025"
+      "last": "2025-06-06"
     },
     {
       "name": "BLISS",
+      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-06-06",
-      "last_pretty": "06 june 2025"
+      "last": "2025-06-06"
     },
     {
       "name": "Les Cliniques Matignon",
+      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-06-03",
-      "last_pretty": "03 june 2025"
+      "last": "2025-06-03"
     },
     {
       "name": "BuiCil Genève",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2025-05-28",
-      "last_pretty": "28 may 2025"
+      "last": "2025-05-28"
     }
   ]
 }

@@ -5,57 +5,57 @@
   "estabs": [
     {
       "name": "Institut Kaori",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2026-05-07",
-      "last_pretty": "07 may 2026"
+      "last": "2026-05-07"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-03-24",
-      "last_pretty": "24 march 2026"
+      "last": "2026-03-24"
     },
     {
       "name": "Institut ZenSkin",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2025-12-04",
-      "last_pretty": "04 december 2025"
+      "last": "2025-12-04"
     },
     {
       "name": "MK PILATES",
+      "url": "https://www.bodypass.ch/etablissements/mk-pilates/",
       "visits": 1,
-      "last": "2025-11-22",
-      "last_pretty": "22 november 2025"
+      "last": "2025-11-22"
     },
     {
       "name": "MYO Style",
+      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2025-11-12",
-      "last_pretty": "12 november 2025"
+      "last": "2025-11-12"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last": "2025-11-07"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last": "2025-10-16"
     },
     {
       "name": "Nirvana Spa",
+      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-10-04",
-      "last_pretty": "04 october 2025"
+      "last": "2025-10-04"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-09-03",
-      "last_pretty": "03 september 2025"
+      "last": "2025-09-03"
     }
   ]
 }

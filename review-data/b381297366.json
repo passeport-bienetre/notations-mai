@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Les Vagabondes",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2026-04-09",
-      "last_pretty": "09 april 2026"
+      "last": "2026-04-09"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2026-04-03",
-      "last_pretty": "03 april 2026"
+      "last": "2026-04-03"
     }
   ]
 }

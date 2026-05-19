@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-14",
-      "last_pretty": "14 january 2026"
+      "last": "2026-01-14"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-01-08",
-      "last_pretty": "08 january 2026"
+      "last": "2026-01-08"
     },
     {
       "name": "L&rsquo;Atelier du Visage",
+      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
       "visits": 1,
-      "last": "2026-01-07",
-      "last_pretty": "07 january 2026"
+      "last": "2026-01-07"
     },
     {
       "name": "Guess What",
+      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-10-09",
-      "last_pretty": "09 october 2025"
+      "last": "2025-10-09"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last": "2025-07-02"
     }
   ]
 }

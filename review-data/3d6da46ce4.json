@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Les Sources des Alpes",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "visits": 1,
-      "last": "2026-01-25",
-      "last_pretty": "25 january 2026"
+      "last": "2026-01-25"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-12-07",
-      "last_pretty": "07 december 2025"
+      "last": "2025-12-07"
     },
     {
       "name": "GLOW IN GENEVA",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-08-25",
-      "last_pretty": "25 august 2025"
+      "last": "2025-08-25"
     }
   ]
 }

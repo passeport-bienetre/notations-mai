@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-02-11",
-      "last_pretty": "11 february 2026"
+      "last": "2026-02-11"
     },
     {
       "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
       "visits": 1,
-      "last": "2026-02-07",
-      "last_pretty": "07 february 2026"
+      "last": "2026-02-07"
     },
     {
       "name": "NUANCES NATURE",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-12-22",
-      "last_pretty": "22 december 2025"
+      "last": "2025-12-22"
     },
     {
       "name": "SAKURA LAB",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-11-08",
-      "last_pretty": "08 november 2025"
+      "last": "2025-11-08"
     }
   ]
 }

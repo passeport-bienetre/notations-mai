@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Rituels Beauté",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "visits": 1,
-      "last": "2026-05-08",
-      "last_pretty": "08 may 2026"
+      "last": "2026-05-08"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-03-04",
-      "last_pretty": "04 march 2026"
+      "last": "2026-03-04"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-28",
-      "last_pretty": "28 january 2026"
+      "last": "2026-01-28"
     }
   ]
 }

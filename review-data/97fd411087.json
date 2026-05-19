@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LECRANS HOTEL &#038; SPA",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-18",
-      "last_pretty": "18 august 2025"
+      "last": "2025-08-18"
     },
     {
       "name": "Hairmania",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-06-10",
-      "last_pretty": "10 june 2025"
+      "last": "2025-06-10"
     }
   ]
 }

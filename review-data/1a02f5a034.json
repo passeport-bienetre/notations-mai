@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-12-09",
-      "last_pretty": "09 december 2025"
+      "last": "2025-12-09"
     },
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-05-30",
-      "last_pretty": "30 may 2025"
+      "last": "2025-05-30"
     }
   ]
 }

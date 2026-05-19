@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-05-07",
-      "last_pretty": "07 may 2026"
+      "last": "2026-05-07"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-07-29",
-      "last_pretty": "29 july 2025"
+      "last": "2025-07-29"
     }
   ]
 }

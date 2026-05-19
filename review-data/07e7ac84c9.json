@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-06-18",
-      "last_pretty": "18 june 2025"
+      "last": "2025-06-18"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-06-17",
-      "last_pretty": "17 june 2025"
+      "last": "2025-06-17"
     }
   ]
 }

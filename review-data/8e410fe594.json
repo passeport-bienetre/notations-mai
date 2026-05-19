@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "visits": 1,
-      "last": "2026-05-08",
-      "last_pretty": "08 may 2026"
+      "last": "2026-05-08"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-03-28",
-      "last_pretty": "28 march 2026"
+      "last": "2026-03-28"
     },
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-03-26",
-      "last_pretty": "26 march 2026"
+      "last": "2026-03-26"
     }
   ]
 }

@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-04-30",
-      "last_pretty": "30 april 2026"
+      "last": "2026-04-30"
     },
     {
       "name": "Chandolin Boutique Hôtel",
+      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "visits": 1,
-      "last": "2026-01-01",
-      "last_pretty": "01 january 2026"
+      "last": "2026-01-01"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-09-25",
-      "last_pretty": "25 september 2025"
+      "last": "2025-09-25"
     }
   ]
 }

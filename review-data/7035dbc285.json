@@ -5,57 +5,57 @@
   "estabs": [
     {
       "name": "Hôtel &#038; Spa Le National",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2026-04-06",
-      "last_pretty": "06 april 2026"
+      "last": "2026-04-06"
     },
     {
       "name": "Hairmania",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-12-27",
-      "last_pretty": "27 december 2025"
+      "last": "2025-12-27"
     },
     {
       "name": "Luna aesthetic",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-12-20",
-      "last_pretty": "20 december 2025"
+      "last": "2025-12-20"
     },
     {
       "name": "Les Vagabondes",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last": "2025-11-01"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025"
+      "last": "2025-08-30"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-16",
-      "last_pretty": "16 august 2025"
+      "last": "2025-08-16"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-08-16",
-      "last_pretty": "16 august 2025"
+      "last": "2025-08-16"
     },
     {
       "name": "Arte Beauty EHL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2025-07-04",
-      "last_pretty": "04 july 2025"
+      "last": "2025-07-04"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-05-24",
-      "last_pretty": "24 may 2025"
+      "last": "2025-05-24"
     }
   ]
 }

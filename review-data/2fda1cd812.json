@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-04-30",
-      "last_pretty": "30 april 2026"
+      "last": "2026-04-30"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-03-04",
-      "last_pretty": "04 march 2026"
+      "last": "2026-03-04"
     },
     {
       "name": "Flocoon Spa Cinq Mondes",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last": "2026-01-30"
     },
     {
       "name": "Thai Corner",
+      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-12-13",
-      "last_pretty": "13 december 2025"
+      "last": "2025-12-13"
     }
   ]
 }

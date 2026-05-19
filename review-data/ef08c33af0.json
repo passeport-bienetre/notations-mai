@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Sawatdee Delices",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-09-11",
-      "last_pretty": "11 september 2025"
+      "last": "2025-09-11"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-09-05",
-      "last_pretty": "05 september 2025"
+      "last": "2025-09-05"
     }
   ]
 }

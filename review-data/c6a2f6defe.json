@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-09-26",
-      "last_pretty": "26 september 2025"
+      "last": "2025-09-26"
     },
     {
       "name": "Nirvana Spa",
+      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-07-06",
-      "last_pretty": "06 july 2025"
+      "last": "2025-07-06"
     }
   ]
 }

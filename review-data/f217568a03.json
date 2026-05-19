@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Hairmania",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-10-21",
-      "last_pretty": "21 october 2025"
+      "last": "2025-10-21"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last": "2025-10-16"
     },
     {
       "name": "Tête à Clak",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     }
   ]
 }

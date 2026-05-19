@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-04-02",
-      "last_pretty": "02 april 2026"
+      "last": "2026-04-02"
     },
     {
       "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "url": "https://www.bodypass.ch/etablissements/namaka/",
       "visits": 1,
-      "last": "2026-01-02",
-      "last_pretty": "02 january 2026"
+      "last": "2026-01-02"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-12-26",
-      "last_pretty": "26 december 2025"
+      "last": "2025-12-26"
     },
     {
       "name": "Salon Privé Ecublens",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "Nirvana Spa",
+      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-08-09",
-      "last_pretty": "09 august 2025"
+      "last": "2025-08-09"
     }
   ]
 }

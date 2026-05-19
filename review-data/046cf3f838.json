@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-01-17",
-      "last_pretty": "17 january 2026"
+      "last": "2026-01-17"
     },
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "Anzère SPA &#038; Wellness",
+      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "visits": 1,
-      "last": "2025-11-22",
-      "last_pretty": "22 november 2025"
+      "last": "2025-11-22"
     }
   ]
 }

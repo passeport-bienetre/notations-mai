@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-26",
-      "last_pretty": "26 january 2026"
+      "last": "2026-01-26"
     },
     {
       "name": "Institut Kaori",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2025-12-06",
-      "last_pretty": "06 december 2025"
+      "last": "2025-12-06"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last": "2025-11-14"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last": "2025-10-16"
     },
     {
       "name": "Fairmont le Montreux Palace",
+      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-08-27",
-      "last_pretty": "27 august 2025"
+      "last": "2025-08-27"
     },
     {
       "name": "NUANCES NATURE",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-08-07",
-      "last_pretty": "07 august 2025"
+      "last": "2025-08-07"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2025-06-08",
-      "last_pretty": "08 june 2025"
+      "last": "2025-06-08"
     }
   ]
 }

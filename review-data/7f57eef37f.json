@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Eva",
+      "url": "https://www.bodypass.ch/?s=LE%20CENTRE%20GEN%C3%88VE%20BY%20CHARLINE%20%E2%80%93%20Eva",
       "visits": 2,
-      "last": "2025-12-16",
-      "last_pretty": "16 december 2025"
+      "last": "2025-12-16"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-05-01",
-      "last_pretty": "01 may 2026"
+      "last": "2026-05-01"
     },
     {
       "name": "AVEDA VIEILLE-VILLE",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2026-03-19",
-      "last_pretty": "19 march 2026"
+      "last": "2026-03-19"
     },
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-02-21",
-      "last_pretty": "21 february 2026"
+      "last": "2026-02-21"
     },
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-11-28",
-      "last_pretty": "28 november 2025"
+      "last": "2025-11-28"
     },
     {
       "name": "19Th Avenue &#8211; Thonex",
+      "url": "https://www.bodypass.ch/?s=19Th%20Avenue%20%E2%80%93%20Thonex",
       "visits": 1,
-      "last": "2025-10-02",
-      "last_pretty": "02 october 2025"
+      "last": "2025-10-02"
     }
   ]
 }

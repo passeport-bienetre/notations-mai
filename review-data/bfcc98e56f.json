@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "NUANCES NATURE",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2026-04-15",
-      "last_pretty": "15 april 2026"
+      "last": "2026-04-15"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last": "2025-07-25"
     },
     {
       "name": "The Wax Bar Genève",
+      "url": "https://www.bodypass.ch/etablissements/the-wax-bar-geneve/",
       "visits": 1,
-      "last": "2025-05-26",
-      "last_pretty": "26 may 2025"
+      "last": "2025-05-26"
     }
   ]
 }

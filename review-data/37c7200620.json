@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Espace Beauté Harmonie",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "visits": 1,
-      "last": "2025-11-18",
-      "last_pretty": "18 november 2025"
+      "last": "2025-11-18"
     },
     {
       "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-11-06",
-      "last_pretty": "06 november 2025"
+      "last": "2025-11-06"
     },
     {
       "name": "CJ Coiffure",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-09-26",
-      "last_pretty": "26 september 2025"
+      "last": "2025-09-26"
     },
     {
       "name": "Elvi Haute Coiffure",
+      "url": "https://www.bodypass.ch/?s=Elvi%20Haute%20Coiffure",
       "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025"
+      "last": "2025-07-30"
     },
     {
       "name": "Karré Long",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2025-07-03",
-      "last_pretty": "03 july 2025"
+      "last": "2025-07-03"
     },
     {
       "name": "Swiss Aesthetica",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-06-25",
-      "last_pretty": "25 june 2025"
+      "last": "2025-06-25"
     }
   ]
 }

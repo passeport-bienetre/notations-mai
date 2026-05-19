@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-03-21",
-      "last_pretty": "21 march 2026"
+      "last": "2026-03-21"
     },
     {
       "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "url": "https://www.bodypass.ch/etablissements/namaka/",
       "visits": 1,
-      "last": "2026-02-28",
-      "last_pretty": "28 february 2026"
+      "last": "2026-02-28"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-12-26",
-      "last_pretty": "26 december 2025"
+      "last": "2025-12-26"
     },
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-08-22",
-      "last_pretty": "22 august 2025"
+      "last": "2025-08-22"
     },
     {
       "name": "So Beauty Home",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "visits": 1,
-      "last": "2025-08-08",
-      "last_pretty": "08 august 2025"
+      "last": "2025-08-08"
     }
   ]
 }

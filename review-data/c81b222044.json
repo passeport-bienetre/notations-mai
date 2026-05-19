@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Simple Passion",
+      "url": "https://www.bodypass.ch/etablissements/simple-passion/",
       "visits": 1,
-      "last": "2026-04-15",
-      "last_pretty": "15 april 2026"
+      "last": "2026-04-15"
     },
     {
       "name": "JOIA NEUCHATEL",
+      "url": "https://www.bodypass.ch/?s=JOIA%20NEUCHATEL",
       "visits": 1,
-      "last": "2025-05-28",
-      "last_pretty": "28 may 2025"
+      "last": "2025-05-28"
     }
   ]
 }

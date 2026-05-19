@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "BuiCil Genève",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2026-01-24",
-      "last_pretty": "24 january 2026"
+      "last": "2026-01-24"
     },
     {
       "name": "Wulan Studio",
+      "url": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "visits": 1,
-      "last": "2025-12-22",
-      "last_pretty": "22 december 2025"
+      "last": "2025-12-22"
     }
   ]
 }

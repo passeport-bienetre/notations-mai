@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-04-08",
-      "last_pretty": "08 april 2026"
+      "last": "2026-04-08"
     },
     {
       "name": "W Verbier",
+      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2026-03-11",
-      "last_pretty": "11 march 2026"
+      "last": "2026-03-11"
     },
     {
       "name": "Experimental Chalet",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2025-10-30",
-      "last_pretty": "30 october 2025"
+      "last": "2025-10-30"
     }
   ]
 }

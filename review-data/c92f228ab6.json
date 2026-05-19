@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Anzère SPA &#038; Wellness",
+      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "visits": 1,
-      "last": "2025-07-31",
-      "last_pretty": "31 july 2025"
+      "last": "2025-07-31"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-06-03",
-      "last_pretty": "03 june 2025"
+      "last": "2025-06-03"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-05-31",
-      "last_pretty": "31 may 2025"
+      "last": "2025-05-31"
     },
     {
       "name": "Hairmania",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-05-30",
-      "last_pretty": "30 may 2025"
+      "last": "2025-05-30"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2025-05-27",
-      "last_pretty": "27 may 2025"
+      "last": "2025-05-27"
     }
   ]
 }

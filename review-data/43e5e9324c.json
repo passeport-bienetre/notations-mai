@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-09-24",
-      "last_pretty": "24 september 2025"
+      "last": "2025-09-24"
     },
     {
       "name": "Hairmania",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-07-29",
-      "last_pretty": "29 july 2025"
+      "last": "2025-07-29"
     }
   ]
 }

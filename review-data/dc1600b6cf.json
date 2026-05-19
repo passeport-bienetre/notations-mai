@@ -5,51 +5,51 @@
   "estabs": [
     {
       "name": "SUBLIMEYES",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-05-04",
-      "last_pretty": "04 may 2026"
+      "last": "2026-05-04"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-04-24",
-      "last_pretty": "24 april 2026"
+      "last": "2026-04-24"
     },
     {
       "name": "AVEDA VIEILLE-VILLE",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2026-04-11",
-      "last_pretty": "11 april 2026"
+      "last": "2026-04-11"
     },
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-03-31",
-      "last_pretty": "31 march 2026"
+      "last": "2026-03-31"
     },
     {
       "name": "FLEUR D’EPIDERME",
+      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-03-17",
-      "last_pretty": "17 march 2026"
+      "last": "2026-03-17"
     },
     {
       "name": "Hôtel Royal",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/",
       "visits": 1,
-      "last": "2026-03-14",
-      "last_pretty": "14 march 2026"
+      "last": "2026-03-14"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
+      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2026-03-04",
-      "last_pretty": "04 march 2026"
+      "last": "2026-03-04"
     },
     {
       "name": "19th AVENUE &#8211; Versonnex",
+      "url": "https://www.bodypass.ch/etablissements/versonnex/",
       "visits": 1,
-      "last": "2026-02-20",
-      "last_pretty": "20 february 2026"
+      "last": "2026-02-20"
     }
   ]
 }

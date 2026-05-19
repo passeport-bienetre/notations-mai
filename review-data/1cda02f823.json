@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2026-04-13",
-      "last_pretty": "13 april 2026"
+      "last": "2026-04-13"
     },
     {
       "name": "Mon Bonheur Ayurvédique",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
       "visits": 1,
-      "last": "2025-11-30",
-      "last_pretty": "30 november 2025"
+      "last": "2025-11-30"
     }
   ]
 }

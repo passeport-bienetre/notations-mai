@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Salon Privé Chailly",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-04-04",
-      "last_pretty": "04 april 2026"
+      "last": "2026-04-04"
     },
     {
       "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
       "visits": 1,
-      "last": "2026-01-19",
-      "last_pretty": "19 january 2026"
+      "last": "2026-01-19"
     }
   ]
 }

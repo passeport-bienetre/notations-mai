@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Hôtel &#038; Spa Le National",
+      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-12-07",
-      "last_pretty": "07 december 2025"
+      "last": "2025-12-07"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-13",
-      "last_pretty": "13 november 2025"
+      "last": "2025-11-13"
     },
     {
       "name": "Maison Perle",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-10-04",
-      "last_pretty": "04 october 2025"
+      "last": "2025-10-04"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-06-07",
-      "last_pretty": "07 june 2025"
+      "last": "2025-06-07"
     }
   ]
 }

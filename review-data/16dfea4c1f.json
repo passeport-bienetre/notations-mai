@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "EUROPE ZERMATT HÔTEL",
+      "url": "https://www.bodypass.ch/?s=EUROPE%20ZERMATT%20H%C3%94TEL",
       "visits": 1,
-      "last": "2026-04-14",
-      "last_pretty": "14 april 2026"
+      "last": "2026-04-14"
     },
     {
       "name": "Sawatdee Temple",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last": "2026-04-10"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last": "2025-12-19"
     },
     {
       "name": "LE ST-GERVAIS HÔTEL &#038; SPA",
+      "url": "https://www.bodypass.ch/?s=LE%20ST-GERVAIS%20H%C3%94TEL%20%26%20SPA",
       "visits": 1,
-      "last": "2025-12-09",
-      "last_pretty": "09 december 2025"
+      "last": "2025-12-09"
     },
     {
       "name": "LAUSANNE PALACE",
+      "url": "https://www.bodypass.ch/?s=LAUSANNE%20PALACE",
       "visits": 1,
-      "last": "2025-11-18",
-      "last_pretty": "18 november 2025"
+      "last": "2025-11-18"
     },
     {
       "name": "Europe Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
       "visits": 1,
-      "last": "2025-11-15",
-      "last_pretty": "15 november 2025"
+      "last": "2025-11-15"
     }
   ]
 }

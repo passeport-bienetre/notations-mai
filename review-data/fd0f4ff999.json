@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "CLINIQUE LA JOUVENCE GENÈVE",
+      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "visits": 1,
-      "last": "2026-03-11",
-      "last_pretty": "11 march 2026"
+      "last": "2026-03-11"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "visits": 1,
-      "last": "2026-02-12",
-      "last_pretty": "12 february 2026"
+      "last": "2026-02-12"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-12-23",
-      "last_pretty": "23 december 2025"
+      "last": "2025-12-23"
     },
     {
       "name": "LA MAISON VALMONT – BONGENIE",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2025-12-11",
-      "last_pretty": "11 december 2025"
+      "last": "2025-12-11"
     },
     {
       "name": "Fairmont le Montreux Palace",
+      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-09-16",
-      "last_pretty": "16 september 2025"
+      "last": "2025-09-16"
     },
     {
       "name": "Hôtel Royal",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/",
       "visits": 1,
-      "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last": "2025-07-17"
     },
     {
       "name": "Les Vagabondes",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2025-06-19",
-      "last_pretty": "19 june 2025"
+      "last": "2025-06-19"
     }
   ]
 }

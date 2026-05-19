@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "La Coifferie",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2026-01-22",
-      "last_pretty": "22 january 2026"
+      "last": "2026-01-22"
     },
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-08-28",
-      "last_pretty": "28 august 2025"
+      "last": "2025-08-28"
     },
     {
       "name": "Studio Beauté",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2025-08-21",
-      "last_pretty": "21 august 2025"
+      "last": "2025-08-21"
     }
   ]
 }

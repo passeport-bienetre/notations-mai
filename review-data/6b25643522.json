@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-05-11",
-      "last_pretty": "11 may 2026"
+      "last": "2026-05-11"
     },
     {
       "name": "Arte Beauty EPFL",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2026-04-25",
-      "last_pretty": "25 april 2026"
+      "last": "2026-04-25"
     },
     {
       "name": "Nail Café",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-04-21",
-      "last_pretty": "21 april 2026"
+      "last": "2026-04-21"
     },
     {
       "name": "Les Sources des Alpes",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last": "2026-04-10"
     },
     {
       "name": "Namaka &#8211; Centre de Longévité et Bienêtre",
+      "url": "https://www.bodypass.ch/etablissements/namaka/",
       "visits": 1,
-      "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last": "2026-04-10"
     }
   ]
 }

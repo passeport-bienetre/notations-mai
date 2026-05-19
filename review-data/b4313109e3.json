@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Flocoon Spa Cinq Mondes",
+      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2026-04-18",
-      "last_pretty": "18 april 2026"
+      "last": "2026-04-18"
     },
     {
       "name": "Hôtel Royal",
+      "url": "https://www.bodypass.ch/etablissements/hotel-royal/",
       "visits": 1,
-      "last": "2025-07-20",
-      "last_pretty": "20 july 2025"
+      "last": "2025-07-20"
     },
     {
       "name": "Les Vagabondes",
+      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2025-05-21",
-      "last_pretty": "21 may 2025"
+      "last": "2025-05-21"
     }
   ]
 }

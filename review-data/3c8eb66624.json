@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Rituels Beauté",
+      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "visits": 1,
-      "last": "2026-01-21",
-      "last_pretty": "21 january 2026"
+      "last": "2026-01-21"
     },
     {
       "name": "Centre de bien-être J&#038;J",
+      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "visits": 1,
-      "last": "2025-11-26",
-      "last_pretty": "26 november 2025"
+      "last": "2025-11-26"
     },
     {
       "name": "Fairmont le Montreux Palace",
+      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last": "2025-10-16"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-08-11",
-      "last_pretty": "11 august 2025"
+      "last": "2025-08-11"
     },
     {
       "name": "NUTRITION BY AURELIA",
+      "url": "https://www.bodypass.ch/etablissements/nutrition-by-aurelia/",
       "visits": 1,
-      "last": "2025-07-21",
-      "last_pretty": "21 july 2025"
+      "last": "2025-07-21"
     },
     {
       "name": "Le Passage",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-05-21",
-      "last_pretty": "21 may 2025"
+      "last": "2025-05-21"
     }
   ]
 }

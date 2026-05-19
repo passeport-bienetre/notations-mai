@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Hairstudio",
+      "url": "https://www.bodypass.ch/etablissements/hairstudio/",
       "visits": 1,
-      "last": "2026-05-15",
-      "last_pretty": "15 may 2026"
+      "last": "2026-05-15"
     },
     {
       "name": "BuiCil Genève",
+      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2026-02-25",
-      "last_pretty": "25 february 2026"
+      "last": "2026-02-25"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-01-02",
-      "last_pretty": "02 january 2026"
+      "last": "2026-01-02"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-12-30",
-      "last_pretty": "30 december 2025"
+      "last": "2025-12-30"
     },
     {
       "name": "Le Bal des Créateurs",
+      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-10-17",
-      "last_pretty": "17 october 2025"
+      "last": "2025-10-17"
     }
   ]
 }

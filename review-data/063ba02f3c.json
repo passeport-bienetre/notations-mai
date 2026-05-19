@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "So Hair",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/",
       "visits": 1,
-      "last": "2025-10-31",
-      "last_pretty": "31 october 2025"
+      "last": "2025-10-31"
     },
     {
       "name": "Akyado Genève Centre",
+      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-10-24",
-      "last_pretty": "24 october 2025"
+      "last": "2025-10-24"
     }
   ]
 }

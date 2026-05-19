@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "LA MAISON VALMONT – BONGENIE",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2025-11-25",
-      "last_pretty": "25 november 2025"
+      "last": "2025-11-25"
     },
     {
       "name": "Arte Beauty Lutry",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-11-15",
-      "last_pretty": "15 november 2025"
+      "last": "2025-11-15"
     },
     {
       "name": "Institut Guinot",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-10-13",
-      "last_pretty": "13 october 2025"
+      "last": "2025-10-13"
     },
     {
       "name": "Espace Beauté Harmonie",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "visits": 1,
-      "last": "2025-08-30",
-      "last_pretty": "30 august 2025"
+      "last": "2025-08-30"
     },
     {
       "name": "L&rsquo;Atelier du Visage",
+      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
       "visits": 1,
-      "last": "2025-06-15",
-      "last_pretty": "15 june 2025"
+      "last": "2025-06-15"
     }
   ]
 }

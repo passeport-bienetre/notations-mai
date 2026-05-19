@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Chalet-Hôtel la Marmotte",
+      "url": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/",
       "visits": 1,
-      "last": "2026-01-03",
-      "last_pretty": "03 january 2026"
+      "last": "2026-01-03"
     },
     {
       "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
       "visits": 1,
-      "last": "2025-12-13",
-      "last_pretty": "13 december 2025"
+      "last": "2025-12-13"
     },
     {
       "name": "Les Sources du Chéry",
+      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/",
       "visits": 1,
-      "last": "2025-08-09",
-      "last_pretty": "09 august 2025"
+      "last": "2025-08-09"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-06-04",
-      "last_pretty": "04 june 2025"
+      "last": "2025-06-04"
     },
     {
       "name": "LES TRESOMS",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2025-05-24",
-      "last_pretty": "24 may 2025"
+      "last": "2025-05-24"
     }
   ]
 }

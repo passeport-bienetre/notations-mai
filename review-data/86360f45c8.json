@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Naïda Massothérapie",
+      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
       "visits": 1,
-      "last": "2026-05-11",
-      "last_pretty": "11 may 2026"
+      "last": "2026-05-11"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-12-11",
-      "last_pretty": "11 december 2025"
+      "last": "2025-12-11"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-09-18",
-      "last_pretty": "18 september 2025"
+      "last": "2025-09-18"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-08-11",
-      "last_pretty": "11 august 2025"
+      "last": "2025-08-11"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-14",
-      "last_pretty": "14 july 2025"
+      "last": "2025-07-14"
     },
     {
       "name": "Institut Osmose",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-06-30",
-      "last_pretty": "30 june 2025"
+      "last": "2025-06-30"
     },
     {
       "name": "Bhumi",
+      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-05-30",
-      "last_pretty": "30 may 2025"
+      "last": "2025-05-30"
     }
   ]
 }

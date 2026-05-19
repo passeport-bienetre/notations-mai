@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hairstudio",
+      "url": "https://www.bodypass.ch/etablissements/hairstudio/",
       "visits": 1,
-      "last": "2026-05-09",
-      "last_pretty": "09 may 2026"
+      "last": "2026-05-09"
     },
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-03-07",
-      "last_pretty": "07 march 2026"
+      "last": "2026-03-07"
     }
   ]
 }

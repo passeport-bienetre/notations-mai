@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Skin Solution",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last": "2026-02-27"
     },
     {
       "name": "19th AVENUE &#8211; Versonnex",
+      "url": "https://www.bodypass.ch/etablissements/versonnex/",
       "visits": 1,
-      "last": "2026-01-10",
-      "last_pretty": "10 january 2026"
+      "last": "2026-01-10"
     },
     {
       "name": "Corps Sains",
+      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
       "visits": 1,
-      "last": "2025-08-11",
-      "last_pretty": "11 august 2025"
+      "last": "2025-08-11"
     },
     {
       "name": "19Th Avenue &#8211; Thonex",
+      "url": "https://www.bodypass.ch/?s=19Th%20Avenue%20%E2%80%93%20Thonex",
       "visits": 1,
-      "last": "2025-06-20",
-      "last_pretty": "20 june 2025"
+      "last": "2025-06-20"
     }
   ]
 }

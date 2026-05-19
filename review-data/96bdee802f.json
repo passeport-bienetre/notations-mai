@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "ERINGER INSTITUT",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-08-01",
-      "last_pretty": "01 august 2025"
+      "last": "2025-08-01"
     },
     {
       "name": "Espace Beauté Sarah",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2025-07-30",
-      "last_pretty": "30 july 2025"
+      "last": "2025-07-30"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "visits": 1,
-      "last": "2025-06-07",
-      "last_pretty": "07 june 2025"
+      "last": "2025-06-07"
     },
     {
       "name": "KASA AMO",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-05-30",
-      "last_pretty": "30 may 2025"
+      "last": "2025-05-30"
     }
   ]
 }

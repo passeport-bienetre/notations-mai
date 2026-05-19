@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Le Beausquet Genève",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-02-18",
-      "last_pretty": "18 february 2026"
+      "last": "2026-02-18"
     },
     {
       "name": "Studio Beauté",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2026-02-17",
-      "last_pretty": "17 february 2026"
+      "last": "2026-02-17"
     },
     {
       "name": "GLOW IN GENEVA",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-10-17",
-      "last_pretty": "17 october 2025"
+      "last": "2025-10-17"
     },
     {
       "name": "Blossom Institut",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-06-10",
-      "last_pretty": "10 june 2025"
+      "last": "2025-06-10"
     },
     {
       "name": "Le Cabinet de Beauté",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2025-06-10",
-      "last_pretty": "10 june 2025"
+      "last": "2025-06-10"
     }
   ]
 }

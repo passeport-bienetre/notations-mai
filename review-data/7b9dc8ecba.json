@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Thaiotop",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-09-19",
-      "last_pretty": "19 september 2025"
+      "last": "2025-09-19"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-09-12",
-      "last_pretty": "12 september 2025"
+      "last": "2025-09-12"
     }
   ]
 }

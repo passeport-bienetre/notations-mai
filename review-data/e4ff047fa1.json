@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "ERINGER INSTITUT",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2026-01-31",
-      "last_pretty": "31 january 2026"
+      "last": "2026-01-31"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-21",
-      "last_pretty": "21 november 2025"
+      "last": "2025-11-21"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
+      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-11-08",
-      "last_pretty": "08 november 2025"
+      "last": "2025-11-08"
     },
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
+      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
       "visits": 1,
-      "last": "2025-10-19",
-      "last_pretty": "19 october 2025"
+      "last": "2025-10-19"
     },
     {
       "name": "LES FITNESS HARMONY",
+      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-08-21",
-      "last_pretty": "21 august 2025"
+      "last": "2025-08-21"
     }
   ]
 }

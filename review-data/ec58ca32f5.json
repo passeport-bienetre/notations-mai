@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
+      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-01-05",
-      "last_pretty": "05 january 2026"
+      "last": "2026-01-05"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-10-13",
-      "last_pretty": "13 october 2025"
+      "last": "2025-10-13"
     },
     {
       "name": "Tête à Clak",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "visits": 1,
-      "last": "2025-09-17",
-      "last_pretty": "17 september 2025"
+      "last": "2025-09-17"
     },
     {
       "name": "Organik Beauty",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2025-09-17",
-      "last_pretty": "17 september 2025"
+      "last": "2025-09-17"
     }
   ]
 }
