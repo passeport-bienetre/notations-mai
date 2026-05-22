@@ -102,12 +102,22 @@
   .estab {
     background: white;
     border: 1px solid var(--border);
-    padding: 36px 40px 32px;
     margin-bottom: 20px;
+    overflow: hidden;
     transition: border-color 0.2s ease;
   }
   .estab:hover {
     border-color: var(--champagne);
+  }
+  .estab-photo {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block;
+    background: var(--cream-deep);
+  }
+  .estab-body {
+    padding: 36px 40px 32px;
   }
   .estab-head {
     margin-bottom: 28px;
@@ -306,7 +316,7 @@
     body { padding: 24px 16px; }
     .intro { padding: 32px 24px 28px; }
     .intro h1 { font-size: 28px; }
-    .estab { padding: 24px 22px 22px; }
+    .estab-body { padding: 24px 22px 22px; }
     .estab-name { font-size: 20px; }
     .stars label { font-size: 22px; }
     .rating-row {
@@ -387,20 +397,42 @@
   function showError() { hideLoading(); document.getElementById('error-screen').style.display = 'block'; }
   function showForm() { hideLoading(); document.getElementById('form-wrapper').style.display = 'block'; }
 
+  const PHOTO_BASE = 'https://bodypass-ch.github.io/bodypass-assets/etablissements/';
+  const PHOTO_DEFAULT = PHOTO_BASE + '_default.jpg';
+
+  function slugFromUrl(url) {
+    if (!url) return null;
+    // url like https://www.bodypass.ch/etablissements/{slug}/  (slug may contain a '/' for chain children)
+    const m = String(url).match(/\/etablissements\/(.+?)\/?$/);
+    if (!m) return null;
+    return m[1]; // may include "/" for nested chain entries
+  }
+
+  function photoUrlFromSlug(slug) {
+    if (!slug) return PHOTO_DEFAULT;
+    // Convention: "/" in slug becomes "--" in the asset filename
+    return PHOTO_BASE + slug.replace(/\//g, '--') + '.jpg';
+  }
+
   function renderEstab(estab, idx) {
     const key = 'estab' + idx;
+    const slug = slugFromUrl(estab.url);
+    const photo = photoUrlFromSlug(slug);
     return `
     <section class="estab">
-      <div class="estab-head">
-        <div class="estab-name"><a href="${escapeHtml(estab.url || "https://www.bodypass.ch/?s=" + encodeURIComponent(decodeEntities(estab.name)))}" target="_blank" rel="noopener" class="estab-link">${escapeHtml(decodeEntities(estab.name))}</a></div>
-        <div class="estab-meta">${estab.visits} visite${estab.visits>1?'s':''} <span class="dot">·</span> Dernière le ${formatDateFR(estab.last)}</div>
-      </div>
-      ${renderStarsRow(key, 'beauty', "Beauté du lieu")}
-      ${renderStarsRow(key, 'welcome', "Qualité de l'accueil")}
-      ${renderStarsRow(key, 'care', "Qualité des soins")}
-      <div class="comment">
-        <label for="${key}_comment">Un mot à partager ? <span style="text-transform:none; letter-spacing:0; color:#B5AFA8; font-weight:400;">(optionnel)</span></label>
-        <textarea id="${key}_comment" name="${key}_comment" placeholder="Une attention particulière, un soin qui vous a marquée, quelque chose à améliorer..."></textarea>
+      <img class="estab-photo" src="${escapeHtml(photo)}" alt="${escapeHtml(decodeEntities(estab.name))}" loading="lazy" onerror="this.onerror=null;this.src='${PHOTO_DEFAULT}';">
+      <div class="estab-body">
+        <div class="estab-head">
+          <div class="estab-name"><a href="${escapeHtml(estab.url || "https://www.bodypass.ch/?s=" + encodeURIComponent(decodeEntities(estab.name)))}" target="_blank" rel="noopener" class="estab-link">${escapeHtml(decodeEntities(estab.name))}</a></div>
+          <div class="estab-meta">${estab.visits} visite${estab.visits>1?'s':''} <span class="dot">·</span> Dernière le ${formatDateFR(estab.last)}</div>
+        </div>
+        ${renderStarsRow(key, 'beauty', "Beauté du lieu")}
+        ${renderStarsRow(key, 'welcome', "Qualité de l'accueil")}
+        ${renderStarsRow(key, 'care', "Qualité des soins")}
+        <div class="comment">
+          <label for="${key}_comment">Un mot à partager ? <span style="text-transform:none; letter-spacing:0; color:#B5AFA8; font-weight:400;">(optionnel)</span></label>
+          <textarea id="${key}_comment" name="${key}_comment" placeholder="Une attention particulière, un soin qui vous a marquée, quelque chose à améliorer..."></textarea>
+        </div>
       </div>
     </section>`;
   }
