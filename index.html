@@ -409,7 +409,7 @@ return PHOTO_BASE + slug.replace(/\//g, '--') + '.jpg';
 function renderEstab(estab, idx) {
 const key = 'estab' + idx;
 const slug = slugFromUrl(estab.url);
-const photo = photoUrlFromSlug(slug);
+const photo = estab.photo ? PHOTO_BASE + estab.photo : photoUrlFromSlug(slug);
 return `
 <section class="estab">
 <img class="estab-photo" src="${escapeHtml(photo)}" alt="${escapeHtml(decodeEntities(estab.name))}" loading="lazy" onerror="this.onerror=null;this.src='${PHOTO_DEFAULT}';">

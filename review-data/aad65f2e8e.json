@@ -28,7 +28,8 @@
       "name": "BEAUTY B",
       "visits": 1,
       "last": "2025-11-06",
-      "last_pretty": "06 november 2025"
+      "last_pretty": "06 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/bv-institut/"
     },
     {
       "name": "NUANCES NATURE",
@@ -61,7 +62,8 @@
       "name": "Les Cliniques Matignon",
       "visits": 1,
       "last": "2025-06-03",
-      "last_pretty": "03 june 2025"
+      "last_pretty": "03 june 2025",
+      "photo": "les-cliniques-matignon--geneve.jpg"
     }
   ]
 }
