@@ -7,7 +7,8 @@
       "name": "Sawatdee Temple",
       "visits": 1,
       "last": "2026-04-10",
-      "last_pretty": "10 april 2026"
+      "last_pretty": "10 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -19,7 +20,8 @@
       "name": "ERINGER INSTITUT",
       "visits": 1,
       "last": "2025-07-17",
-      "last_pretty": "17 july 2025"
+      "last_pretty": "17 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
     }
   ]
 }

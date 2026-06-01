@@ -7,7 +7,8 @@
       "name": "Hairmania",
       "visits": 1,
       "last": "2026-02-14",
-      "last_pretty": "14 february 2026"
+      "last_pretty": "14 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
     },
     {
       "name": "Beauty Concept Vevey",
@@ -19,19 +20,22 @@
       "name": "Salon Privé Chailly",
       "visits": 1,
       "last": "2025-12-11",
-      "last_pretty": "11 december 2025"
+      "last_pretty": "11 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
     },
     {
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2025-12-11",
-      "last_pretty": "11 december 2025"
+      "last_pretty": "11 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Arte Beauty Lutry",
       "visits": 1,
       "last": "2025-09-13",
-      "last_pretty": "13 september 2025"
+      "last_pretty": "13 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
     }
   ]
 }

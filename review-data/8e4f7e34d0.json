@@ -13,13 +13,15 @@
       "name": "Le Cabinet de Beauté",
       "visits": 1,
       "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last_pretty": "29 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
     },
     {
       "name": "Parallèles Coiffure",
       "visits": 1,
       "last": "2025-10-08",
-      "last_pretty": "08 october 2025"
+      "last_pretty": "08 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
     }
   ]
 }

@@ -7,13 +7,15 @@
       "name": "SAKURA LAB",
       "visits": 1,
       "last": "2025-07-09",
-      "last_pretty": "09 july 2025"
+      "last_pretty": "09 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
     },
     {
       "name": "BLISS",
       "visits": 1,
       "last": "2025-06-04",
-      "last_pretty": "04 june 2025"
+      "last_pretty": "04 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/bliss/"
     }
   ]
 }

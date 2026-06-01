@@ -7,7 +7,8 @@
       "name": "Salon Privé Chailly",
       "visits": 1,
       "last": "2025-12-17",
-      "last_pretty": "17 december 2025"
+      "last_pretty": "17 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -19,13 +20,15 @@
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2025-10-07",
-      "last_pretty": "07 october 2025"
+      "last_pretty": "07 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     },
     {
       "name": "Nail Café",
       "visits": 1,
       "last": "2025-09-10",
-      "last_pretty": "10 september 2025"
+      "last_pretty": "10 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
     },
     {
       "name": "Bhumi",
@@ -37,7 +40,8 @@
       "name": "Maison Perle",
       "visits": 1,
       "last": "2025-06-03",
-      "last_pretty": "03 june 2025"
+      "last_pretty": "03 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/maison-perle/"
     }
   ]
 }

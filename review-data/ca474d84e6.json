@@ -7,7 +7,8 @@
       "name": "INSTITUT NATURALPE",
       "visits": 1,
       "last": "2025-12-01",
-      "last_pretty": "01 december 2025"
+      "last_pretty": "01 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-naturalpe/"
     },
     {
       "name": "19Th Avenue &#8211; Thonex",
@@ -25,7 +26,8 @@
       "name": "SAKURA LAB",
       "visits": 1,
       "last": "2025-06-14",
-      "last_pretty": "14 june 2025"
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
     }
   ]
 }

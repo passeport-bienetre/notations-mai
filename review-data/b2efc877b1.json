@@ -13,19 +13,22 @@
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2025-09-26",
-      "last_pretty": "26 september 2025"
+      "last_pretty": "26 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "POWERCUBE",
       "visits": 1,
       "last": "2025-09-22",
-      "last_pretty": "22 september 2025"
+      "last_pretty": "22 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/powercube/"
     },
     {
       "name": "Thaiotop",
       "visits": 1,
       "last": "2025-09-19",
-      "last_pretty": "19 september 2025"
+      "last_pretty": "19 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/"
     },
     {
       "name": "Les Cliniques Matignon",
@@ -37,7 +40,8 @@
       "name": "Mon Bonheur Ayurvédique",
       "visits": 1,
       "last": "2025-09-11",
-      "last_pretty": "11 september 2025"
+      "last_pretty": "11 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/"
     }
   ]
 }

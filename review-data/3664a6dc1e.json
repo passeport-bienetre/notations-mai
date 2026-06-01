@@ -7,19 +7,22 @@
       "name": "LA SUITE COIFFURE",
       "visits": 1,
       "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-suite-coiffure/"
     },
     {
       "name": "Institut Osmose",
       "visits": 1,
       "last": "2025-12-18",
-      "last_pretty": "18 december 2025"
+      "last_pretty": "18 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-osmose/"
     },
     {
       "name": "So Beauty Home",
       "visits": 1,
       "last": "2025-09-18",
-      "last_pretty": "18 september 2025"
+      "last_pretty": "18 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -37,13 +40,15 @@
       "name": "So Hair",
       "visits": 1,
       "last": "2025-06-05",
-      "last_pretty": "05 june 2025"
+      "last_pretty": "05 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-hair/"
     },
     {
       "name": "Ipanema Beauté",
       "visits": 1,
       "last": "2025-06-05",
-      "last_pretty": "05 june 2025"
+      "last_pretty": "05 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
     }
   ]
 }

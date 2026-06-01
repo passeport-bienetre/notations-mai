@@ -7,13 +7,15 @@
       "name": "Serenityblue",
       "visits": 1,
       "last": "2026-05-15",
-      "last_pretty": "15 may 2026"
+      "last_pretty": "15 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
     },
     {
       "name": "COMME SUR UN NUAGE",
       "visits": 1,
       "last": "2026-02-20",
-      "last_pretty": "20 february 2026"
+      "last_pretty": "20 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/"
     }
   ]
 }

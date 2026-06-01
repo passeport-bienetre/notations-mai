@@ -7,13 +7,15 @@
       "name": "Grand Hôtel du Lac",
       "visits": 1,
       "last": "2026-02-18",
-      "last_pretty": "18 february 2026"
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last_pretty": "16 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

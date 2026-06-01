@@ -7,13 +7,15 @@
       "name": "CJ Coiffure",
       "visits": 1,
       "last": "2026-05-29",
-      "last_pretty": "29 may 2026"
+      "last_pretty": "29 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
     },
     {
       "name": "Le Grand Bellevue",
       "visits": 1,
       "last": "2026-01-27",
-      "last_pretty": "27 january 2026"
+      "last_pretty": "27 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
     },
     {
       "name": "Fairmont le Montreux Palace",
@@ -25,7 +27,8 @@
       "name": "KASA AMO",
       "visits": 1,
       "last": "2025-10-20",
-      "last_pretty": "20 october 2025"
+      "last_pretty": "20 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
     }
   ]
 }

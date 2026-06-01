@@ -7,19 +7,22 @@
       "name": "Anzère SPA &#038; Wellness",
       "visits": 1,
       "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/"
     },
     {
       "name": "Chanelle and Co.",
       "visits": 1,
       "last": "2025-08-28",
-      "last_pretty": "28 august 2025"
+      "last_pretty": "28 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/chanelle-and-co/"
     },
     {
       "name": "Bains d&rsquo;Ovronnaz",
       "visits": 1,
       "last": "2025-07-03",
-      "last_pretty": "03 july 2025"
+      "last_pretty": "03 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/"
     }
   ]
 }

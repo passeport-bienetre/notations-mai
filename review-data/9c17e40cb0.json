@@ -13,13 +13,15 @@
       "name": "Grand Hôtel du Lac",
       "visits": 1,
       "last": "2026-03-25",
-      "last_pretty": "25 march 2026"
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/"
     },
     {
       "name": "Luna aesthetic",
       "visits": 1,
       "last": "2026-03-11",
-      "last_pretty": "11 march 2026"
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
     },
     {
       "name": "Beauty Concept Vevey",
@@ -31,7 +33,8 @@
       "name": "LAURA COIFFEUSE PRIVÉE",
       "visits": 1,
       "last": "2026-01-24",
-      "last_pretty": "24 january 2026"
+      "last_pretty": "24 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -43,7 +46,8 @@
       "name": "Institut ZenSkin",
       "visits": 1,
       "last": "2025-11-01",
-      "last_pretty": "01 november 2025"
+      "last_pretty": "01 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
     }
   ]
 }

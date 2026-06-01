@@ -7,25 +7,29 @@
       "name": "LE CENTRE GENÈVE BY CHARLINE",
       "visits": 1,
       "last": "2026-01-30",
-      "last_pretty": "30 january 2026"
+      "last_pretty": "30 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
       "visits": 1,
       "last": "2026-01-10",
-      "last_pretty": "10 january 2026"
+      "last_pretty": "10 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
     },
     {
       "name": "Le Cabinet de Beauté",
       "visits": 1,
       "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last_pretty": "07 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
     },
     {
       "name": "Le Beausquet Genève",
       "visits": 1,
       "last": "2025-10-01",
-      "last_pretty": "01 october 2025"
+      "last_pretty": "01 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -37,7 +41,8 @@
       "name": "So Beauty Home",
       "visits": 1,
       "last": "2025-08-09",
-      "last_pretty": "09 august 2025"
+      "last_pretty": "09 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
     }
   ]
 }

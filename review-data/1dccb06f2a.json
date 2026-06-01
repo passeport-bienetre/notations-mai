@@ -7,13 +7,15 @@
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2026-01-09",
-      "last_pretty": "09 january 2026"
+      "last_pretty": "09 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "Flaventino coiffure Aubonne",
       "visits": 1,
       "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/"
     },
     {
       "name": "Nirvana Spa",
@@ -25,7 +27,8 @@
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2025-07-11",
-      "last_pretty": "11 july 2025"
+      "last_pretty": "11 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     }
   ]
 }

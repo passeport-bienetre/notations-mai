@@ -7,19 +7,22 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-04-29",
-      "last_pretty": "29 april 2026"
+      "last_pretty": "29 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Institut Sirène",
       "visits": 1,
       "last": "2026-03-11",
-      "last_pretty": "11 march 2026"
+      "last_pretty": "11 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sirene/"
     },
     {
       "name": "KASA AMO",
       "visits": 1,
       "last": "2025-11-12",
-      "last_pretty": "12 november 2025"
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/kasa-amo/"
     },
     {
       "name": "Beauty Concept Vevey",
@@ -31,7 +34,8 @@
       "name": "Organik Beauty",
       "visits": 1,
       "last": "2025-08-13",
-      "last_pretty": "13 august 2025"
+      "last_pretty": "13 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
     }
   ]
 }

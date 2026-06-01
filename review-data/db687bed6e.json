@@ -13,13 +13,15 @@
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2026-03-14",
-      "last_pretty": "14 march 2026"
+      "last_pretty": "14 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Institut Beauté Bertmans",
       "visits": 1,
       "last": "2026-02-18",
-      "last_pretty": "18 february 2026"
+      "last_pretty": "18 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/"
     }
   ]
 }

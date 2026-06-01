@@ -7,13 +7,15 @@
       "name": "Le Passage",
       "visits": 1,
       "last": "2026-05-19",
-      "last_pretty": "19 may 2026"
+      "last_pretty": "19 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
     },
     {
       "name": "LA MAISON VALMONT – BONGENIE",
       "visits": 1,
       "last": "2026-04-15",
-      "last_pretty": "15 april 2026"
+      "last_pretty": "15 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/"
     }
   ]
 }

@@ -7,25 +7,29 @@
       "name": "AVEDA VIEILLE-VILLE",
       "visits": 1,
       "last": "2025-12-31",
-      "last_pretty": "31 december 2025"
+      "last_pretty": "31 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
     },
     {
       "name": "NUANCES NATURE",
       "visits": 1,
       "last": "2025-11-14",
-      "last_pretty": "14 november 2025"
+      "last_pretty": "14 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
       "visits": 1,
       "last": "2025-11-07",
-      "last_pretty": "07 november 2025"
+      "last_pretty": "07 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
     },
     {
       "name": "So Beauty Home",
       "visits": 1,
       "last": "2025-09-05",
-      "last_pretty": "05 september 2025"
+      "last_pretty": "05 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -37,7 +41,8 @@
       "name": "SAKURA LAB",
       "visits": 1,
       "last": "2025-06-14",
-      "last_pretty": "14 june 2025"
+      "last_pretty": "14 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
     }
   ]
 }

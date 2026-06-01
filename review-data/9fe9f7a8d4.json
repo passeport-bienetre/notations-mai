@@ -7,13 +7,15 @@
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2026-05-27",
-      "last_pretty": "27 may 2026"
+      "last_pretty": "27 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-04-19",
-      "last_pretty": "19 april 2026"
+      "last_pretty": "19 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     }
   ]
 }

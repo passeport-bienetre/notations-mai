@@ -13,13 +13,15 @@
       "name": "Institut Kaori",
       "visits": 1,
       "last": "2025-10-01",
-      "last_pretty": "01 october 2025"
+      "last_pretty": "01 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-kaori/"
     },
     {
       "name": "LES TRESOMS",
       "visits": 1,
       "last": "2025-07-23",
-      "last_pretty": "23 july 2025"
+      "last_pretty": "23 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/"
     }
   ]
 }

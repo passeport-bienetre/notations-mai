@@ -7,19 +7,22 @@
       "name": "LE CENTRE GENÈVE BY CHARLINE",
       "visits": 1,
       "last": "2026-01-09",
-      "last_pretty": "09 january 2026"
+      "last_pretty": "09 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
       "visits": 1,
       "last": "2025-12-27",
-      "last_pretty": "27 december 2025"
+      "last_pretty": "27 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/"
     },
     {
       "name": "GLOW IN GENEVA",
       "visits": 1,
       "last": "2025-11-21",
-      "last_pretty": "21 november 2025"
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
     }
   ]
 }

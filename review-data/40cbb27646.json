@@ -13,13 +13,15 @@
       "name": "Le Beausquet Genève",
       "visits": 1,
       "last": "2025-10-24",
-      "last_pretty": "24 october 2025"
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     },
     {
       "name": "Swiss Beauty Studio",
       "visits": 1,
       "last": "2025-10-07",
-      "last_pretty": "07 october 2025"
+      "last_pretty": "07 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/"
     }
   ]
 }

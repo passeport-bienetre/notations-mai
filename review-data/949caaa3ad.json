@@ -7,7 +7,8 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2026-04-08",
-      "last_pretty": "08 april 2026"
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "W Verbier",
@@ -19,7 +20,8 @@
       "name": "Experimental Chalet",
       "visits": 1,
       "last": "2025-10-30",
-      "last_pretty": "30 october 2025"
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/"
     }
   ]
 }

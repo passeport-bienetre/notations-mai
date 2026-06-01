@@ -7,13 +7,15 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-04-07",
-      "last_pretty": "07 april 2026"
+      "last_pretty": "07 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "Le Grand Bellevue",
       "visits": 1,
       "last": "2026-02-16",
-      "last_pretty": "16 february 2026"
+      "last_pretty": "16 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/"
     }
   ]
 }

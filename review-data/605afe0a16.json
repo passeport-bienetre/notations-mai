@@ -7,13 +7,15 @@
       "name": "Tempête de Calme",
       "visits": 1,
       "last": "2026-05-22",
-      "last_pretty": "22 may 2026"
+      "last_pretty": "22 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/"
     },
     {
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2026-04-17",
-      "last_pretty": "17 april 2026"
+      "last_pretty": "17 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     }
   ]
 }

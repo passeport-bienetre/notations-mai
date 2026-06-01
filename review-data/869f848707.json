@@ -7,7 +7,8 @@
       "name": "Salon Privé Gare",
       "visits": 1,
       "last": "2025-10-17",
-      "last_pretty": "17 october 2025"
+      "last_pretty": "17 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
     },
     {
       "name": "Elvi Haute Coiffure",
@@ -19,7 +20,8 @@
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2025-07-03",
-      "last_pretty": "03 july 2025"
+      "last_pretty": "03 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     }
   ]
 }

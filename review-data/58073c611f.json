@@ -7,13 +7,15 @@
       "name": "SUBLIMEYES",
       "visits": 1,
       "last": "2026-03-23",
-      "last_pretty": "23 march 2026"
+      "last_pretty": "23 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/"
     },
     {
       "name": "BL Institut",
       "visits": 1,
       "last": "2026-02-10",
-      "last_pretty": "10 february 2026"
+      "last_pretty": "10 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/"
     },
     {
       "name": "ÂM SOEURS",
@@ -31,43 +33,50 @@
       "name": "NUANCES NATURE",
       "visits": 1,
       "last": "2025-11-27",
-      "last_pretty": "27 november 2025"
+      "last_pretty": "27 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nuances-nature/"
     },
     {
       "name": "GLOW IN GENEVA",
       "visits": 1,
       "last": "2025-10-16",
-      "last_pretty": "16 october 2025"
+      "last_pretty": "16 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
       "visits": 1,
       "last": "2025-10-12",
-      "last_pretty": "12 october 2025"
+      "last_pretty": "12 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/everness-resort/"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2025-09-16",
-      "last_pretty": "16 september 2025"
+      "last_pretty": "16 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "Parallèles Coiffure",
       "visits": 1,
       "last": "2025-09-09",
-      "last_pretty": "09 september 2025"
+      "last_pretty": "09 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/"
     },
     {
       "name": "Blossom Institut",
       "visits": 1,
       "last": "2025-09-02",
-      "last_pretty": "02 september 2025"
+      "last_pretty": "02 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/blossom-institut/"
     },
     {
       "name": "So Beauty Home",
       "visits": 1,
       "last": "2025-08-12",
-      "last_pretty": "12 august 2025"
+      "last_pretty": "12 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -79,19 +88,22 @@
       "name": "Guinot Art of Beauty",
       "visits": 1,
       "last": "2025-07-08",
-      "last_pretty": "08 july 2025"
+      "last_pretty": "08 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/"
     },
     {
       "name": "Le Beausquet Genève",
       "visits": 1,
       "last": "2025-06-17",
-      "last_pretty": "17 june 2025"
+      "last_pretty": "17 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/"
     },
     {
       "name": "Le Cabinet de Beauté",
       "visits": 1,
       "last": "2025-06-03",
-      "last_pretty": "03 june 2025"
+      "last_pretty": "03 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
     }
   ]
 }

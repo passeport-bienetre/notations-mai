@@ -7,13 +7,15 @@
       "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
       "last": "2026-02-27",
-      "last_pretty": "27 february 2026"
+      "last_pretty": "27 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/"
     },
     {
       "name": "RUBIS SPA",
       "visits": 1,
       "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/rubis-spa/"
     }
   ]
 }

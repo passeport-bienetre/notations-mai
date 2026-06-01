@@ -7,13 +7,15 @@
       "name": "Institut Sabaidee",
       "visits": 1,
       "last": "2026-05-17",
-      "last_pretty": "17 may 2026"
+      "last_pretty": "17 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-sabaidee/"
     },
     {
       "name": "Serenityblue",
       "visits": 1,
       "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
     }
   ]
 }

@@ -7,13 +7,15 @@
       "name": "Hôtel Intercontinental Spa 5 Mondes",
       "visits": 1,
       "last": "2026-03-31",
-      "last_pretty": "31 march 2026"
+      "last_pretty": "31 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-02-24",
-      "last_pretty": "24 february 2026"
+      "last_pretty": "24 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Fairmont le Montreux Palace",
@@ -25,13 +27,15 @@
       "name": "Karré Long",
       "visits": 1,
       "last": "2025-08-05",
-      "last_pretty": "05 august 2025"
+      "last_pretty": "05 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/karre-long-3/"
     },
     {
       "name": "Hairmania",
       "visits": 1,
       "last": "2025-07-01",
-      "last_pretty": "01 july 2025"
+      "last_pretty": "01 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairmania/"
     }
   ]
 }

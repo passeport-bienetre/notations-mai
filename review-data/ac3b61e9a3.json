@@ -7,13 +7,15 @@
       "name": "Tête à Clak",
       "visits": 1,
       "last": "2026-04-08",
-      "last_pretty": "08 april 2026"
+      "last_pretty": "08 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-07",
-      "last_pretty": "07 february 2026"
+      "last_pretty": "07 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     }
   ]
 }

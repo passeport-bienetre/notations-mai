@@ -7,13 +7,15 @@
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2026-05-13",
-      "last_pretty": "13 may 2026"
+      "last_pretty": "13 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Institut ZenSkin",
       "visits": 1,
       "last": "2026-04-27",
-      "last_pretty": "27 april 2026"
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/institut-fs/"
     }
   ]
 }

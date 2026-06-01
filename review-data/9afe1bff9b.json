@@ -7,13 +7,15 @@
       "name": "Chalet Royalp Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-01-11",
-      "last_pretty": "11 january 2026"
+      "last_pretty": "11 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/"
     },
     {
       "name": "Skin Solution",
       "visits": 1,
       "last": "2025-12-10",
-      "last_pretty": "10 december 2025"
+      "last_pretty": "10 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
     }
   ]
 }

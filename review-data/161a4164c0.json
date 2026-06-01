@@ -7,13 +7,15 @@
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
       "visits": 1,
       "last": "2025-11-26",
-      "last_pretty": "26 november 2025"
+      "last_pretty": "26 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/"
     },
     {
       "name": "Serenityblue",
       "visits": 1,
       "last": "2025-08-22",
-      "last_pretty": "22 august 2025"
+      "last_pretty": "22 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/serenityblue/"
     },
     {
       "name": "Les Cliniques Matignon",
@@ -25,7 +27,8 @@
       "name": "CS Caro Création Studio",
       "visits": 1,
       "last": "2025-07-15",
-      "last_pretty": "15 july 2025"
+      "last_pretty": "15 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
     }
   ]
 }

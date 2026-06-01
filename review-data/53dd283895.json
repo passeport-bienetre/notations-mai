@@ -7,7 +7,8 @@
       "name": "AVEDA VIEILLE-VILLE",
       "visits": 1,
       "last": "2026-03-25",
-      "last_pretty": "25 march 2026"
+      "last_pretty": "25 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
     },
     {
       "name": "ÂM SOEURS",
@@ -19,7 +20,8 @@
       "name": "BORROMEO COIFFURE",
       "visits": 1,
       "last": "2026-01-17",
-      "last_pretty": "17 january 2026"
+      "last_pretty": "17 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/borromeo-coiffure/"
     }
   ]
 }

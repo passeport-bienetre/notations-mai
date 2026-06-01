@@ -7,7 +7,8 @@
       "name": "CJ Coiffure",
       "visits": 1,
       "last": "2025-10-30",
-      "last_pretty": "30 october 2025"
+      "last_pretty": "30 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -19,13 +20,15 @@
       "name": "Swiss Aesthetica",
       "visits": 1,
       "last": "2025-10-24",
-      "last_pretty": "24 october 2025"
+      "last_pretty": "24 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/"
     },
     {
       "name": "Salon Privé Gare",
       "visits": 1,
       "last": "2025-08-06",
-      "last_pretty": "06 august 2025"
+      "last_pretty": "06 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive/"
     }
   ]
 }

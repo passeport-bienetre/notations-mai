@@ -13,13 +13,15 @@
       "name": "Arte Beauty Lutry",
       "visits": 1,
       "last": "2025-07-25",
-      "last_pretty": "25 july 2025"
+      "last_pretty": "25 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/"
     },
     {
       "name": "Arte Beauty EPFL",
       "visits": 1,
       "last": "2025-06-21",
-      "last_pretty": "21 june 2025"
+      "last_pretty": "21 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     }
   ]
 }

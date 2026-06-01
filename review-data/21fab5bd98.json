@@ -7,13 +7,15 @@
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2026-03-06",
-      "last_pretty": "06 march 2026"
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     },
     {
       "name": "Nail Café",
       "visits": 1,
       "last": "2025-06-27",
-      "last_pretty": "27 june 2025"
+      "last_pretty": "27 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
     }
   ]
 }

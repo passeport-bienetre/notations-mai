@@ -7,13 +7,15 @@
       "name": "Salon Privé Chailly",
       "visits": 1,
       "last": "2026-03-21",
-      "last_pretty": "21 march 2026"
+      "last_pretty": "21 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/"
     },
     {
       "name": "Institut Guinot",
       "visits": 1,
       "last": "2025-09-08",
-      "last_pretty": "08 september 2025"
+      "last_pretty": "08 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/"
     }
   ]
 }

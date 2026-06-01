@@ -7,13 +7,15 @@
       "name": "Amiia Clinique",
       "visits": 1,
       "last": "2026-03-06",
-      "last_pretty": "06 march 2026"
+      "last_pretty": "06 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/"
     },
     {
       "name": "Organik Beauty",
       "visits": 1,
       "last": "2025-10-29",
-      "last_pretty": "29 october 2025"
+      "last_pretty": "29 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/organik-beauty/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -25,7 +27,8 @@
       "name": "Espace Beauté Sarah",
       "visits": 1,
       "last": "2025-08-27",
-      "last_pretty": "27 august 2025"
+      "last_pretty": "27 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/"
     }
   ]
 }

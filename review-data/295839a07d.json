@@ -7,13 +7,15 @@
       "name": "LAURA COIFFEUSE PRIVÉE",
       "visits": 1,
       "last": "2026-05-07",
-      "last_pretty": "07 may 2026"
+      "last_pretty": "07 may 2026",
+      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
       "last": "2026-02-09",
-      "last_pretty": "09 february 2026"
+      "last_pretty": "09 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/"
     },
     {
       "name": "W Verbier",
@@ -25,13 +27,15 @@
       "name": "Le Passage",
       "visits": 1,
       "last": "2025-08-18",
-      "last_pretty": "18 august 2025"
+      "last_pretty": "18 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-passage/"
     },
     {
       "name": "Arte Beauty EPFL",
       "visits": 1,
       "last": "2025-07-02",
-      "last_pretty": "02 july 2025"
+      "last_pretty": "02 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     }
   ]
 }

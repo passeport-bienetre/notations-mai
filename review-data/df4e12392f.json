@@ -7,13 +7,15 @@
       "name": "Ipanema Beauté",
       "visits": 1,
       "last": "2025-06-26",
-      "last_pretty": "26 june 2025"
+      "last_pretty": "26 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/"
     },
     {
       "name": "Hairstudio",
       "visits": 1,
       "last": "2025-06-05",
-      "last_pretty": "05 june 2025"
+      "last_pretty": "05 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/hairstudio/"
     }
   ]
 }

@@ -7,13 +7,15 @@
       "name": "1er Acte Coiffure",
       "visits": 1,
       "last": "2026-03-27",
-      "last_pretty": "27 march 2026"
+      "last_pretty": "27 march 2026",
+      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/"
     },
     {
       "name": "Arte Beauty EPFL",
       "visits": 1,
       "last": "2026-02-12",
-      "last_pretty": "12 february 2026"
+      "last_pretty": "12 february 2026",
+      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
@@ -25,13 +27,15 @@
       "name": "Nail Café",
       "visits": 1,
       "last": "2025-11-03",
-      "last_pretty": "03 november 2025"
+      "last_pretty": "03 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/nail-cafe/"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
       "last": "2025-10-23",
-      "last_pretty": "23 october 2025"
+      "last_pretty": "23 october 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/"
     }
   ]
 }

@@ -7,13 +7,15 @@
       "name": "So Beauty Home",
       "visits": 1,
       "last": "2026-04-24",
-      "last_pretty": "24 april 2026"
+      "last_pretty": "24 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/"
     },
     {
       "name": "AVEDA VIEILLE-VILLE",
       "visits": 1,
       "last": "2026-01-31",
-      "last_pretty": "31 january 2026"
+      "last_pretty": "31 january 2026",
+      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -25,13 +27,15 @@
       "name": "Le Cabinet de Beauté",
       "visits": 1,
       "last": "2025-07-04",
-      "last_pretty": "04 july 2025"
+      "last_pretty": "04 july 2025",
+      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/"
     },
     {
       "name": "Skin Solution",
       "visits": 1,
       "last": "2025-06-11",
-      "last_pretty": "11 june 2025"
+      "last_pretty": "11 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/skin-solution/"
     }
   ]
 }

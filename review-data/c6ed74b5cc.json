@@ -7,13 +7,15 @@
       "name": "Namasté",
       "visits": 1,
       "last": "2026-04-27",
-      "last_pretty": "27 april 2026"
+      "last_pretty": "27 april 2026",
+      "url": "https://www.bodypass.ch/etablissements/namaste/"
     },
     {
       "name": "Luna aesthetic",
       "visits": 1,
       "last": "2025-12-19",
-      "last_pretty": "19 december 2025"
+      "last_pretty": "19 december 2025",
+      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/"
     },
     {
       "name": "Spa Baron Tavernier",
@@ -25,13 +27,15 @@
       "name": "ERINGER INSTITUT",
       "visits": 1,
       "last": "2025-11-21",
-      "last_pretty": "21 november 2025"
+      "last_pretty": "21 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/eringer-institut/"
     },
     {
       "name": "CS Caro Création Studio",
       "visits": 1,
       "last": "2025-11-12",
-      "last_pretty": "12 november 2025"
+      "last_pretty": "12 november 2025",
+      "url": "https://www.bodypass.ch/etablissements/cs-caro-creation-studio/"
     }
   ]
 }

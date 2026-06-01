@@ -7,13 +7,15 @@
       "name": "La Coifferie",
       "visits": 1,
       "last": "2025-09-16",
-      "last_pretty": "16 september 2025"
+      "last_pretty": "16 september 2025",
+      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/"
     },
     {
       "name": "Studio Beauté",
       "visits": 1,
       "last": "2025-08-13",
-      "last_pretty": "13 august 2025"
+      "last_pretty": "13 august 2025",
+      "url": "https://www.bodypass.ch/etablissements/studio-beaute/"
     },
     {
       "name": "Akyado Genève Centre",
@@ -25,7 +27,8 @@
       "name": "SAKURA LAB",
       "visits": 1,
       "last": "2025-06-11",
-      "last_pretty": "11 june 2025"
+      "last_pretty": "11 june 2025",
+      "url": "https://www.bodypass.ch/etablissements/sakura-lab/"
     }
   ]
 }
