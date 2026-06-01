@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Experimental Chalet",
-      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-03-27"
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-02-04"
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-12-27"
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025"
     },
     {
       "name": "Espace Beauté Harmonie",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-harmonie/",
       "visits": 1,
-      "last": "2025-12-12"
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-10-17"
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-06-03"
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-10-23"
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
     },
     {
       "name": "Akyado Genève Centre",
-      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-10-18"
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-04-16"
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
     },
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2026-02-21"
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
     }
   ]
 }

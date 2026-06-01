@@ -1,43 +1,37 @@
 {
   "carte": "31629",
   "name": "Elodie",
-  "nb_estabs": 6,
+  "nb_estabs": 5,
   "estabs": [
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-01-22"
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
     },
     {
       "name": "ERINGER INSTITUT",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-10-30"
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
     },
     {
       "name": "Le Passage",
-      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-08-19"
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
     },
     {
       "name": "Nueva Luna Yoga",
-      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2025-08-14"
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-07-10"
-    },
-    {
-      "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
-      "visits": 1,
-      "last": "2025-05-28"
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
     }
   ]
 }

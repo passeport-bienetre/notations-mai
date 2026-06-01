@@ -1,49 +1,43 @@
 {
   "carte": "33788",
   "name": "Andjela",
-  "nb_estabs": 7,
+  "nb_estabs": 6,
   "estabs": [
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2026-04-30"
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
     },
     {
       "name": "Espace Beauté Sarah",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2026-03-30"
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
     },
     {
       "name": "Hairmania",
-      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-12-13"
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025"
     },
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-09-30"
+      "last": "2025-09-30",
+      "last_pretty": "30 september 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-02"
+      "last": "2025-09-02",
+      "last_pretty": "02 september 2025"
     },
     {
       "name": "Luna aesthetic",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-06-26"
-    },
-    {
-      "name": "Les Vagabondes",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
-      "visits": 1,
-      "last": "2025-05-27"
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
     }
   ]
 }

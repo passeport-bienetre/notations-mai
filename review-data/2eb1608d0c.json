@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "EUROPE ZERMATT HÔTEL",
-      "url": "https://www.bodypass.ch/?s=EUROPE%20ZERMATT%20H%C3%94TEL",
       "visits": 1,
-      "last": "2026-03-31"
+      "last": "2026-03-31",
+      "last_pretty": "31 march 2026"
     }
   ]
 }

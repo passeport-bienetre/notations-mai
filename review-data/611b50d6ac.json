@@ -1,19 +1,13 @@
 {
   "carte": "25681",
   "name": "Sónia",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-06-23"
-    },
-    {
-      "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
-      "visits": 1,
-      "last": "2025-05-21"
+      "last": "2025-06-23",
+      "last_pretty": "23 june 2025"
     }
   ]
 }

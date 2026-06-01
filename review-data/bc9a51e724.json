@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-02-10"
+      "last": "2026-02-10",
+      "last_pretty": "10 february 2026"
     },
     {
       "name": "Nirvana Spa",
-      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-06-30"
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025"
     }
   ]
 }

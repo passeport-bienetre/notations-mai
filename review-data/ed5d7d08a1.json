@@ -1,31 +1,25 @@
 {
   "carte": "26934",
   "name": "Zeina",
-  "nb_estabs": 4,
+  "nb_estabs": 3,
   "estabs": [
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-04"
+      "last": "2025-08-04",
+      "last_pretty": "04 august 2025"
     },
     {
       "name": "Anita Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "visits": 1,
-      "last": "2025-07-31"
+      "last": "2025-07-31",
+      "last_pretty": "31 july 2025"
     },
     {
       "name": "Institut Kaori",
-      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2025-06-12"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
     }
   ]
 }

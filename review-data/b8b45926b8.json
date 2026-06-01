@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Institut Beauté Bertmans",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2025-08-18"
+      "last": "2025-08-18",
+      "last_pretty": "18 august 2025"
     },
     {
       "name": "Institut ZenSkin",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2025-08-05"
+      "last": "2025-08-05",
+      "last_pretty": "05 august 2025"
     },
     {
       "name": "Espace Beauté Sarah",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2025-07-23"
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-07-18"
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
     },
     {
       "name": "Noemi Spataro Esthétique",
-      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-06-20"
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
     }
   ]
 }

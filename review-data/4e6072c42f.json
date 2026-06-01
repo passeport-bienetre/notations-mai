@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "INTUITIVE JESS",
-      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/",
       "visits": 1,
-      "last": "2026-01-09"
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-07-29"
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025"
     }
   ]
 }

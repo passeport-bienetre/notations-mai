@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-02-07"
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-17"
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-08-09"
+      "last": "2025-08-09",
+      "last_pretty": "09 august 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-07-07"
+      "last": "2025-07-07",
+      "last_pretty": "07 july 2025"
     }
   ]
 }

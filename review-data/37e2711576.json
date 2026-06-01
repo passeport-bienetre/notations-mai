@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Institut Orphée",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2025-06-27"
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
     }
   ]
 }

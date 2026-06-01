@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-12-12"
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
     },
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-11-28"
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
     },
     {
       "name": "Organik Beauty",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2025-11-14"
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
     },
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-09-18"
+      "last": "2025-09-18",
+      "last_pretty": "18 september 2025"
     }
   ]
 }

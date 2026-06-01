@@ -1,13 +1,19 @@
 {
   "carte": "34483",
   "name": "Isabelle",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
+      "name": "Salon Privé Chailly",
       "visits": 1,
-      "last": "2026-01-24"
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "Arte Beauty Lutry",
+      "visits": 1,
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
     }
   ]
 }

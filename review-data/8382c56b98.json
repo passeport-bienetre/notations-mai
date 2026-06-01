@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 2,
-      "last": "2025-06-04"
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-12-10"
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-06-18"
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025"
     }
   ]
 }

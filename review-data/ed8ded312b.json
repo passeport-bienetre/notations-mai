@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-05-01"
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
     },
     {
       "name": "Rituels Beauté",
-      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "visits": 1,
-      "last": "2026-02-11"
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-02-06"
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
     }
   ]
 }

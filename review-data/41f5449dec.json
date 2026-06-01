@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Luna aesthetic",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-09-17"
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-07-21"
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025"
     }
   ]
 }

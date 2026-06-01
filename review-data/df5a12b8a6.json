@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-03-13"
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-01-02"
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-12-20"
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-12-12"
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
     },
     {
       "name": "Corps Sains",
-      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
       "visits": 1,
-      "last": "2025-10-04"
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025"
     }
   ]
 }

@@ -1,43 +1,37 @@
 {
   "carte": "34989",
   "name": "Sophie",
-  "nb_estabs": 6,
+  "nb_estabs": 5,
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-05-07"
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-09"
+      "last": "2026-02-09",
+      "last_pretty": "09 february 2026"
     },
     {
       "name": "W Verbier",
-      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2025-09-16"
+      "last": "2025-09-16",
+      "last_pretty": "16 september 2025"
     },
     {
       "name": "Le Passage",
-      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-08-18"
+      "last": "2025-08-18",
+      "last_pretty": "18 august 2025"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-07-02"
-    },
-    {
-      "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
-      "visits": 1,
-      "last": "2025-05-22"
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025"
     }
   ]
 }

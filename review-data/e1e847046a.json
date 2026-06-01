@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "JOIA LAUSANNE",
-      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-02-04"
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-12-20"
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-12-18"
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-29"
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-08-29"
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-07-15"
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
     }
   ]
 }

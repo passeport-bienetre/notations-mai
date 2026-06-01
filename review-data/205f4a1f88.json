@@ -1,13 +1,19 @@
 {
   "carte": "36301",
   "name": "Domenica",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
+      "name": "Bhumi",
       "visits": 1,
-      "last": "2026-04-16"
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
     }
   ]
 }

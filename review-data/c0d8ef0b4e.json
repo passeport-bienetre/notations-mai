@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Institut Osmose",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2026-04-15"
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2026-02-23"
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026"
     }
   ]
 }

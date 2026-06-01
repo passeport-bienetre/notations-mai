@@ -1,25 +1,19 @@
 {
   "carte": "29789",
   "name": "Adeline",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-08-14"
+      "last": "2025-08-14",
+      "last_pretty": "14 august 2025"
     },
     {
       "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-06-04"
-    },
-    {
-      "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
-      "visits": 1,
-      "last": "2025-05-30"
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
     }
   ]
 }

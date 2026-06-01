@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2025-12-27"
+      "last": "2025-12-27",
+      "last_pretty": "27 december 2025"
     },
     {
       "name": "Hôtel Schweizerhof Bern &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-24"
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
     }
   ]
 }

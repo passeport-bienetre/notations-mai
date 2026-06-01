@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "BLISS",
-      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-11-20"
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-30"
+      "last": "2025-09-30",
+      "last_pretty": "30 september 2025"
     }
   ]
 }

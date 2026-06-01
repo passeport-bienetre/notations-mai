@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-04-30"
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-02-26"
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
     },
     {
       "name": "W Verbier",
-      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2025-10-17"
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-18"
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "ERINGER INSTITUT",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2026-02-19"
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2025-09-22"
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025"
     }
   ]
 }

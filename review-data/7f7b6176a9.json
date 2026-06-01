@@ -1,49 +1,55 @@
 {
   "carte": "34875",
   "name": "Clotilde",
-  "nb_estabs": 7,
+  "nb_estabs": 8,
   "estabs": [
     {
-      "name": "Deep Nature Les Granges d&rsquo;en Haut",
-      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
+      "name": "FLEUR D’EPIDERME",
       "visits": 1,
-      "last": "2026-03-20"
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026"
+    },
+    {
+      "name": "Deep Nature Les Granges d&rsquo;en Haut",
+      "visits": 1,
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
     },
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
-      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
       "visits": 1,
-      "last": "2026-03-15"
+      "last": "2026-03-15",
+      "last_pretty": "15 march 2026"
     },
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-01-09"
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-10-17"
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-07-25"
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-07-11"
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
     },
     {
       "name": "BLISS",
-      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-06-11"
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
     }
   ]
 }

@@ -1,13 +1,25 @@
 {
   "carte": "36617",
   "name": "Olivia",
-  "nb_estabs": 1,
+  "nb_estabs": 3,
   "estabs": [
     {
-      "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
       "visits": 1,
-      "last": "2026-05-06"
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "So Beauty Home",
+      "visits": 1,
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "Blossom Institut",
+      "visits": 1,
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
     }
   ]
 }

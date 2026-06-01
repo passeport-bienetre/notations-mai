@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Nueva Luna Yoga",
-      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2026-03-10"
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
     },
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-02-09"
+      "last": "2026-02-09",
+      "last_pretty": "09 february 2026"
     }
   ]
 }

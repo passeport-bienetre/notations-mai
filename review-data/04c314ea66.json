@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-08-27"
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-06-26"
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
     }
   ]
 }

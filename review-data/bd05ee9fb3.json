@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "19th AVENUE &#8211; Versonnex",
-      "url": "https://www.bodypass.ch/etablissements/versonnex/",
       "visits": 1,
-      "last": "2026-01-17"
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
     },
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-11-13"
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025"
     }
   ]
 }

@@ -1,55 +1,61 @@
 {
   "carte": "33209",
   "name": "Emmanuelle",
-  "nb_estabs": 8,
+  "nb_estabs": 9,
   "estabs": [
     {
-      "name": "Origin Float Spa",
-      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/",
+      "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
-      "last": "2026-05-09"
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026"
+    },
+    {
+      "name": "Origin Float Spa",
+      "visits": 1,
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2026-02-18"
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
     },
     {
       "name": "LES FITNESS HARMONY",
-      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-12-26"
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-10-29"
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-10-16"
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-10-12"
+      "last": "2025-10-12",
+      "last_pretty": "12 october 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-10-10"
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-09-16"
+      "last": "2025-09-16",
+      "last_pretty": "16 september 2025"
     }
   ]
 }

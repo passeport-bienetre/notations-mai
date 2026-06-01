@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-04-14"
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-10-22"
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-10"
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-10-03"
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
     }
   ]
 }

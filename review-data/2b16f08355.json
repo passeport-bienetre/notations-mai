@@ -1,31 +1,25 @@
 {
   "carte": "26976",
   "name": "Michel",
-  "nb_estabs": 4,
+  "nb_estabs": 3,
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-10-24"
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-09-05"
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-07-04"
-    },
-    {
-      "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
-      "visits": 1,
-      "last": "2025-05-26"
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025"
     }
   ]
 }

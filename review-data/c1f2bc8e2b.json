@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "INTUITIVE JESS",
-      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/",
       "visits": 1,
-      "last": "2026-05-06"
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
     },
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-04-15"
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026"
     }
   ]
 }

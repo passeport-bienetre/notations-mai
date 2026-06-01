@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-11-28"
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
     },
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-07-14"
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Les Sources du Chéry",
-      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/",
       "visits": 1,
-      "last": "2026-01-26"
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026"
     },
     {
       "name": "Le St-Gervais Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-18"
+      "last": "2026-01-18",
+      "last_pretty": "18 january 2026"
     },
     {
       "name": "Chalet-Hôtel la Marmotte",
-      "url": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/",
       "visits": 1,
-      "last": "2025-10-11"
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-06-05"
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
     }
   ]
 }

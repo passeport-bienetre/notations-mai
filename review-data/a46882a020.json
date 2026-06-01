@@ -1,25 +1,19 @@
 {
   "carte": "25947",
   "name": "Lida",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "Damien &#038; Co",
-      "url": "https://www.bodypass.ch/etablissements/damien-co-3/",
       "visits": 1,
-      "last": "2025-07-02"
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-06-25"
-    },
-    {
-      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
-      "visits": 1,
-      "last": "2025-05-22"
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
     }
   ]
 }

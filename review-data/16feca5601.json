@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel Schweizerhof Bern &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-19"
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
     },
     {
       "name": "Hôtel des Horlogers",
-      "url": "https://www.bodypass.ch/?s=H%C3%B4tel%20des%20Horlogers",
       "visits": 1,
-      "last": "2025-07-25"
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
     }
   ]
 }

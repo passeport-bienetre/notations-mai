@@ -1,31 +1,25 @@
 {
   "carte": "29796",
   "name": "Denise",
-  "nb_estabs": 4,
+  "nb_estabs": 3,
   "estabs": [
     {
       "name": "PURE BREATH ANNECY",
-      "url": "https://www.bodypass.ch/etablissements/pure-breath/",
       "visits": 1,
-      "last": "2026-03-14"
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-11-27"
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025"
     },
     {
       "name": "Le St-Gervais Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-02"
-    },
-    {
-      "name": "Deep Nature Les Granges d&rsquo;en Haut",
-      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
-      "visits": 1,
-      "last": "2025-05-31"
+      "last": "2025-08-02",
+      "last_pretty": "02 august 2025"
     }
   ]
 }

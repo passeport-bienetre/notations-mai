@@ -1,79 +1,67 @@
 {
   "carte": "31748",
   "name": "Olivia",
-  "nb_estabs": 12,
+  "nb_estabs": 10,
   "estabs": [
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-03-25"
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-03-10"
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
     },
     {
       "name": "SUBLIMEYES",
-      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-03-02"
+      "last": "2026-03-02",
+      "last_pretty": "02 march 2026"
     },
     {
       "name": "ÂM SOEURS",
-      "url": "https://www.bodypass.ch/?s=%C3%82M%20SOEURS",
       "visits": 1,
-      "last": "2026-01-13"
+      "last": "2026-01-13",
+      "last_pretty": "13 january 2026"
     },
     {
       "name": "FLEUR D’EPIDERME",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2025-12-16"
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-12-10"
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025"
     },
     {
       "name": "La Coifferie",
-      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2025-10-29"
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-07-16"
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-07-01"
+      "last": "2025-07-01",
+      "last_pretty": "01 july 2025"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-06-03"
-    },
-    {
-      "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
-      "visits": 1,
-      "last": "2025-05-26"
-    },
-    {
-      "name": "Le Cabinet de Beauté",
-      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
-      "visits": 1,
-      "last": "2025-05-20"
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025"
     }
   ]
 }

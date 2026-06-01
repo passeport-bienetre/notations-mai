@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-12-24"
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-08-29"
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
     }
   ]
 }

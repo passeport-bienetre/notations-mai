@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-08-15"
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-08-13"
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
     }
   ]
 }

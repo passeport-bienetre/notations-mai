@@ -1,13 +1,19 @@
 {
   "carte": "33172",
   "name": "Jodie",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "Serenityblue",
-      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
+      "name": "COMME SUR UN NUAGE",
       "visits": 1,
-      "last": "2026-03-24"
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026"
+    },
+    {
+      "name": "Serenityblue",
+      "visits": 1,
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
     }
   ]
 }

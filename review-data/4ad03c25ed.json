@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-04-09"
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-01-07"
+      "last": "2026-01-07",
+      "last_pretty": "07 january 2026"
     }
   ]
 }

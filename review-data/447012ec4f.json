@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LA MAISON VALMONT – BONGENIE",
-      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2026-02-17"
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-23"
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
     }
   ]
 }

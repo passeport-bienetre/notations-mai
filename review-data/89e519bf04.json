@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2025-10-10"
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
     }
   ]
 }

@@ -5,51 +5,51 @@
   "estabs": [
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-03-13"
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
     },
     {
       "name": "Atmosp&rsquo;hair",
-      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2026-02-20"
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-01-28"
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-01-07"
+      "last": "2026-01-07",
+      "last_pretty": "07 january 2026"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-11-20"
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
     },
     {
       "name": "Arte Beauty EHL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2025-11-06"
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-09-14"
+      "last": "2025-09-14",
+      "last_pretty": "14 september 2025"
     }
   ]
 }

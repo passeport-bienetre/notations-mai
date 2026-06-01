@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-02-13"
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
     },
     {
       "name": "Organik Beauty",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2025-11-07"
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-10-04"
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-06-06"
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
     }
   ]
 }

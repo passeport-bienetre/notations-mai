@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Flocoon Spa Cinq Mondes",
-      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2026-02-01"
+      "last": "2026-02-01",
+      "last_pretty": "01 february 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-15"
+      "last": "2025-10-15",
+      "last_pretty": "15 october 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-10-04"
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025"
     }
   ]
 }

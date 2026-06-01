@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "RUBIS SPA",
-      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-03-17"
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-12-17"
+      "last": "2025-12-17",
+      "last_pretty": "17 december 2025"
     },
     {
       "name": "CJ Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-11-29"
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025"
     },
     {
       "name": "Rituels Beauté",
-      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "visits": 1,
-      "last": "2025-08-27"
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LA MAISON VALMONT – BONGENIE",
-      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
       "visits": 1,
-      "last": "2026-03-05"
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026"
     },
     {
       "name": "JOIA LAUSANNE",
-      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-01-21"
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026"
     }
   ]
 }

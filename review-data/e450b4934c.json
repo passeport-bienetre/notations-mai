@@ -1,25 +1,31 @@
 {
   "carte": "32747",
   "name": "Magaly",
-  "nb_estabs": 3,
+  "nb_estabs": 4,
   "estabs": [
     {
-      "name": "Bhumi",
-      "url": "https://www.bodypass.ch/?s=Bhumi",
+      "name": "SAKURA LAB",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026"
+    },
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     },
     {
       "name": "ERINGER INSTITUT",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2026-02-19"
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
     },
     {
       "name": "Corps Sains",
-      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
       "visits": 1,
-      "last": "2026-01-30"
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
     }
   ]
 }

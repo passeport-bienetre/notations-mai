@@ -1,37 +1,31 @@
 {
   "carte": "29049",
   "name": "Manon",
-  "nb_estabs": 5,
+  "nb_estabs": 4,
   "estabs": [
     {
       "name": "Institut Orphée",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2025-11-19"
+      "last": "2025-11-19",
+      "last_pretty": "19 november 2025"
     },
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-10-31"
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025"
     },
     {
       "name": "W Verbier",
-      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2025-06-30"
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-06-11"
-    },
-    {
-      "name": "Anita Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
-      "visits": 1,
-      "last": "2025-05-27"
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
     }
   ]
 }

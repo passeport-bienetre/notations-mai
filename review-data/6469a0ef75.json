@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "L&rsquo;Atelier du Visage",
-      "url": "https://www.bodypass.ch/etablissements/latelier-du-visage/",
       "visits": 1,
-      "last": "2026-05-01"
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
     },
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-04-08"
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
     },
     {
       "name": "Rituels Beauté",
-      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "visits": 1,
-      "last": "2026-04-08"
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
     },
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-03-26"
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-03-04"
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026"
     }
   ]
 }

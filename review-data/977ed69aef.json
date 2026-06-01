@@ -1,25 +1,19 @@
 {
   "carte": "29683",
   "name": "Stéphanie",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-07-11"
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-07-08"
-    },
-    {
-      "name": "LECRANS HOTEL &#038; SPA",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
-      "visits": 1,
-      "last": "2025-05-25"
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
     }
   ]
 }

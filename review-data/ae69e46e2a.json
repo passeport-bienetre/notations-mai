@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-02-20"
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "visits": 1,
-      "last": "2025-11-14"
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-12"
+      "last": "2025-10-12",
+      "last_pretty": "12 october 2025"
     }
   ]
 }

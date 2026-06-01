@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-01-09"
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-01-09"
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2025-12-09"
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-04"
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
     },
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-11-03"
+      "last": "2025-11-03",
+      "last_pretty": "03 november 2025"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-09-20"
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-06-27"
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
     },
     {
       "name": "Les Petits Pieds du Bonheur",
-      "url": "https://www.bodypass.ch/etablissements/les-petits-pieds-du-bonheur/",
       "visits": 1,
-      "last": "2025-06-26"
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-06-19"
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
     }
   ]
 }

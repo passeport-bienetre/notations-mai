@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "visits": 1,
-      "last": "2026-02-13"
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
     },
     {
       "name": "Institut Sakora",
-      "url": "https://www.bodypass.ch/etablissements/institut-sakora/",
       "visits": 1,
-      "last": "2026-01-30"
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-12-22"
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
     },
     {
       "name": "AVEDA VIEILLE-VILLE",
-      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2025-12-19"
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
     },
     {
       "name": "BL Institut",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-11-21"
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-10-24"
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-09-25"
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025"
     },
     {
       "name": "Le St-Gervais Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-01"
+      "last": "2025-08-01",
+      "last_pretty": "01 august 2025"
     },
     {
       "name": "Akyado Genève Centre",
-      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-07-29"
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-07-22"
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025"
     }
   ]
 }

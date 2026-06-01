@@ -1,49 +1,43 @@
 {
   "carte": "26913",
   "name": "Martine",
-  "nb_estabs": 7,
+  "nb_estabs": 6,
   "estabs": [
     {
       "name": "Guinot Art of Beauty",
-      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
       "visits": 1,
-      "last": "2025-10-14"
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-22"
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-08-07"
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025"
     },
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-07-15"
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-06-10"
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
     },
     {
       "name": "Belle et Naturelle",
-      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2025-06-10"
-    },
-    {
-      "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
-      "visits": 1,
-      "last": "2025-05-19"
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
     }
   ]
 }

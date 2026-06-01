@@ -1,43 +1,49 @@
 {
   "carte": "24916",
   "name": "Anaïs",
-  "nb_estabs": 6,
+  "nb_estabs": 7,
   "estabs": [
     {
-      "name": "Corps Sains",
-      "url": "https://www.bodypass.ch/etablissements/corps-sains/",
+      "name": "Arte Beauty EPFL",
       "visits": 1,
-      "last": "2026-03-27"
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026"
+    },
+    {
+      "name": "Corps Sains",
+      "visits": 1,
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-03-14"
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
     },
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-01-30"
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
     },
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-11-28"
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-09-19"
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-07-04"
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025"
     }
   ]
 }

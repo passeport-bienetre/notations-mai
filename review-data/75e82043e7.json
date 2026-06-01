@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-03-12"
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-01-23"
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
     }
   ]
 }

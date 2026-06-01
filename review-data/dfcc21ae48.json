@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Institut ZenSkin",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2026-04-18"
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-01-03"
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-12-30"
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-12-06"
+      "last": "2025-12-06",
+      "last_pretty": "06 december 2025"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-11-07"
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
     },
     {
       "name": "Institut Kaori",
-      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2025-08-15"
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
     },
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-07-19"
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025"
     }
   ]
 }

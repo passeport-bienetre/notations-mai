@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-10-26"
+      "last": "2025-10-26",
+      "last_pretty": "26 october 2025"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-09-17"
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025"
     }
   ]
 }

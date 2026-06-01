@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-11-28"
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-07-21"
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025"
     }
   ]
 }

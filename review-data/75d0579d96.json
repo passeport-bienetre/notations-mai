@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-03-17"
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
     }
   ]
 }

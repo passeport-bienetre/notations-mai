@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "La Coifferie",
-      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2026-03-06"
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
     },
     {
       "name": "LES FITNESS HARMONY",
-      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2026-02-05"
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-01-16"
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-10-16"
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
     }
   ]
 }

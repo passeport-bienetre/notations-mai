@@ -1,49 +1,37 @@
 {
   "carte": "27031",
   "name": "Pascal",
-  "nb_estabs": 7,
+  "nb_estabs": 5,
   "estabs": [
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2026-05-09"
+      "last": "2026-05-09",
+      "last_pretty": "09 may 2026"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-04-28"
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026"
     },
     {
       "name": "Urban Spa",
-      "url": "https://www.bodypass.ch/etablissements/urban-spa/",
       "visits": 1,
-      "last": "2025-11-12"
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-10-10"
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Crans-Montana",
-      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "visits": 1,
-      "last": "2025-06-17"
-    },
-    {
-      "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
-      "visits": 1,
-      "last": "2025-05-28"
-    },
-    {
-      "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
-      "visits": 1,
-      "last": "2025-05-19"
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025"
     }
   ]
 }

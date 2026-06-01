@@ -1,25 +1,31 @@
 {
   "carte": "31414",
   "name": "Julia",
-  "nb_estabs": 3,
+  "nb_estabs": 4,
   "estabs": [
     {
-      "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
+      "name": "Maison Perle",
       "visits": 1,
-      "last": "2026-04-25"
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026"
+    },
+    {
+      "name": "Swiss Aesthetica",
+      "visits": 1,
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-10-25"
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-08-25"
+      "last": "2025-08-25",
+      "last_pretty": "25 august 2025"
     }
   ]
 }

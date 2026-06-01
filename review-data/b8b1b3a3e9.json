@@ -1,43 +1,37 @@
 {
   "carte": "27201",
   "name": "Lorena",
-  "nb_estabs": 6,
+  "nb_estabs": 5,
   "estabs": [
     {
       "name": "Rituels Beauté",
-      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "visits": 1,
-      "last": "2026-01-06"
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026"
     },
     {
       "name": "Altitude by Garance",
-      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "visits": 1,
-      "last": "2025-12-12"
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
     },
     {
       "name": "Luna aesthetic",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-09-27"
+      "last": "2025-09-27",
+      "last_pretty": "27 september 2025"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-08-13"
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-08-07"
-    },
-    {
-      "name": "Organik Beauty",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
-      "visits": 1,
-      "last": "2025-05-30"
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025"
     }
   ]
 }

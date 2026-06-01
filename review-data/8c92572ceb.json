@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-09-12"
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
     }
   ]
 }

@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2026-05-15"
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
     }
   ]
 }

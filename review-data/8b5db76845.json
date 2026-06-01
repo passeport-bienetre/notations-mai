@@ -1,31 +1,37 @@
 {
   "carte": "36143",
   "name": "Emma",
-  "nb_estabs": 4,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "Altitude by Garance",
-      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
+      "name": "Lumen Spa &#038; Wellness",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-05-25",
+      "last_pretty": "25 may 2026"
+    },
+    {
+      "name": "Altitude by Garance",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Le Grand Bellevue",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2026-02-13"
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-08"
+      "last": "2026-02-08",
+      "last_pretty": "08 february 2026"
     },
     {
       "name": "Experimental Chalet",
-      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-02-03"
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026"
     }
   ]
 }

@@ -1,25 +1,19 @@
 {
   "carte": "31347",
   "name": "Marion",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-10-28"
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025"
     },
     {
       "name": "Organik Beauty",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2025-07-08"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
     }
   ]
 }

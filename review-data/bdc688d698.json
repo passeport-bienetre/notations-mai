@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Institut Orphée",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     },
     {
       "name": "Institut Beauté d&rsquo;Or",
-      "url": "https://www.bodypass.ch/?s=Institut%20Beaut%C3%A9%20d%E2%80%99Or",
       "visits": 1,
-      "last": "2025-12-02"
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025"
     },
     {
       "name": "Institut Biotiful",
-      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2025-09-05"
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025"
     }
   ]
 }

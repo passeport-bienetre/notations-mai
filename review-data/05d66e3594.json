@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2026-05-12"
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026"
     },
     {
       "name": "Sawatdee Temple",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2026-03-12"
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-09-11"
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-07-21"
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025"
     }
   ]
 }

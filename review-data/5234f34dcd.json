@@ -1,19 +1,13 @@
 {
   "carte": "29324",
   "name": "Hela",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-07-17"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
-      "visits": 1,
-      "last": "2025-05-24"
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
     }
   ]
 }

@@ -1,13 +1,19 @@
 {
   "carte": "39277",
   "name": "Arminda",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "FLEUR D’EPIDERME",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
+      "name": "Naïda Massothérapie",
       "visits": 1,
-      "last": "2026-04-22"
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026"
+    },
+    {
+      "name": "FLEUR D’EPIDERME",
+      "visits": 1,
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
     }
   ]
 }

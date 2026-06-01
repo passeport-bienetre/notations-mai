@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "ÂM SOEURS",
-      "url": "https://www.bodypass.ch/?s=%C3%82M%20SOEURS",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2026-01-09"
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2025-12-24"
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025"
     },
     {
       "name": "La Coifferie",
-      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2025-11-08"
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025"
     },
     {
       "name": "LES TRESOMS",
-      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2025-09-20"
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-09-11"
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-07-03"
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
     }
   ]
 }

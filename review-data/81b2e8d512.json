@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-05-05"
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2026-04-01"
+      "last": "2026-04-01",
+      "last_pretty": "01 april 2026"
     }
   ]
 }

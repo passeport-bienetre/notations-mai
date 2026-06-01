@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Parallèles Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-08-27"
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-08-27"
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
     },
     {
       "name": "Bhumi",
-      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-06-12"
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
     }
   ]
 }

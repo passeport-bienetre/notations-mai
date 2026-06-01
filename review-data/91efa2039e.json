@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "BL Institut",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2026-03-14"
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
     }
   ]
 }

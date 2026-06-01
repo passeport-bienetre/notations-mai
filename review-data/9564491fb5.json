@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2026-02-11"
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
     },
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2025-12-30"
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
     }
   ]
 }

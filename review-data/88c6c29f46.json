@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-03-24"
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
     },
     {
       "name": "Atmosp&rsquo;hair",
-      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2026-03-20"
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-10-13"
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025"
     }
   ]
 }

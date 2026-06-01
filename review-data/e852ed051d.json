@@ -5,51 +5,51 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-05-15"
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
     },
     {
       "name": "Atmosp&rsquo;hair",
-      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2026-05-06"
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-01-24"
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
     },
     {
       "name": "Salon Privé Ecublens",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2026-01-16"
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-12-18"
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
     },
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-11-20"
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
     },
     {
       "name": "MYO Style",
-      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2025-10-01"
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-06-19"
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
     }
   ]
 }

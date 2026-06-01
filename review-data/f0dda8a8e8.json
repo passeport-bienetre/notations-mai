@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-04-08"
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-03-21"
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-02-07"
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
     },
     {
       "name": "Experimental Chalet",
-      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2025-12-24"
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025"
     }
   ]
 }

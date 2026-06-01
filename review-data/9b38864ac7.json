@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-08-22"
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-06-03"
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025"
     }
   ]
 }

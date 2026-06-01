@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel des Horlogers",
-      "url": "https://www.bodypass.ch/?s=H%C3%B4tel%20des%20Horlogers",
       "visits": 1,
-      "last": "2025-06-24"
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-06-16"
+      "last": "2025-06-16",
+      "last_pretty": "16 june 2025"
     }
   ]
 }

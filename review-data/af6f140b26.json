@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-12-04"
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-11-25"
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-10-12"
+      "last": "2025-10-12",
+      "last_pretty": "12 october 2025"
     }
   ]
 }

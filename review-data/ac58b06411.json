@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Les Sources des Alpes",
-      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     }
   ]
 }

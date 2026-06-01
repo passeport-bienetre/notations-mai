@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-03-16"
+      "last": "2026-03-16",
+      "last_pretty": "16 march 2026"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2026-03-10"
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
     }
   ]
 }

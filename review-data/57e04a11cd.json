@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
-      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
       "visits": 1,
-      "last": "2026-04-07"
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-03-23"
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2026-01-31"
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-12-22"
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
     },
     {
       "name": "ERINGER HÔTEL",
-      "url": "https://www.bodypass.ch/?s=ERINGER%20H%C3%94TEL",
       "visits": 1,
-      "last": "2025-11-21"
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
     }
   ]
 }

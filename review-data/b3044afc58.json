@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-04-02"
+      "last": "2026-04-02",
+      "last_pretty": "02 april 2026"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2026-01-12"
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-10-30"
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
     },
     {
       "name": "Salon Privé Ecublens",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2025-10-23"
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-06"
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025"
     },
     {
       "name": "Flaventino coiffure Aubonne",
-      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
       "visits": 1,
-      "last": "2025-06-05"
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
     }
   ]
 }

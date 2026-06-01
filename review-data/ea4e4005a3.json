@@ -1,55 +1,61 @@
 {
   "carte": "26914",
   "name": "Martine",
-  "nb_estabs": 8,
+  "nb_estabs": 9,
   "estabs": [
     {
-      "name": "Bhumi",
-      "url": "https://www.bodypass.ch/?s=Bhumi",
+      "name": "Belle et Naturelle",
       "visits": 1,
-      "last": "2026-04-01"
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "Bhumi",
+      "visits": 1,
+      "last": "2026-04-01",
+      "last_pretty": "01 april 2026"
     },
     {
       "name": "Institut Osmose",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2026-02-11"
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2026-01-06"
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-12-11"
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
     },
     {
       "name": "So Hair",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/",
       "visits": 1,
-      "last": "2025-11-20"
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
     },
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-11-20"
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
     },
     {
       "name": "Guinot Art of Beauty",
-      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
       "visits": 1,
-      "last": "2025-10-14"
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-20"
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025"
     }
   ]
 }

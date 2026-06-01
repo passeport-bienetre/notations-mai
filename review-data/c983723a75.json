@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-04-23"
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026"
     },
     {
       "name": "Karré Long",
-      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2026-04-18"
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026"
     },
     {
       "name": "Espace Beauté Sarah",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2026-03-30"
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
     },
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-03-26"
+      "last": "2026-03-26",
+      "last_pretty": "26 march 2026"
     }
   ]
 }

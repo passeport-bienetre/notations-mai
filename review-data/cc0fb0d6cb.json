@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2026-04-11"
+      "last": "2026-04-11",
+      "last_pretty": "11 april 2026"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-03-13"
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
     },
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-01-21"
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026"
     }
   ]
 }

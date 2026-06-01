@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "FLEUR D’EPIDERME",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-01-15"
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
     },
     {
       "name": "19th AVENUE &#8211; Versonnex",
-      "url": "https://www.bodypass.ch/etablissements/versonnex/",
       "visits": 1,
-      "last": "2025-12-24"
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-11-20"
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
     },
     {
       "name": "Parallèles Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-10-21"
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025"
     }
   ]
 }

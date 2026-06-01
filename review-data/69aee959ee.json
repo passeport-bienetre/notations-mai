@@ -1,67 +1,55 @@
 {
   "carte": "29205",
   "name": "Nathalie",
-  "nb_estabs": 10,
+  "nb_estabs": 8,
   "estabs": [
     {
       "name": "AVEDA VIEILLE-VILLE",
-      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2026-02-06"
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2025-12-23"
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-08-25"
+      "last": "2025-08-25",
+      "last_pretty": "25 august 2025"
     },
     {
       "name": "So Beauty Home",
-      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "visits": 1,
-      "last": "2025-08-22"
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-08-19"
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-08-07"
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025"
     },
     {
       "name": "Le Cabinet de Beauté",
-      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2025-07-01"
+      "last": "2025-07-01",
+      "last_pretty": "01 july 2025"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-06-20"
-    },
-    {
-      "name": "Wulan Studio",
-      "url": "https://www.bodypass.ch/etablissements/wulan-studio/",
-      "visits": 1,
-      "last": "2025-05-23"
-    },
-    {
-      "name": "BEAUTY B",
-      "url": "https://www.bodypass.ch/?s=BEAUTY%20B",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
     }
   ]
 }

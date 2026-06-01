@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "LES FITNESS HARMONY",
-      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-09-29"
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-09-26"
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
     },
     {
       "name": "POWERCUBE",
-      "url": "https://www.bodypass.ch/etablissements/powercube/",
       "visits": 1,
-      "last": "2025-09-22"
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-09-19"
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
     },
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-09-12"
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
     },
     {
       "name": "Mon Bonheur Ayurvédique",
-      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
       "visits": 1,
-      "last": "2025-09-11"
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025"
     }
   ]
 }

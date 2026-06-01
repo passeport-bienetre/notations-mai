@@ -1,19 +1,13 @@
 {
   "carte": "33274",
   "name": "Marie",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-17"
-    },
-    {
-      "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
-      "visits": 1,
-      "last": "2025-05-27"
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
     }
   ]
 }

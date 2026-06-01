@@ -5,57 +5,57 @@
   "estabs": [
     {
       "name": "Flaventino coiffure Aubonne",
-      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
       "visits": 1,
-      "last": "2026-01-17"
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
     },
     {
       "name": "LES TRESOMS",
-      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2025-12-26"
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025"
     },
     {
       "name": "CJ Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-12-12"
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-12-05"
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-11-14"
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-11-13"
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025"
     },
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-11-13"
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025"
     },
     {
       "name": "Hôtel des Horlogers",
-      "url": "https://www.bodypass.ch/?s=H%C3%B4tel%20des%20Horlogers",
       "visits": 1,
-      "last": "2025-08-29"
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-07-23"
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025"
     }
   ]
 }

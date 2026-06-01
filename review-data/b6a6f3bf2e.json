@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel Schweizerhof Bern &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-03"
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-07-21"
+      "last": "2025-07-21",
+      "last_pretty": "21 july 2025"
     }
   ]
 }

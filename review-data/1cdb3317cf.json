@@ -1,31 +1,37 @@
 {
   "carte": "35991",
   "name": "Magda",
-  "nb_estabs": 4,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
+      "name": "JOIA NEUCHATEL",
       "visits": 1,
-      "last": "2026-04-29"
+      "last": "2026-05-21",
+      "last_pretty": "21 may 2026"
+    },
+    {
+      "name": "GLOW IN GENEVA",
+      "visits": 1,
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-04-29"
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
     },
     {
       "name": "Centre Sattva",
-      "url": "https://www.bodypass.ch/etablissements/centre-sattva/",
       "visits": 1,
-      "last": "2026-04-21"
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
     },
     {
       "name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
-      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
       "visits": 1,
-      "last": "2026-01-22"
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
     }
   ]
 }

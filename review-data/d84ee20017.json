@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2026-01-07"
+      "last": "2026-01-07",
+      "last_pretty": "07 january 2026"
     },
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-11-21"
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
     },
     {
       "name": "Institut Osmose",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-10-24"
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-10-10"
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
     },
     {
       "name": "Le Grand Bellevue",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2025-08-31"
+      "last": "2025-08-31",
+      "last_pretty": "31 august 2025"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-06-04"
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-06-04"
+      "last": "2025-06-04",
+      "last_pretty": "04 june 2025"
     }
   ]
 }

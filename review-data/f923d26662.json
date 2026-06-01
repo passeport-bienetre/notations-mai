@@ -1,13 +1,19 @@
 {
   "carte": "36019",
   "name": "Bianca",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "Naïda Massothérapie",
-      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
+      "name": "Nail Café",
       "visits": 1,
-      "last": "2026-05-12"
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026"
+    },
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026"
     }
   ]
 }

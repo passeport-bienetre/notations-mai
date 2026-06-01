@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-03-18"
+      "last": "2026-03-18",
+      "last_pretty": "18 march 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-10-30"
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
     }
   ]
 }

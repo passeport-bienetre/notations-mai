@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "MYO Style",
-      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2026-04-18"
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2026-01-24"
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
-      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2025-11-09"
+      "last": "2025-11-09",
+      "last_pretty": "09 november 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-09-26"
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
     },
     {
       "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-06-06"
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
     }
   ]
 }

@@ -1,37 +1,25 @@
 {
   "carte": "29155",
   "name": "Danielle",
-  "nb_estabs": 5,
+  "nb_estabs": 3,
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-12"
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
     },
     {
       "name": "Les Sources des Alpes",
-      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "visits": 1,
-      "last": "2025-08-28"
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-06-05"
-    },
-    {
-      "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
-      "visits": 1,
-      "last": "2025-05-27"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
-      "visits": 1,
-      "last": "2025-05-26"
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
     }
   ]
 }

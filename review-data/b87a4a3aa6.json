@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Espace Beauté Sarah",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2026-04-22"
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
     },
     {
       "name": "Institut Orphée",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2026-02-20"
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-02-18"
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
     }
   ]
 }

@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Institut Sabaidee",
-      "url": "https://www.bodypass.ch/etablissements/institut-sabaidee/",
       "visits": 1,
-      "last": "2026-03-09"
+      "last": "2026-03-09",
+      "last_pretty": "09 march 2026"
     }
   ]
 }

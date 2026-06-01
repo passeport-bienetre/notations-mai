@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Espace Beauté Sarah",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2026-03-05"
+      "last": "2026-03-05",
+      "last_pretty": "05 march 2026"
     },
     {
       "name": "Nueva Luna Yoga",
-      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2026-02-17"
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
     },
     {
       "name": "Altitude by Garance",
-      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "visits": 1,
-      "last": "2026-01-31"
+      "last": "2026-01-31",
+      "last_pretty": "31 january 2026"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-12-24"
+      "last": "2025-12-24",
+      "last_pretty": "24 december 2025"
     },
     {
       "name": "Institut Beauté Bertmans",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2025-12-13"
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-10-31"
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-06-03"
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025"
     }
   ]
 }

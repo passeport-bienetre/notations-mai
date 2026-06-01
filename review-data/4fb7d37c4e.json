@@ -1,31 +1,25 @@
 {
   "carte": "34546",
   "name": "Alexia",
-  "nb_estabs": 4,
+  "nb_estabs": 3,
   "estabs": [
     {
       "name": "Les Vagabondes",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2026-01-24"
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
     },
     {
       "name": "Studio Beauté",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2026-01-03"
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-10-16"
-    },
-    {
-      "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
-      "visits": 1,
-      "last": "2025-05-28"
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
     }
   ]
 }

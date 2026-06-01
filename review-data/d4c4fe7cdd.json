@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "INTUITIVE JESS",
-      "url": "https://www.bodypass.ch/etablissements/intuitive-jess/",
       "visits": 1,
-      "last": "2026-05-13"
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
     },
     {
       "name": "Hairstudio",
-      "url": "https://www.bodypass.ch/etablissements/hairstudio/",
       "visits": 1,
-      "last": "2026-05-02"
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026"
     },
     {
       "name": "Ipanema Beauté",
-      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
       "visits": 1,
-      "last": "2026-03-27"
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
     },
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2026-01-09"
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-13"
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025"
     },
     {
       "name": "So Hair",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/",
       "visits": 1,
-      "last": "2025-11-12"
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
     },
     {
       "name": "19Th Avenue &#8211; Thonex",
-      "url": "https://www.bodypass.ch/?s=19Th%20Avenue%20%E2%80%93%20Thonex",
       "visits": 1,
-      "last": "2025-07-22"
+      "last": "2025-07-22",
+      "last_pretty": "22 july 2025"
     }
   ]
 }

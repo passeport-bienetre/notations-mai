@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-05-04"
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-19"
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-12-15"
+      "last": "2025-12-15",
+      "last_pretty": "15 december 2025"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-06-17"
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025"
     }
   ]
 }

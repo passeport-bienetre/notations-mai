@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-03-24"
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
     },
     {
       "name": "FLEUR D’EPIDERME",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-02-10"
+      "last": "2026-02-10",
+      "last_pretty": "10 february 2026"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-11-14"
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-11-08"
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025"
     }
   ]
 }

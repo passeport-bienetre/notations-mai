@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-01-22"
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
     },
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-01-14"
+      "last": "2026-01-14",
+      "last_pretty": "14 january 2026"
     }
   ]
 }

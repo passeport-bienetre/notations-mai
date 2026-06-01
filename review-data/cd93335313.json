@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-03-06"
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
     },
     {
       "name": "AVEDA VIEILLE-VILLE",
-      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2026-03-03"
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026"
     },
     {
       "name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "visits": 1,
-      "last": "2026-02-27"
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026"
     },
     {
       "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "visits": 1,
-      "last": "2026-01-30"
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
     },
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2025-11-14"
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
     },
     {
       "name": "Damien &#038; Co",
-      "url": "https://www.bodypass.ch/etablissements/damien-co-3/",
       "visits": 1,
-      "last": "2025-09-12"
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
     }
   ]
 }

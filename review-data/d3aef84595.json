@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Centre de bien-être J&#038;J",
-      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "visits": 1,
-      "last": "2026-02-27"
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026"
     },
     {
       "name": "Fjacco Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/fjacco-coiffure/",
       "visits": 1,
-      "last": "2026-02-11"
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
     },
     {
       "name": "EssenCiel Institut",
-      "url": "https://www.bodypass.ch/etablissements/essenciel-institut/",
       "visits": 1,
-      "last": "2025-10-10"
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
     },
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-08-21"
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025"
     }
   ]
 }

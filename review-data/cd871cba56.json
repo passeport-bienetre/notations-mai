@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Salon Privé Ecublens",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2026-05-15"
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-04-18"
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-04-14"
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-04-11"
+      "last": "2026-04-11",
+      "last_pretty": "11 april 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-04-09"
+      "last": "2026-04-09",
+      "last_pretty": "09 april 2026"
     },
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-03-21"
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
-      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2025-09-21"
+      "last": "2025-09-21",
+      "last_pretty": "21 september 2025"
     },
     {
       "name": "Anzère SPA &#038; Wellness",
-      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "visits": 1,
-      "last": "2025-08-15"
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
     }
   ]
 }

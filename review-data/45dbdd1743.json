@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Maison B",
-      "url": "https://www.bodypass.ch/?s=Maison%20B",
       "visits": 1,
-      "last": "2026-05-15"
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-03-10"
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
     }
   ]
 }

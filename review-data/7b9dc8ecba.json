@@ -1,19 +1,25 @@
 {
   "carte": "26924",
   "name": "Romina",
-  "nb_estabs": 2,
+  "nb_estabs": 3,
   "estabs": [
     {
-      "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
+      "name": "Hôtel de Rougemont &#038; Spa",
       "visits": 1,
-      "last": "2025-09-19"
+      "last": "2026-05-17",
+      "last_pretty": "17 may 2026"
+    },
+    {
+      "name": "Thaiotop",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-09-12"
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
     }
   ]
 }

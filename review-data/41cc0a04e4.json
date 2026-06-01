@@ -1,13 +1,19 @@
 {
   "carte": "39401",
   "name": "Sylvie",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "EUROPE ZERMATT HÔTEL",
-      "url": "https://www.bodypass.ch/?s=EUROPE%20ZERMATT%20H%C3%94TEL",
+      "name": "Luna aesthetic",
       "visits": 1,
-      "last": "2026-03-31"
+      "last": "2026-05-18",
+      "last_pretty": "18 may 2026"
+    },
+    {
+      "name": "EUROPE ZERMATT HÔTEL",
+      "visits": 1,
+      "last": "2026-03-31",
+      "last_pretty": "31 march 2026"
     }
   ]
 }

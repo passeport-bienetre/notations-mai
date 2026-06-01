@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Institut Beauté Bertmans",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2025-10-01"
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025"
     }
   ]
 }

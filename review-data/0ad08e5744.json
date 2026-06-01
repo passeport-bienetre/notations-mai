@@ -1,25 +1,31 @@
 {
   "carte": "35777",
   "name": "Lea",
-  "nb_estabs": 3,
+  "nb_estabs": 4,
   "estabs": [
     {
-      "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
+      "name": "Maison B",
       "visits": 1,
-      "last": "2026-05-11"
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026"
+    },
+    {
+      "name": "Lausanne Palace &#038; Spa",
+      "visits": 1,
+      "last": "2026-05-11",
+      "last_pretty": "11 may 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-22"
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
     },
     {
       "name": "Espace Beauté Sarah",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2026-01-20"
+      "last": "2026-01-20",
+      "last_pretty": "20 january 2026"
     }
   ]
 }

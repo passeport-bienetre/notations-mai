@@ -1,37 +1,31 @@
 {
   "carte": "34125",
   "name": "Natacha",
-  "nb_estabs": 5,
+  "nb_estabs": 4,
   "estabs": [
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-10-14"
+      "last": "2025-10-14",
+      "last_pretty": "14 october 2025"
     },
     {
       "name": "BuiCil Genève",
-      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2025-09-03"
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-06-25"
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
     },
     {
       "name": "Akyado Genève Centre",
-      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-06-11"
-    },
-    {
-      "name": "19Th Avenue &#8211; Thonex",
-      "url": "https://www.bodypass.ch/?s=19Th%20Avenue%20%E2%80%93%20Thonex",
-      "visits": 1,
-      "last": "2025-05-27"
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
     }
   ]
 }

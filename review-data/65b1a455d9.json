@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-03-06"
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
     },
     {
       "name": "Mon Bonheur Ayurvédique",
-      "url": "https://www.bodypass.ch/etablissements/mon-bonheur-ayurvedique/",
       "visits": 1,
-      "last": "2026-02-03"
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026"
     },
     {
       "name": "BL Institut",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2026-01-09"
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-06-17"
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025"
     }
   ]
 }

@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Crans Ambassador Spa",
-      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2026-03-20"
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
     },
     {
       "name": "Flocoon Spa Cinq Mondes",
-      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2026-01-30"
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
     },
     {
       "name": "Institut Kaori",
-      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2025-11-24"
+      "last": "2025-11-24",
+      "last_pretty": "24 november 2025"
     },
     {
       "name": "Anita Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "visits": 1,
-      "last": "2025-10-03"
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
     },
     {
       "name": "LES FITNESS HARMONY",
-      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-09-25"
+      "last": "2025-09-25",
+      "last_pretty": "25 september 2025"
     }
   ]
 }

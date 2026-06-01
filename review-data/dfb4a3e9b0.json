@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-03-21"
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026"
     },
     {
       "name": "ERINGER INSTITUT",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-10-17"
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
     }
   ]
 }

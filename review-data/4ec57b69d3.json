@@ -1,19 +1,13 @@
 {
   "carte": "26690",
   "name": "Sandra",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-06-20"
-    },
-    {
-      "name": "Guinot Art of Beauty",
-      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
-      "visits": 1,
-      "last": "2025-05-30"
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
     }
   ]
 }

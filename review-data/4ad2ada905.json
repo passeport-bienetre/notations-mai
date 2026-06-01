@@ -1,25 +1,19 @@
 {
   "carte": "34441",
   "name": "Marie-Andrée",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "JOIA NEUCHATEL",
-      "url": "https://www.bodypass.ch/?s=JOIA%20NEUCHATEL",
       "visits": 1,
-      "last": "2025-07-03"
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
     },
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-06-24"
-    },
-    {
-      "name": "Serenityblue",
-      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
-      "visits": 1,
-      "last": "2025-05-28"
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
     }
   ]
 }

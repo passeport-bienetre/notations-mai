@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Lokal",
-      "url": "https://www.bodypass.ch/etablissements/le-lokal/",
       "visits": 1,
-      "last": "2026-04-16"
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-02-11"
+      "last": "2026-02-11",
+      "last_pretty": "11 february 2026"
     }
   ]
 }

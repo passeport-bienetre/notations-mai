@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LECRANS HOTEL &#038; SPA",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-11-29"
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025"
     },
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
-      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
       "visits": 1,
-      "last": "2025-10-20"
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025"
     },
     {
       "name": "W Verbier",
-      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2025-10-03"
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-14"
+      "last": "2025-07-14",
+      "last_pretty": "14 july 2025"
     }
   ]
 }

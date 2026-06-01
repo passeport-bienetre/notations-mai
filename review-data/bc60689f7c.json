@@ -1,25 +1,19 @@
 {
   "carte": "31214",
   "name": "Sonia",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-10-30"
+      "last": "2025-10-30",
+      "last_pretty": "30 october 2025"
     },
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-07-25"
-    },
-    {
-      "name": "Belle et Naturelle",
-      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
-      "visits": 1,
-      "last": "2025-05-30"
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
     }
   ]
 }

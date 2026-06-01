@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2026-03-17"
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-11-30"
+      "last": "2025-11-30",
+      "last_pretty": "30 november 2025"
     },
     {
       "name": "Sawatdee Temple",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2025-06-27"
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-06-27"
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
     }
   ]
 }

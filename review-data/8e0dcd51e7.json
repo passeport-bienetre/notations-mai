@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-12-08"
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-11-27"
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-11-04"
+      "last": "2025-11-04",
+      "last_pretty": "04 november 2025"
     },
     {
       "name": "Le Cabinet de Beauté",
-      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2025-09-04"
+      "last": "2025-09-04",
+      "last_pretty": "04 september 2025"
     },
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2025-07-09"
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025"
     }
   ]
 }

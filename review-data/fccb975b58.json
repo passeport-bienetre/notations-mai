@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Sawatdee Temple",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2026-01-24"
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
     },
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-01-17"
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-12-09"
+      "last": "2025-12-09",
+      "last_pretty": "09 december 2025"
     }
   ]
 }

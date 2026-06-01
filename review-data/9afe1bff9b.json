@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-11"
+      "last": "2026-01-11",
+      "last_pretty": "11 january 2026"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-12-10"
+      "last": "2025-12-10",
+      "last_pretty": "10 december 2025"
     }
   ]
 }

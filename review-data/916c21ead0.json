@@ -1,19 +1,25 @@
 {
   "carte": "39348",
   "name": "Antonella",
-  "nb_estabs": 2,
+  "nb_estabs": 3,
   "estabs": [
     {
-      "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
+      "name": "Nail Café",
       "visits": 1,
-      "last": "2026-03-13"
+      "last": "2026-05-18",
+      "last_pretty": "18 may 2026"
+    },
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
     },
     {
       "name": "Institut Beauté d&rsquo;Or",
-      "url": "https://www.bodypass.ch/?s=Institut%20Beaut%C3%A9%20d%E2%80%99Or",
       "visits": 1,
-      "last": "2026-02-18"
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
     }
   ]
 }

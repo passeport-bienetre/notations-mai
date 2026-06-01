@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-05-06"
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "RUBIS SPA",
-      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-03-03"
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026"
     }
   ]
 }

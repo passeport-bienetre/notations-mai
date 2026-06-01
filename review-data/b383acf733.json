@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Institut Osmose",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-10-08"
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
     },
     {
       "name": "Bhumi",
-      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-09-16"
+      "last": "2025-09-16",
+      "last_pretty": "16 september 2025"
     },
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-06-13"
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
     }
   ]
 }

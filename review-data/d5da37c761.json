@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-01-14"
+      "last": "2026-01-14",
+      "last_pretty": "14 january 2026"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-12-05"
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-28"
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
     },
     {
       "name": "Signature Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2025-11-14"
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-08-22"
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
     },
     {
       "name": "Hôtel des Horlogers",
-      "url": "https://www.bodypass.ch/?s=H%C3%B4tel%20des%20Horlogers",
       "visits": 1,
-      "last": "2025-07-28"
+      "last": "2025-07-28",
+      "last_pretty": "28 july 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-07-08"
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
     }
   ]
 }

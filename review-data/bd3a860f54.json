@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "AVEDA VIEILLE-VILLE",
-      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2025-12-20"
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-07-17"
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
     }
   ]
 }

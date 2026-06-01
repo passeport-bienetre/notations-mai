@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2026-03-10"
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-01-15"
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
     },
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-11-26"
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-10-23"
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-08-20"
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025"
     },
     {
       "name": "LECRANS HOTEL &#038; SPA",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-02"
+      "last": "2025-07-02",
+      "last_pretty": "02 july 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Experimental Chalet",
-      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-03-14"
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-02-13"
+      "last": "2026-02-13",
+      "last_pretty": "13 february 2026"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Les Vagabondes",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "visits": 1,
-      "last": "2025-11-26"
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
     },
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-09-26"
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-06-13"
+      "last": "2025-06-13",
+      "last_pretty": "13 june 2025"
     }
   ]
 }

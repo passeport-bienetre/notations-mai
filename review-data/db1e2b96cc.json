@@ -1,49 +1,43 @@
 {
   "carte": "34115",
   "name": "Carine",
-  "nb_estabs": 7,
+  "nb_estabs": 6,
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-18"
+      "last": "2026-02-18",
+      "last_pretty": "18 february 2026"
     },
     {
       "name": "ERINGER INSTITUT",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2026-01-28"
+      "last": "2026-01-28",
+      "last_pretty": "28 january 2026"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
-      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2026-01-12"
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-10-27"
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025"
     },
     {
       "name": "Les Vagabondes",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2025-10-01"
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-09-08"
-    },
-    {
-      "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025"
     }
   ]
 }

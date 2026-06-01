@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Wulan Studio",
-      "url": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "visits": 1,
-      "last": "2025-11-19"
+      "last": "2025-11-19",
+      "last_pretty": "19 november 2025"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-10-31"
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025"
     },
     {
       "name": "BL Institut",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-10-21"
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-07-08"
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
     }
   ]
 }

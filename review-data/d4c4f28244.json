@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-03-19"
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026"
     },
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-06-19"
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
     }
   ]
 }

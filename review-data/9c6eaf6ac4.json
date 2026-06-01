@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Serenityblue",
-      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2026-03-28"
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026"
     },
     {
       "name": "CLINIQUE LA JOUVENCE NEUCHÂTEL",
-      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-neuchatel/",
       "visits": 1,
-      "last": "2026-03-17"
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
     }
   ]
 }

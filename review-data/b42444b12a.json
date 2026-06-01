@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "BEAUTY CONCEPT PULLY",
-      "url": "https://www.bodypass.ch/?s=BEAUTY%20CONCEPT%20PULLY",
       "visits": 1,
-      "last": "2026-02-16"
+      "last": "2026-02-16",
+      "last_pretty": "16 february 2026"
     },
     {
       "name": "JOIA LAUSANNE",
-      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-02-09"
+      "last": "2026-02-09",
+      "last_pretty": "09 february 2026"
     }
   ]
 }

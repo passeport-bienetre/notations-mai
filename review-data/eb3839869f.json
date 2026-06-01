@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2025-11-04"
+      "last": "2025-11-04",
+      "last_pretty": "04 november 2025"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-08-28"
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-08-08"
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
     },
     {
       "name": "So Hair",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/",
       "visits": 1,
-      "last": "2025-07-15"
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
     },
     {
       "name": "Guinot Art of Beauty",
-      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
       "visits": 1,
-      "last": "2025-06-26"
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-06-05"
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
     }
   ]
 }

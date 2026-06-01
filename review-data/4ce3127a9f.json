@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Urban Spa",
-      "url": "https://www.bodypass.ch/etablissements/urban-spa/",
       "visits": 1,
-      "last": "2026-01-19"
+      "last": "2026-01-19",
+      "last_pretty": "19 january 2026"
     }
   ]
 }

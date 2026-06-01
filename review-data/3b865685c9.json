@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Flocoon Spa Cinq Mondes",
-      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2026-02-21"
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
     },
     {
       "name": "La Coifferie",
-      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2025-12-23"
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
     }
   ]
 }

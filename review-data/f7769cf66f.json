@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "So Hair",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/",
       "visits": 1,
-      "last": "2026-04-28"
+      "last": "2026-04-28",
+      "last_pretty": "28 april 2026"
     },
     {
       "name": "Institut Osmose",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2026-03-13"
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
     }
   ]
 }

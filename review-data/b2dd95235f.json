@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-09-29"
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025"
     },
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-08-28"
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-05-01"
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-10-31"
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025"
     }
   ]
 }

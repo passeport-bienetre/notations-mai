@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Anzère SPA &#038; Wellness",
-      "url": "https://www.bodypass.ch/etablissements/anzere-spa-wellness/",
       "visits": 1,
-      "last": "2026-04-05"
+      "last": "2026-04-05",
+      "last_pretty": "05 april 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-03-07"
+      "last": "2026-03-07",
+      "last_pretty": "07 march 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-02-07"
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-01-01"
+      "last": "2026-01-01",
+      "last_pretty": "01 january 2026"
     }
   ]
 }

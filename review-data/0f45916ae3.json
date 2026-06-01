@@ -1,31 +1,37 @@
 {
   "carte": "35700",
   "name": "Karen",
-  "nb_estabs": 4,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "BuiCil Genève",
-      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
+      "name": "Sawatdee Delices",
       "visits": 1,
-      "last": "2026-05-15"
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026"
+    },
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
     },
     {
       "name": "AVEDA VIEILLE-VILLE",
-      "url": "https://www.bodypass.ch/etablissements/aveda-vieille-ville/",
       "visits": 1,
-      "last": "2026-04-25"
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2026-03-28"
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026"
     },
     {
       "name": "Studio Beauté",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2025-12-18"
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
     }
   ]
 }

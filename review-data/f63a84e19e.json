@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-06-14"
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025"
     }
   ]
 }

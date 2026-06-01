@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Naïda Massothérapie",
-      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
       "visits": 1,
-      "last": "2026-03-23"
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026"
     }
   ]
 }

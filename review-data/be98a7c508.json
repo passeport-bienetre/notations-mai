@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-01-22"
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
     }
   ]
 }

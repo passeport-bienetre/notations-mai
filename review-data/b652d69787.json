@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-12-18"
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-07-17"
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
     }
   ]
 }

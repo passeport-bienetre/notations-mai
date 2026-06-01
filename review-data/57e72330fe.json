@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Atmosp&rsquo;hair",
-      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2026-03-13"
+      "last": "2026-03-13",
+      "last_pretty": "13 march 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-08-16"
+      "last": "2025-08-16",
+      "last_pretty": "16 august 2025"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-08-15"
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
     }
   ]
 }

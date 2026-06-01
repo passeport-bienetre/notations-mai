@@ -5,63 +5,63 @@
   "estabs": [
     {
       "name": "Tempête de Calme",
-      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
       "visits": 1,
-      "last": "2026-05-15"
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
     },
     {
       "name": "Nueva Luna Yoga",
-      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2026-05-06"
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
     },
     {
       "name": "RUBIS SPA",
-      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-04-15"
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026"
     },
     {
       "name": "Serenityblue",
-      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2026-02-14"
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-01-15"
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
     },
     {
       "name": "Signature Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2025-12-04"
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
     },
     {
       "name": "Nirvana Spa",
-      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-11-20"
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-10-11"
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025"
     },
     {
       "name": "Institut Bienitude &#038; Bienitude Natura",
-      "url": "https://www.bodypass.ch/etablissements/institut-bienitude-bienitude-natura/",
       "visits": 1,
-      "last": "2025-08-13"
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-07-16"
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
     }
   ]
 }

@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "visits": 1,
-      "last": "2025-12-12"
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
     },
     {
       "name": "Studio Beauté",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2025-10-29"
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
     },
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-08-25"
+      "last": "2025-08-25",
+      "last_pretty": "25 august 2025"
     }
   ]
 }

@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-05-02"
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026"
     },
     {
       "name": "Sawatdee Temple",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-02-25"
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026"
     },
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-02-07"
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2025-12-04"
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-12-02"
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Experimental Chalet",
-      "url": "https://www.bodypass.ch/etablissements/experimental-chalet/",
       "visits": 1,
-      "last": "2026-01-26"
+      "last": "2026-01-26",
+      "last_pretty": "26 january 2026"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-01-10"
+      "last": "2026-01-10",
+      "last_pretty": "10 january 2026"
     }
   ]
 }

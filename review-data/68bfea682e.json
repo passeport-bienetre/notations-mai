@@ -1,25 +1,19 @@
 {
   "carte": "26003",
   "name": "Sandie",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "Institut Sirène",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2025-07-04"
+      "last": "2025-07-04",
+      "last_pretty": "04 july 2025"
     },
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-06-24"
-    },
-    {
-      "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
     }
   ]
 }

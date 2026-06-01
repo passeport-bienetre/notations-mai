@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2026-03-04"
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-02-07"
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
     },
     {
       "name": "Institut Kaori",
-      "url": "https://www.bodypass.ch/etablissements/institut-kaori/",
       "visits": 1,
-      "last": "2026-01-23"
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-12-18"
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
     },
     {
       "name": "Signature Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2025-06-06"
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
     }
   ]
 }

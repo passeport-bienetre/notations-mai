@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "BLISS",
-      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2026-04-18"
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026"
     }
   ]
 }

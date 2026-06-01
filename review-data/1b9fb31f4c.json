@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-10-23"
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-08-08"
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
     }
   ]
 }

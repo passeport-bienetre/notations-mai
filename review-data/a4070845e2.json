@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-01-08"
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-06-14"
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025"
     }
   ]
 }

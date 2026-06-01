@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-03"
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-10-24"
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
     }
   ]
 }

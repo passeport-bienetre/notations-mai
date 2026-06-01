@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "SUBLIMEYES",
-      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-05-16"
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2026-03-12"
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
     }
   ]
 }

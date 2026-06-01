@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-04-14"
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-11-12"
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-08-25"
+      "last": "2025-08-25",
+      "last_pretty": "25 august 2025"
     }
   ]
 }

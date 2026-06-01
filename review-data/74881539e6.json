@@ -1,43 +1,55 @@
 {
   "carte": "33367",
   "name": "Bettina",
-  "nb_estabs": 6,
+  "nb_estabs": 8,
   "estabs": [
     {
-      "name": "LA MAISON VALMONT – BONGENIE",
-      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+      "name": "JOIA LAUSANNE",
       "visits": 1,
-      "last": "2026-05-02"
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026"
+    },
+    {
+      "name": "Salon Privé Gare",
+      "visits": 1,
+      "last": "2026-05-21",
+      "last_pretty": "21 may 2026"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-04-02"
+      "last": "2026-04-02",
+      "last_pretty": "02 april 2026"
     },
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-03-30"
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
     },
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-01-21"
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-08-21"
+      "last": "2025-08-21",
+      "last_pretty": "21 august 2025"
     },
     {
       "name": "Signature Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2025-06-19"
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
     }
   ]
 }

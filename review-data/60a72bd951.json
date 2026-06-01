@@ -1,19 +1,13 @@
 {
   "carte": "27619",
   "name": "Isabelle",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-10-10"
-    },
-    {
-      "name": "Noemi Spataro Esthétique",
-      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
     }
   ]
 }

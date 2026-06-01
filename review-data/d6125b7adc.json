@@ -1,19 +1,25 @@
 {
   "carte": "39350",
   "name": "Kristina",
-  "nb_estabs": 2,
+  "nb_estabs": 3,
   "estabs": [
     {
-      "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
+      "name": "BLISS",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-05-21",
+      "last_pretty": "21 may 2026"
+    },
+    {
+      "name": "Sawatdee Delices",
+      "visits": 1,
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-04-08"
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
     }
   ]
 }

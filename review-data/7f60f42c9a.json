@@ -1,43 +1,37 @@
 {
   "carte": "29370",
   "name": "Albane",
-  "nb_estabs": 6,
+  "nb_estabs": 5,
   "estabs": [
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-03-12"
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-12-11"
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-10-16"
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-08-19"
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-06-03"
-    },
-    {
-      "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
-      "visits": 1,
-      "last": "2025-05-20"
+      "last": "2025-06-03",
+      "last_pretty": "03 june 2025"
     }
   ]
 }

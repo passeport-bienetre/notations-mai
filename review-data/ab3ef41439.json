@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "RUBIS SPA",
-      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-03-25"
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026"
     },
     {
       "name": "Hairmania",
-      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2026-01-15"
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
     }
   ]
 }

@@ -1,13 +1,25 @@
 {
   "carte": "35924",
   "name": "Lou",
-  "nb_estabs": 1,
+  "nb_estabs": 3,
   "estabs": [
     {
-      "name": "CJ Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
+      "name": "Le Mirador Resort &#038; Spa",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026"
+    },
+    {
+      "name": "Espace Beauté Sarah",
+      "visits": 1,
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026"
+    },
+    {
+      "name": "CJ Coiffure",
+      "visits": 1,
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     }
   ]
 }

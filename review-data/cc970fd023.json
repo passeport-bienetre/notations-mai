@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Sawatdee Temple",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-03-28"
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026"
     },
     {
       "name": "Studio Beauté",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2026-03-27"
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
     },
     {
       "name": "Belle et Naturelle",
-      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2026-03-24"
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-10-11"
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025"
     }
   ]
 }

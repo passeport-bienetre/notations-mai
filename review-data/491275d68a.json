@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-02-05"
+      "last": "2026-02-05",
+      "last_pretty": "05 february 2026"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-02-04"
+      "last": "2026-02-04",
+      "last_pretty": "04 february 2026"
     },
     {
       "name": "JOIA LAUSANNE",
-      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-02-03"
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-10-31"
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025"
     }
   ]
 }

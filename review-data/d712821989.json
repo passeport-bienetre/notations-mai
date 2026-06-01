@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2026-04-30"
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
     },
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2026-01-08"
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026"
     },
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-10-17"
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
     },
     {
       "name": "Organik Beauty",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2025-09-04"
+      "last": "2025-09-04",
+      "last_pretty": "04 september 2025"
     }
   ]
 }

@@ -1,37 +1,31 @@
 {
   "carte": "34829",
   "name": "Gaetan",
-  "nb_estabs": 5,
+  "nb_estabs": 4,
   "estabs": [
     {
       "name": "PURE BREATH ANNECY",
-      "url": "https://www.bodypass.ch/etablissements/pure-breath/",
       "visits": 1,
-      "last": "2026-03-14"
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-11-07"
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
     },
     {
       "name": "Le St-Gervais Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-st-gervais-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-02"
+      "last": "2025-08-02",
+      "last_pretty": "02 august 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-07-24"
-    },
-    {
-      "name": "Deep Nature Les Granges d&rsquo;en Haut",
-      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
-      "visits": 1,
-      "last": "2025-05-31"
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025"
     }
   ]
 }

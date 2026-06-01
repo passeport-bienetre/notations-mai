@@ -5,51 +5,51 @@
   "estabs": [
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2026-04-30"
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
     },
     {
       "name": "Sawatdee Temple",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2026-03-28"
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026"
     },
     {
       "name": "BuiCil Genève",
-      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2026-02-20"
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
     },
     {
       "name": "Le Cabinet de Beauté",
-      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
       "visits": 1,
-      "last": "2026-02-12"
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-02-12"
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026"
     },
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2026-01-20"
+      "last": "2026-01-20",
+      "last_pretty": "20 january 2026"
     },
     {
       "name": "Chalet-Hôtel la Marmotte",
-      "url": "https://www.bodypass.ch/etablissements/chalet-hotel-la-marmotte/",
       "visits": 1,
-      "last": "2025-12-22"
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
     }
   ]
 }

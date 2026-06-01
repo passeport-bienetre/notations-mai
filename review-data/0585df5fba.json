@@ -1,55 +1,61 @@
 {
   "carte": "34597",
   "name": "Bénédicte",
-  "nb_estabs": 8,
+  "nb_estabs": 9,
   "estabs": [
     {
-      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
+      "name": "BEAUTY B",
       "visits": 1,
-      "last": "2026-05-13"
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026"
+    },
+    {
+      "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-05-07"
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026"
     },
     {
       "name": "BuiCil Genève",
-      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2026-04-08"
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
     },
     {
       "name": "Flocoon Spa Cinq Mondes",
-      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2025-12-28"
+      "last": "2025-12-28",
+      "last_pretty": "28 december 2025"
     },
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-10-02"
+      "last": "2025-10-02",
+      "last_pretty": "02 october 2025"
     },
     {
       "name": "Belle et Naturelle",
-      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2025-07-08"
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-06-27"
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-06-26"
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
     }
   ]
 }

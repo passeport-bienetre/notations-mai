@@ -1,31 +1,37 @@
 {
   "carte": "35590",
   "name": "Fiona",
-  "nb_estabs": 4,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
+      "name": "Sawatdee Delices",
       "visits": 1,
-      "last": "2026-05-05"
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026"
     },
     {
       "name": "LA SUITE COIFFURE",
-      "url": "https://www.bodypass.ch/etablissements/la-suite-coiffure/",
       "visits": 1,
-      "last": "2026-03-16"
+      "last": "2026-03-16",
+      "last_pretty": "16 march 2026"
     },
     {
       "name": "ÂM SOEURS",
-      "url": "https://www.bodypass.ch/?s=%C3%82M%20SOEURS",
       "visits": 1,
-      "last": "2026-01-23"
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-12-22"
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
     }
   ]
 }

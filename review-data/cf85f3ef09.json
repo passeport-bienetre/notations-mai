@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     },
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-02-16"
+      "last": "2026-02-16",
+      "last_pretty": "16 february 2026"
     }
   ]
 }

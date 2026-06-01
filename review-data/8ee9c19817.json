@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-12-19"
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
     },
     {
       "name": "Guinot Art of Beauty",
-      "url": "https://www.bodypass.ch/etablissements/guinot-art-of-beauty/",
       "visits": 1,
-      "last": "2025-12-18"
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Sabrina",
-      "url": "https://www.bodypass.ch/?s=LE%20CENTRE%20GEN%C3%88VE%20BY%20CHARLINE%20%E2%80%93%20Sabrina",
       "visits": 1,
-      "last": "2025-12-11"
+      "last": "2025-12-11",
+      "last_pretty": "11 december 2025"
     }
   ]
 }

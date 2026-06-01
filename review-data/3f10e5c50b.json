@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2025-12-16"
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025"
     },
     {
       "name": "Institut Beauté Bertmans",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2025-10-21"
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025"
     },
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2025-09-16"
+      "last": "2025-09-16",
+      "last_pretty": "16 september 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-09-12"
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-08"
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
     },
     {
       "name": "Noemi Spataro Esthétique",
-      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-07-19"
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-07-18"
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
     }
   ]
 }

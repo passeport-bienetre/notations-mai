@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Deep Nature Les Granges d&rsquo;en Haut",
-      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
       "visits": 1,
-      "last": "2026-03-27"
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
     },
     {
       "name": "Nueva Luna Yoga",
-      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2026-01-06"
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026"
     }
   ]
 }

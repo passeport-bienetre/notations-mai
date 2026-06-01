@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "BL Institut",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2026-05-16"
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026"
     },
     {
       "name": "Naïda Massothérapie",
-      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
       "visits": 1,
-      "last": "2026-05-04"
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026"
     },
     {
       "name": "FLEUR D’EPIDERME",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-04-21"
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
     },
     {
       "name": "Studio Beauté",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2026-04-15"
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026"
     }
   ]
 }

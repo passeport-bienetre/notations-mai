@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Crans Ambassador Spa",
-      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2026-02-06"
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-10-24"
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
     },
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-10-03"
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
     },
     {
       "name": "Karré Long",
-      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2025-08-22"
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
     }
   ]
 }

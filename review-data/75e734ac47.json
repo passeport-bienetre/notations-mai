@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-04-27"
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026"
     },
     {
       "name": "JOIA LAUSANNE",
-      "url": "https://www.bodypass.ch/etablissements/joia-lausanne/",
       "visits": 1,
-      "last": "2026-04-21"
+      "last": "2026-04-21",
+      "last_pretty": "21 april 2026"
     },
     {
       "name": "Odyssée Santé &#038; Beauté",
-      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "visits": 1,
-      "last": "2025-12-06"
+      "last": "2025-12-06",
+      "last_pretty": "06 december 2025"
     },
     {
       "name": "Anita Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/anita-coiffure/",
       "visits": 1,
-      "last": "2025-06-06"
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-06-02"
+      "last": "2025-06-02",
+      "last_pretty": "02 june 2025"
     }
   ]
 }

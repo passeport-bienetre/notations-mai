@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Crans Ambassador Spa",
-      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2026-01-30"
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-10-22"
+      "last": "2025-10-22",
+      "last_pretty": "22 october 2025"
     }
   ]
 }

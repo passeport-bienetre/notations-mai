@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Serenityblue",
-      "url": "https://www.bodypass.ch/etablissements/serenityblue/",
       "visits": 1,
-      "last": "2026-05-15"
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
     },
     {
       "name": "COMME SUR UN NUAGE",
-      "url": "https://www.bodypass.ch/etablissements/comme-sur-un-nuage/",
       "visits": 1,
-      "last": "2026-02-20"
+      "last": "2026-02-20",
+      "last_pretty": "20 february 2026"
     }
   ]
 }

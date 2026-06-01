@@ -1,25 +1,37 @@
 {
   "carte": "34419",
   "name": "Marie",
-  "nb_estabs": 3,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "LAURA COIFFEUSE PRIVÉE",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
+      "name": "Royal Savoy Hôtel &#038; Spa",
       "visits": 1,
-      "last": "2026-04-07"
+      "last": "2026-05-22",
+      "last_pretty": "22 may 2026"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "LAURA COIFFEUSE PRIVÉE",
+      "visits": 1,
+      "last": "2026-04-07",
+      "last_pretty": "07 april 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-08-20"
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-07-08"
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
     }
   ]
 }

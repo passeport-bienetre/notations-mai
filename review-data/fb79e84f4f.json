@@ -1,37 +1,43 @@
 {
   "carte": "30157",
   "name": "Jenny",
-  "nb_estabs": 5,
+  "nb_estabs": 6,
   "estabs": [
     {
-      "name": "LA MAISON VALMONT – BONGENIE",
-      "url": "https://www.bodypass.ch/etablissements/la-maison-valmont-lausanne/",
+      "name": "Lumen Spa &#038; Wellness",
       "visits": 1,
-      "last": "2026-01-06"
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026"
+    },
+    {
+      "name": "LA MAISON VALMONT – BONGENIE",
+      "visits": 1,
+      "last": "2026-01-06",
+      "last_pretty": "06 january 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-01-02"
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-07-27"
+      "last": "2025-07-27",
+      "last_pretty": "27 july 2025"
     },
     {
       "name": "LES TRESOMS",
-      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2025-07-18"
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
     },
     {
       "name": "Crans Ambassador Spa",
-      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2025-07-05"
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025"
     }
   ]
 }

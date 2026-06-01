@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Signature Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2026-04-15"
+      "last": "2026-04-15",
+      "last_pretty": "15 april 2026"
     },
     {
       "name": "SPA BY CLARINS &#8211; HÔTEL MONT-BLANC CHAMONIX",
-      "url": "https://www.bodypass.ch/etablissements/spa-by-clarins/",
       "visits": 1,
-      "last": "2025-12-29"
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-11-30"
+      "last": "2025-11-30",
+      "last_pretty": "30 november 2025"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-10-27"
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025"
     }
   ]
 }

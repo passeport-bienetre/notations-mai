@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2026-01-17"
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-10-28"
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-10-23"
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
     },
     {
       "name": "BLISS",
-      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-09-17"
+      "last": "2025-09-17",
+      "last_pretty": "17 september 2025"
     }
   ]
 }

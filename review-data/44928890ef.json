@@ -1,49 +1,43 @@
 {
   "carte": "34892",
   "name": "Sara",
-  "nb_estabs": 7,
+  "nb_estabs": 6,
   "estabs": [
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-05-16"
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026"
     },
     {
       "name": "Le Grand Bellevue",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2025-12-23"
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
     },
     {
       "name": "Vogue La Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
       "visits": 1,
-      "last": "2025-12-04"
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-10-03"
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
     },
     {
       "name": "Hairmania",
-      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-09-12"
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-07-10"
-    },
-    {
-      "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
     }
   ]
 }

@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Parallèles Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-11-26"
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-11-25"
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-07-15"
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
     }
   ]
 }

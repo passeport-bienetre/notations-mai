@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Flocoon Spa Cinq Mondes",
-      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2025-09-08"
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025"
     },
     {
       "name": "Crans Ambassador Spa",
-      "url": "https://www.bodypass.ch/?s=Crans%20Ambassador%20Spa",
       "visits": 1,
-      "last": "2025-07-05"
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025"
     }
   ]
 }

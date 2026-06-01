@@ -5,75 +5,75 @@
   "estabs": [
     {
       "name": "Arte Beauty EHL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2026-01-12"
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-01-03"
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
     },
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2025-12-29"
+      "last": "2025-12-29",
+      "last_pretty": "29 december 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-12-20"
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-11-25"
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-11-22"
+      "last": "2025-11-22",
+      "last_pretty": "22 november 2025"
     },
     {
       "name": "Institut Biotiful",
-      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2025-10-28"
+      "last": "2025-10-28",
+      "last_pretty": "28 october 2025"
     },
     {
       "name": "Les Sources des Alpes",
-      "url": "https://www.bodypass.ch/etablissements/les-sources-des-alpes-3/",
       "visits": 1,
-      "last": "2025-09-13"
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025"
     },
     {
       "name": "Institut ZenSkin",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2025-09-11"
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-08-28"
+      "last": "2025-08-28",
+      "last_pretty": "28 august 2025"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-07-16"
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-06-12"
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
     }
   ]
 }

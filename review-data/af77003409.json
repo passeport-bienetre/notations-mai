@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Origin Float Spa",
-      "url": "https://www.bodypass.ch/etablissements/origin-float-spa/",
       "visits": 1,
-      "last": "2025-06-08"
+      "last": "2025-06-08",
+      "last_pretty": "08 june 2025"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-06-07"
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025"
     }
   ]
 }

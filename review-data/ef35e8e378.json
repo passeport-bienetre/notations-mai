@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-05-02"
+      "last": "2026-05-02",
+      "last_pretty": "02 may 2026"
     },
     {
       "name": "Bhumi",
-      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2026-04-11"
+      "last": "2026-04-11",
+      "last_pretty": "11 april 2026"
     },
     {
       "name": "Les Sources du Chéry",
-      "url": "https://www.bodypass.ch/etablissements/les-sources-du-chery/",
       "visits": 1,
-      "last": "2026-02-22"
+      "last": "2026-02-22",
+      "last_pretty": "22 february 2026"
     },
     {
       "name": "BORROMEO COIFFURE",
-      "url": "https://www.bodypass.ch/etablissements/borromeo-coiffure/",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     },
     {
       "name": "LES TRESOMS",
-      "url": "https://www.bodypass.ch/etablissements/les-tresoms-2/",
       "visits": 1,
-      "last": "2025-08-29"
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-07-15"
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
     }
   ]
 }

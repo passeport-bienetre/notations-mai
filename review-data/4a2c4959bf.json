@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Bains d&rsquo;Ovronnaz",
-      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     },
     {
       "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-06-30"
+      "last": "2025-06-30",
+      "last_pretty": "30 june 2025"
     }
   ]
 }

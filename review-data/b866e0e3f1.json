@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-02-12"
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026"
     },
     {
       "name": "Bains d&rsquo;Ovronnaz",
-      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
       "visits": 1,
-      "last": "2026-02-01"
+      "last": "2026-02-01",
+      "last_pretty": "01 february 2026"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-11-08"
+      "last": "2025-11-08",
+      "last_pretty": "08 november 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-06-21"
+      "last": "2025-06-21",
+      "last_pretty": "21 june 2025"
     }
   ]
 }

@@ -1,37 +1,31 @@
 {
   "carte": "31460",
   "name": "sybille",
-  "nb_estabs": 5,
+  "nb_estabs": 4,
   "estabs": [
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-04-18"
+      "last": "2026-04-18",
+      "last_pretty": "18 april 2026"
     },
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-11-15"
+      "last": "2025-11-15",
+      "last_pretty": "15 november 2025"
     },
     {
       "name": "Studio Beauté",
-      "url": "https://www.bodypass.ch/etablissements/studio-beaute/",
       "visits": 1,
-      "last": "2025-11-01"
+      "last": "2025-11-01",
+      "last_pretty": "01 november 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-10-29"
-    },
-    {
-      "name": "Le Cabinet de Beauté",
-      "url": "https://www.bodypass.ch/etablissements/le-cabinet-de-beaute/",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
     }
   ]
 }

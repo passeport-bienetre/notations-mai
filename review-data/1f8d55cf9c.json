@@ -5,57 +5,57 @@
   "estabs": [
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2026-04-24"
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-04-24"
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
     },
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-03-14"
+      "last": "2026-03-14",
+      "last_pretty": "14 march 2026"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-12-19"
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-12-12"
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-10-09"
+      "last": "2025-10-09",
+      "last_pretty": "09 october 2025"
     },
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2025-08-16"
+      "last": "2025-08-16",
+      "last_pretty": "16 august 2025"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-07-23"
+      "last": "2025-07-23",
+      "last_pretty": "23 july 2025"
     },
     {
       "name": "Institut Beauté Bertmans",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2025-07-09"
+      "last": "2025-07-09",
+      "last_pretty": "09 july 2025"
     }
   ]
 }

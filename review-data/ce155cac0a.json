@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "BuiCil Genève",
-      "url": "https://www.bodypass.ch/etablissements/buicil-geneve/",
       "visits": 1,
-      "last": "2026-03-03"
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-02-12"
+      "last": "2026-02-12",
+      "last_pretty": "12 february 2026"
     }
   ]
 }

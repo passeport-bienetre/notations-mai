@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2026-05-13"
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-12-04"
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-09-22"
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025"
     },
     {
       "name": "Akyado Genève Centre",
-      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-07-19"
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-06-18"
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025"
     },
     {
       "name": "Belle et Naturelle",
-      "url": "https://www.bodypass.ch/etablissements/belle-et-naturelle/",
       "visits": 1,
-      "last": "2025-06-12"
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
     }
   ]
 }

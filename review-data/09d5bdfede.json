@@ -1,13 +1,19 @@
 {
   "carte": "35818",
   "name": "Kathryn",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "LES FITNESS HARMONY",
-      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
+      "name": "LE CENTRE GENÈVE BY CHARLINE",
       "visits": 1,
-      "last": "2026-01-03"
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026"
+    },
+    {
+      "name": "LES FITNESS HARMONY",
+      "visits": 1,
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
     }
   ]
 }

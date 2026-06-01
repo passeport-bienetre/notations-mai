@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Centre de bien-être J&#038;J",
-      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "visits": 1,
-      "last": "2025-10-18"
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025"
     },
     {
       "name": "Hairmania",
-      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-08-19"
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
     }
   ]
 }

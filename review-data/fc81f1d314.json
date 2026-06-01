@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-02-23"
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-06-10"
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
     }
   ]
 }

@@ -1,19 +1,13 @@
 {
   "carte": "27164",
   "name": "Marylou",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "Flocoon Spa Cinq Mondes",
-      "url": "https://www.bodypass.ch/etablissements/flocoon-spa-cinq-mondes/",
       "visits": 1,
-      "last": "2025-08-13"
-    },
-    {
-      "name": "19Th Avenue &#8211; Thonex",
-      "url": "https://www.bodypass.ch/?s=19Th%20Avenue%20%E2%80%93%20Thonex",
-      "visits": 1,
-      "last": "2025-05-24"
+      "last": "2025-08-13",
+      "last_pretty": "13 august 2025"
     }
   ]
 }

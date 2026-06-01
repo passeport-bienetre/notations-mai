@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Europe Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/europe-hotel-spa/",
       "visits": 1,
-      "last": "2026-02-21"
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-12-19"
+      "last": "2025-12-19",
+      "last_pretty": "19 december 2025"
     }
   ]
 }

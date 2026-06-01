@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Centre de bien-être J&#038;J",
-      "url": "https://www.bodypass.ch/etablissements/centre-de-bien-etre-jj/",
       "visits": 1,
-      "last": "2026-05-01"
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
     },
     {
       "name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "url": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
       "visits": 1,
-      "last": "2026-03-12"
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-01-14"
+      "last": "2026-01-14",
+      "last_pretty": "14 january 2026"
     },
     {
       "name": "NUTRITION BY AURELIA",
-      "url": "https://www.bodypass.ch/etablissements/nutrition-by-aurelia/",
       "visits": 1,
-      "last": "2026-01-12"
+      "last": "2026-01-12",
+      "last_pretty": "12 january 2026"
     }
   ]
 }

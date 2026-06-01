@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Institut Biotiful",
-      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2026-04-22"
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
     }
   ]
 }

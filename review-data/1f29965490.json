@@ -1,43 +1,37 @@
 {
   "carte": "28185",
   "name": "Sonia",
-  "nb_estabs": 6,
+  "nb_estabs": 5,
   "estabs": [
     {
       "name": "ERINGER INSTITUT",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-08-01"
+      "last": "2025-08-01",
+      "last_pretty": "01 august 2025"
     },
     {
       "name": "Tête à Clak",
-      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "visits": 1,
-      "last": "2025-07-08"
+      "last": "2025-07-08",
+      "last_pretty": "08 july 2025"
     },
     {
       "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-07-03"
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-06-17"
+      "last": "2025-06-17",
+      "last_pretty": "17 june 2025"
     },
     {
       "name": "Signature Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2025-06-06"
-    },
-    {
-      "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
-      "visits": 1,
-      "last": "2025-05-21"
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
     }
   ]
 }

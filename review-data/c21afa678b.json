@@ -1,31 +1,37 @@
 {
   "carte": "34506",
   "name": "Kimberly",
-  "nb_estabs": 4,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
+      "name": "SUBLIMEYES",
       "visits": 1,
-      "last": "2025-07-17"
+      "last": "2026-05-21",
+      "last_pretty": "21 may 2026"
+    },
+    {
+      "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Sabrina",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026"
+    },
+    {
+      "name": "Les Cliniques Matignon",
+      "visits": 1,
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
     },
     {
       "name": "NUANCES NATURE",
-      "url": "https://www.bodypass.ch/etablissements/nuances-nature/",
       "visits": 1,
-      "last": "2025-07-15"
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-07-12"
-    },
-    {
-      "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
-      "visits": 1,
-      "last": "2025-05-27"
+      "last": "2025-07-12",
+      "last_pretty": "12 july 2025"
     }
   ]
 }

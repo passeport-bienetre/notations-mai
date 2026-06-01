@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Bhumi",
-      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2026-05-13"
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
     },
     {
       "name": "Naïda Massothérapie",
-      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
       "visits": 1,
-      "last": "2026-05-12"
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026"
     }
   ]
 }

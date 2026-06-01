@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Ipanema Beauté",
-      "url": "https://www.bodypass.ch/etablissements/ipanema-beaute/",
       "visits": 1,
-      "last": "2025-07-05"
+      "last": "2025-07-05",
+      "last_pretty": "05 july 2025"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Crans-Montana",
-      "url": "https://www.bodypass.ch/etablissements/vagheggi-phyto-space-crans-montana/",
       "visits": 1,
-      "last": "2025-10-25"
+      "last": "2025-10-25",
+      "last_pretty": "25 october 2025"
     },
     {
       "name": "Bains d&rsquo;Ovronnaz",
-      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
       "visits": 1,
-      "last": "2025-10-11"
+      "last": "2025-10-11",
+      "last_pretty": "11 october 2025"
     },
     {
       "name": "Luna aesthetic",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-09-26"
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
     },
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-06-23"
+      "last": "2025-06-23",
+      "last_pretty": "23 june 2025"
     }
   ]
 }

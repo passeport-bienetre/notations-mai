@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Tempête de Calme",
-      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
       "visits": 1,
-      "last": "2026-05-16"
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026"
     }
   ]
 }

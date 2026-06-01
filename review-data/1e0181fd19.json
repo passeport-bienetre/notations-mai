@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-02-19"
+      "last": "2026-02-19",
+      "last_pretty": "19 february 2026"
     },
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-01-02"
+      "last": "2026-01-02",
+      "last_pretty": "02 january 2026"
     }
   ]
 }

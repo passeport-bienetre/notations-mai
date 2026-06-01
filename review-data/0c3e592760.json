@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-12-20"
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025"
     },
     {
       "name": "Les Vagabondes",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2025-12-13"
+      "last": "2025-12-13",
+      "last_pretty": "13 december 2025"
     }
   ]
 }

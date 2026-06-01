@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2026-05-05"
+      "last": "2026-05-05",
+      "last_pretty": "05 may 2026"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2026-04-27"
+      "last": "2026-04-27",
+      "last_pretty": "27 april 2026"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-03-24"
+      "last": "2026-03-24",
+      "last_pretty": "24 march 2026"
     },
     {
       "name": "Damien &#038; Co",
-      "url": "https://www.bodypass.ch/etablissements/damien-co-3/",
       "visits": 1,
-      "last": "2026-03-18"
+      "last": "2026-03-18",
+      "last_pretty": "18 march 2026"
     }
   ]
 }

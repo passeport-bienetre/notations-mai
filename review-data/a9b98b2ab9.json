@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-01-16"
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-12-17"
+      "last": "2025-12-17",
+      "last_pretty": "17 december 2025"
     },
     {
       "name": "Hôtel Ermitage Spa des Quatre Terres",
-      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
       "visits": 1,
-      "last": "2025-11-16"
+      "last": "2025-11-16",
+      "last_pretty": "16 november 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-09-12"
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
     },
     {
       "name": "MYO Style",
-      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2025-08-27"
+      "last": "2025-08-27",
+      "last_pretty": "27 august 2025"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-07-25"
+      "last": "2025-07-25",
+      "last_pretty": "25 july 2025"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-06-14"
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025"
     }
   ]
 }

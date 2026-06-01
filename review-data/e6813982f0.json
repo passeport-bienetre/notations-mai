@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-03-17"
+      "last": "2026-03-17",
+      "last_pretty": "17 march 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-11"
+      "last": "2025-11-11",
+      "last_pretty": "11 november 2025"
     }
   ]
 }

@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Signature Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/signature-coiffure/",
       "visits": 1,
-      "last": "2026-04-30"
+      "last": "2026-04-30",
+      "last_pretty": "30 april 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2025-11-05"
+      "last": "2025-11-05",
+      "last_pretty": "05 november 2025"
     },
     {
       "name": "Le Passage",
-      "url": "https://www.bodypass.ch/etablissements/le-passage/",
       "visits": 1,
-      "last": "2025-10-24"
+      "last": "2025-10-24",
+      "last_pretty": "24 october 2025"
     }
   ]
 }

@@ -1,19 +1,13 @@
 {
   "carte": "33657",
   "name": "Johanne",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "Institut Sirène",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2025-06-19"
-    },
-    {
-      "name": "Organik Beauty",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
-      "visits": 1,
-      "last": "2025-05-19"
+      "last": "2025-06-19",
+      "last_pretty": "19 june 2025"
     }
   ]
 }

@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-01-27"
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-11-14"
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
     },
     {
       "name": "Noemi Spataro Esthétique",
-      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-06-25"
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
     }
   ]
 }

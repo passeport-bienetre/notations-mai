@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Altitude by Garance",
-      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "visits": 1,
-      "last": "2026-03-12"
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-11-06"
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025"
     },
     {
       "name": "Akyado Genève Centre",
-      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-09-22"
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-06"
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025"
     }
   ]
 }

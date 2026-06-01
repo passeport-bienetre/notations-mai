@@ -1,49 +1,43 @@
 {
   "carte": "28498",
   "name": "Cramen",
-  "nb_estabs": 7,
+  "nb_estabs": 6,
   "estabs": [
     {
       "name": "Vogue La Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     },
     {
       "name": "Les Vagabondes",
-      "url": "https://www.bodypass.ch/etablissements/les-vagabondes/",
       "visits": 1,
-      "last": "2025-09-20"
+      "last": "2025-09-20",
+      "last_pretty": "20 september 2025"
     },
     {
       "name": "Chalet Royalp Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
       "visits": 1,
-      "last": "2025-08-29"
+      "last": "2025-08-29",
+      "last_pretty": "29 august 2025"
     },
     {
       "name": "Hairmania",
-      "url": "https://www.bodypass.ch/etablissements/hairmania/",
       "visits": 1,
-      "last": "2025-08-22"
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-08-15"
+      "last": "2025-08-15",
+      "last_pretty": "15 august 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-06-24"
-    },
-    {
-      "name": "Organik Beauty",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
-      "visits": 1,
-      "last": "2025-05-27"
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
     }
   ]
 }

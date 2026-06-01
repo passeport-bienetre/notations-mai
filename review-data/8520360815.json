@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "visits": 1,
-      "last": "2026-03-21"
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026"
     },
     {
       "name": "CJ Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2026-02-21"
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-02-14"
+      "last": "2026-02-14",
+      "last_pretty": "14 february 2026"
     }
   ]
 }

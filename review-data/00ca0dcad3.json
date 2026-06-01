@@ -1,25 +1,19 @@
 {
   "carte": "30011",
   "name": "Patrizia",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
       "visits": 1,
-      "last": "2025-12-04"
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
     },
     {
       "name": "Grand Hôtel du Lac",
-      "url": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "visits": 1,
-      "last": "2025-11-14"
-    },
-    {
-      "name": "Noemi Spataro Esthétique",
-      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
-      "visits": 1,
-      "last": "2025-05-28"
+      "last": "2025-11-14",
+      "last_pretty": "14 november 2025"
     }
   ]
 }

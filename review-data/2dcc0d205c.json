@@ -1,19 +1,37 @@
 {
   "carte": "34482",
   "name": "Anaelle",
-  "nb_estabs": 2,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "Le Lokal",
-      "url": "https://www.bodypass.ch/etablissements/le-lokal/",
+      "name": "VAGHEGGI Phyto Space Crans-Montana",
       "visits": 1,
-      "last": "2025-09-19"
+      "last": "2026-05-27",
+      "last_pretty": "27 may 2026"
+    },
+    {
+      "name": "BuiCil Genève",
+      "visits": 1,
+      "last": "2026-05-20",
+      "last_pretty": "20 may 2026"
+    },
+    {
+      "name": "Naïda Massothérapie",
+      "visits": 1,
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "Le Lokal",
+      "visits": 1,
+      "last": "2025-09-19",
+      "last_pretty": "19 september 2025"
     },
     {
       "name": "Bains d&rsquo;Ovronnaz",
-      "url": "https://www.bodypass.ch/etablissements/bains-dovronnaz/",
       "visits": 1,
-      "last": "2025-06-18"
+      "last": "2025-06-18",
+      "last_pretty": "18 june 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Chandolin Boutique Hôtel",
-      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "visits": 1,
-      "last": "2026-04-08"
+      "last": "2026-04-08",
+      "last_pretty": "08 april 2026"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-07-06"
+      "last": "2025-07-06",
+      "last_pretty": "06 july 2025"
     }
   ]
 }

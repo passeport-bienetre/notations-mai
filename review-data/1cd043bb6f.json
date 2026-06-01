@@ -1,25 +1,31 @@
 {
   "carte": "34992",
   "name": "Laura",
-  "nb_estabs": 3,
+  "nb_estabs": 4,
   "estabs": [
     {
-      "name": "Le Grand Bellevue",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
+      "name": "CJ Coiffure",
       "visits": 1,
-      "last": "2026-01-27"
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026"
+    },
+    {
+      "name": "Le Grand Bellevue",
+      "visits": 1,
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
     },
     {
       "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-10-21"
+      "last": "2025-10-21",
+      "last_pretty": "21 october 2025"
     },
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-10-20"
+      "last": "2025-10-20",
+      "last_pretty": "20 october 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-10-16"
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-06-09"
+      "last": "2025-06-09",
+      "last_pretty": "09 june 2025"
     }
   ]
 }

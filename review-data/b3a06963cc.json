@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Espace Beauté Sarah",
-      "url": "https://www.bodypass.ch/etablissements/espace-beaute-sarah/",
       "visits": 1,
-      "last": "2026-05-07"
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-01-23"
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
     }
   ]
 }

@@ -1,31 +1,25 @@
 {
   "carte": "33910",
   "name": "Sylvie",
-  "nb_estabs": 4,
+  "nb_estabs": 3,
   "estabs": [
     {
       "name": "Hôtel de Rougemont &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2025-10-12"
+      "last": "2025-10-12",
+      "last_pretty": "12 october 2025"
     },
     {
       "name": "Vogue La Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
       "visits": 1,
-      "last": "2025-09-29"
+      "last": "2025-09-29",
+      "last_pretty": "29 september 2025"
     },
     {
       "name": "Fairmont le Montreux Palace",
-      "url": "https://www.bodypass.ch/?s=Fairmont%20le%20Montreux%20Palace",
       "visits": 1,
-      "last": "2025-09-15"
-    },
-    {
-      "name": "Tête à Clak",
-      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
-      "visits": 1,
-      "last": "2025-05-23"
+      "last": "2025-09-15",
+      "last_pretty": "15 september 2025"
     }
   ]
 }

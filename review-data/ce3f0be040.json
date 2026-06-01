@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2026-03-28"
+      "last": "2026-03-28",
+      "last_pretty": "28 march 2026"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-03-19"
+      "last": "2026-03-19",
+      "last_pretty": "19 march 2026"
     },
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2026-02-23"
+      "last": "2026-02-23",
+      "last_pretty": "23 february 2026"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-10-10"
+      "last": "2025-10-10",
+      "last_pretty": "10 october 2025"
     },
     {
       "name": "BL Institut",
-      "url": "https://www.bodypass.ch/etablissements/bl-institut-2/",
       "visits": 1,
-      "last": "2025-08-07"
+      "last": "2025-08-07",
+      "last_pretty": "07 august 2025"
     },
     {
       "name": "BLISS",
-      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-07-19"
+      "last": "2025-07-19",
+      "last_pretty": "19 july 2025"
     }
   ]
 }

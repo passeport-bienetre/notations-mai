@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Sawatdee Temple",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-02-03"
+      "last": "2026-02-03",
+      "last_pretty": "03 february 2026"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2026-01-24"
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
     },
     {
       "name": "LES BAINS PUBLICS",
-      "url": "https://www.bodypass.ch/etablissements/les-bains-publics/",
       "visits": 1,
-      "last": "2026-01-17"
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
     },
     {
       "name": "W Verbier",
-      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2025-10-23"
+      "last": "2025-10-23",
+      "last_pretty": "23 october 2025"
     }
   ]
 }

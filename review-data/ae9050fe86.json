@@ -1,25 +1,19 @@
 {
   "carte": "31918",
   "name": "Laura",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-09-21"
+      "last": "2025-09-21",
+      "last_pretty": "21 september 2025"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-08-19"
-    },
-    {
-      "name": "W Verbier",
-      "url": "https://www.bodypass.ch/?s=W%20Verbier",
-      "visits": 1,
-      "last": "2025-05-19"
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
     }
   ]
 }

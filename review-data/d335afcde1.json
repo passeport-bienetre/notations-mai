@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-09-13"
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2025-06-10"
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
     }
   ]
 }

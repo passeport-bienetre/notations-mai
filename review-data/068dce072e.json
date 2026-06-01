@@ -1,43 +1,37 @@
 {
   "carte": "31488",
   "name": "Emma",
-  "nb_estabs": 6,
+  "nb_estabs": 5,
   "estabs": [
     {
       "name": "BLISS",
-      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-11-12"
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-11-12"
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
     },
     {
       "name": "Nueva Luna Yoga",
-      "url": "https://www.bodypass.ch/etablissements/nueva-luna-yoga/",
       "visits": 1,
-      "last": "2025-10-13"
+      "last": "2025-10-13",
+      "last_pretty": "13 october 2025"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2025-10-01"
+      "last": "2025-10-01",
+      "last_pretty": "01 october 2025"
     },
     {
       "name": "MYO Style",
-      "url": "https://www.bodypass.ch/etablissements/myo-style/",
       "visits": 1,
-      "last": "2025-06-24"
-    },
-    {
-      "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
-      "visits": 1,
-      "last": "2025-05-28"
+      "last": "2025-06-24",
+      "last_pretty": "24 june 2025"
     }
   ]
 }

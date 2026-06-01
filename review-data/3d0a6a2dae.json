@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2026-05-16"
+      "last": "2026-05-16",
+      "last_pretty": "16 may 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-04-20"
+      "last": "2026-04-20",
+      "last_pretty": "20 april 2026"
     }
   ]
 }

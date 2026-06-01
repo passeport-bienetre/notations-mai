@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Parallèles Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-12-03"
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-07-10"
+      "last": "2025-07-10",
+      "last_pretty": "10 july 2025"
     },
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2025-06-26"
+      "last": "2025-06-26",
+      "last_pretty": "26 june 2025"
     }
   ]
 }

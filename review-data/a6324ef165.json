@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Institut ZenSkin",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2025-12-22"
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
     },
     {
       "name": "Institut Beauté Bertmans",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2025-11-20"
+      "last": "2025-11-20",
+      "last_pretty": "20 november 2025"
     },
     {
       "name": "CJ Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2025-11-06"
+      "last": "2025-11-06",
+      "last_pretty": "06 november 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-06-11"
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
     }
   ]
 }

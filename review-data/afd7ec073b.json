@@ -1,55 +1,61 @@
 {
   "carte": "31836",
   "name": "Gaelle",
-  "nb_estabs": 8,
+  "nb_estabs": 9,
   "estabs": [
     {
-      "name": "Salon Privé Ecublens",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
+      "name": "Lausanne Palace &#038; Spa",
       "visits": 1,
-      "last": "2026-05-13"
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "Salon Privé Ecublens",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
     },
     {
       "name": "Royal Savoy Hôtel &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/royal-savoy-hotel-spa/",
       "visits": 1,
-      "last": "2026-05-04"
+      "last": "2026-05-04",
+      "last_pretty": "04 may 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-04-24"
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
     },
     {
       "name": "Institut ZenSkin",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-04-10"
+      "last": "2026-04-10",
+      "last_pretty": "10 april 2026"
     },
     {
       "name": "Arte Beauty EHL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-ehl/",
       "visits": 1,
-      "last": "2025-10-31"
+      "last": "2025-10-31",
+      "last_pretty": "31 october 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-09-13"
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-07-18"
+      "last": "2025-07-18",
+      "last_pretty": "18 july 2025"
     }
   ]
 }

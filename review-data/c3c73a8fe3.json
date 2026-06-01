@@ -1,19 +1,13 @@
 {
   "carte": "31628",
   "name": "Maria",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "Luna aesthetic",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2025-06-07"
-    },
-    {
-      "name": "Hôtel Ermitage Spa des Quatre Terres",
-      "url": "https://www.bodypass.ch/etablissements/hotel-ermitage-spa-des-quatre-terres/",
-      "visits": 1,
-      "last": "2025-05-18"
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025"
     }
   ]
 }

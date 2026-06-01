@@ -5,51 +5,51 @@
   "estabs": [
     {
       "name": "FLEUR D’EPIDERME",
-      "url": "https://www.bodypass.ch/etablissements/fleur-depiderme/",
       "visits": 1,
-      "last": "2026-03-27"
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
     },
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2026-01-09"
+      "last": "2026-01-09",
+      "last_pretty": "09 january 2026"
     },
     {
       "name": "ÂM SOEURS",
-      "url": "https://www.bodypass.ch/?s=%C3%82M%20SOEURS",
       "visits": 1,
-      "last": "2025-12-22"
+      "last": "2025-12-22",
+      "last_pretty": "22 december 2025"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-11-28"
+      "last": "2025-11-28",
+      "last_pretty": "28 november 2025"
     },
     {
       "name": "La Coifferie",
-      "url": "https://www.bodypass.ch/etablissements/la-coifferie-3/",
       "visits": 1,
-      "last": "2025-11-25"
+      "last": "2025-11-25",
+      "last_pretty": "25 november 2025"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2025-11-13"
+      "last": "2025-11-13",
+      "last_pretty": "13 november 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-07-17"
+      "last": "2025-07-17",
+      "last_pretty": "17 july 2025"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2025-07-16"
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
     }
   ]
 }

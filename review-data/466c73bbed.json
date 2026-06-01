@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Skin Solution",
-      "url": "https://www.bodypass.ch/etablissements/skin-solution/",
       "visits": 1,
-      "last": "2026-01-21"
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026"
     },
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-02"
+      "last": "2025-12-02",
+      "last_pretty": "02 december 2025"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-10-08"
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-08-20"
+      "last": "2025-08-20",
+      "last_pretty": "20 august 2025"
     }
   ]
 }

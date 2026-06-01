@@ -1,61 +1,55 @@
 {
   "carte": "27242",
   "name": "Jessy",
-  "nb_estabs": 9,
+  "nb_estabs": 8,
   "estabs": [
     {
       "name": "RUBIS SPA",
-      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-02-10"
+      "last": "2026-02-10",
+      "last_pretty": "10 february 2026"
     },
     {
       "name": "Institut Sirène",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2025-11-12"
+      "last": "2025-11-12",
+      "last_pretty": "12 november 2025"
     },
     {
       "name": "Institut Beauté Bertmans",
-      "url": "https://www.bodypass.ch/etablissements/institut-beaute-bertmans/",
       "visits": 1,
-      "last": "2025-09-03"
+      "last": "2025-09-03",
+      "last_pretty": "03 september 2025"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-08-06"
+      "last": "2025-08-06",
+      "last_pretty": "06 august 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-08-05"
+      "last": "2025-08-05",
+      "last_pretty": "05 august 2025"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-08-02"
+      "last": "2025-08-02",
+      "last_pretty": "02 august 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-07-11"
+      "last": "2025-07-11",
+      "last_pretty": "11 july 2025"
     },
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-06-23"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
-      "visits": 1,
-      "last": "2025-05-28"
+      "last": "2025-06-23",
+      "last_pretty": "23 june 2025"
     }
   ]
 }

@@ -1,13 +1,19 @@
 {
   "carte": "34317",
   "name": "Ljiljana",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
+      "name": "LES FITNESS HARMONY",
       "visits": 1,
-      "last": "2025-10-26"
+      "last": "2026-05-30",
+      "last_pretty": "30 may 2026"
+    },
+    {
+      "name": "Spa Baron Tavernier",
+      "visits": 1,
+      "last": "2025-10-26",
+      "last_pretty": "26 october 2025"
     }
   ]
 }

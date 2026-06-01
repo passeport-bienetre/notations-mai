@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Wulan Studio",
-      "url": "https://www.bodypass.ch/etablissements/wulan-studio/",
       "visits": 1,
-      "last": "2026-04-14"
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
     },
     {
       "name": "So Beauty Home",
-      "url": "https://www.bodypass.ch/etablissements/so-beauty-home/",
       "visits": 1,
-      "last": "2026-02-27"
+      "last": "2026-02-27",
+      "last_pretty": "27 february 2026"
     },
     {
       "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
       "visits": 1,
-      "last": "2026-01-24"
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
     }
   ]
 }

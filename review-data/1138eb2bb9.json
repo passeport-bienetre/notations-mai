@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
       "visits": 1,
-      "last": "2025-10-12"
+      "last": "2025-10-12",
+      "last_pretty": "12 october 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-09-05"
+      "last": "2025-09-05",
+      "last_pretty": "05 september 2025"
     }
   ]
 }

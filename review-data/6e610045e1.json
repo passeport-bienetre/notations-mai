@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-06-06"
+      "last": "2025-06-06",
+      "last_pretty": "06 june 2025"
     }
   ]
 }

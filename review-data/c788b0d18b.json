@@ -1,25 +1,19 @@
 {
   "carte": "28470",
   "name": "Eliane",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "Karré Long",
-      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2025-08-19"
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
     },
     {
       "name": "Institut Guinot",
-      "url": "https://www.bodypass.ch/etablissements/institut-guinot-2/",
       "visits": 1,
-      "last": "2025-08-11"
-    },
-    {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
-      "visits": 1,
-      "last": "2025-05-27"
+      "last": "2025-08-11",
+      "last_pretty": "11 august 2025"
     }
   ]
 }

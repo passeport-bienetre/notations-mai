@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2026-05-01"
+      "last": "2026-05-01",
+      "last_pretty": "01 may 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Tifenn",
-      "url": "https://www.bodypass.ch/?s=LE%20CENTRE%20GEN%C3%88VE%20BY%20CHARLINE%20%E2%80%93%20Tifenn",
       "visits": 1,
-      "last": "2026-03-30"
+      "last": "2026-03-30",
+      "last_pretty": "30 march 2026"
     }
   ]
 }

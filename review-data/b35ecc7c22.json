@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-10-03"
+      "last": "2025-10-03",
+      "last_pretty": "03 october 2025"
     },
     {
       "name": "LES FITNESS HARMONY",
-      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-09-11"
+      "last": "2025-09-11",
+      "last_pretty": "11 september 2025"
     }
   ]
 }

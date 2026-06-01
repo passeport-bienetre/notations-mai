@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "BLISS",
-      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2026-03-27"
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
     },
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2026-03-06"
+      "last": "2026-03-06",
+      "last_pretty": "06 march 2026"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2026-02-26"
+      "last": "2026-02-26",
+      "last_pretty": "26 february 2026"
     }
   ]
 }

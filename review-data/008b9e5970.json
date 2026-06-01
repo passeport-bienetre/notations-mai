@@ -1,31 +1,37 @@
 {
   "carte": "36675",
   "name": "Heloisa",
-  "nb_estabs": 4,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
+      "name": "Arte Beauty Lutry",
       "visits": 1,
-      "last": "2026-05-14"
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026"
+    },
+    {
+      "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
+      "visits": 1,
+      "last": "2026-05-14",
+      "last_pretty": "14 may 2026"
     },
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2026-03-21"
+      "last": "2026-03-21",
+      "last_pretty": "21 march 2026"
     },
     {
       "name": "Le Grand Bellevue",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2026-03-07"
+      "last": "2026-03-07",
+      "last_pretty": "07 march 2026"
     },
     {
       "name": "Tête à Clak",
-      "url": "https://www.bodypass.ch/etablissements/tete-a-clak/",
       "visits": 1,
-      "last": "2026-03-03"
+      "last": "2026-03-03",
+      "last_pretty": "03 march 2026"
     }
   ]
 }

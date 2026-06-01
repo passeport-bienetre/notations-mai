@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "La VILLA Kobido et Massage",
-      "url": "https://www.bodypass.ch/etablissements/la-villa/",
       "visits": 1,
-      "last": "2026-01-23"
+      "last": "2026-01-23",
+      "last_pretty": "23 january 2026"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-12-08"
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025"
     },
     {
       "name": "Noemi Spataro Esthétique",
-      "url": "https://www.bodypass.ch/?s=Noemi%20Spataro%20Esth%C3%A9tique",
       "visits": 1,
-      "last": "2025-06-25"
+      "last": "2025-06-25",
+      "last_pretty": "25 june 2025"
     }
   ]
 }

@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-05-07"
+      "last": "2026-05-07",
+      "last_pretty": "07 may 2026"
     },
     {
       "name": "RUBIS SPA",
-      "url": "https://www.bodypass.ch/etablissements/rubis-spa/",
       "visits": 1,
-      "last": "2026-04-29"
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-03-25"
+      "last": "2026-03-25",
+      "last_pretty": "25 march 2026"
     },
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2026-03-23"
+      "last": "2026-03-23",
+      "last_pretty": "23 march 2026"
     },
     {
       "name": "Rituels Beauté",
-      "url": "https://www.bodypass.ch/etablissements/rituels-beaute/",
       "visits": 1,
-      "last": "2026-03-04"
+      "last": "2026-03-04",
+      "last_pretty": "04 march 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-01-15"
+      "last": "2026-01-15",
+      "last_pretty": "15 january 2026"
     }
   ]
 }

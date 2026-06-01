@@ -5,21 +5,21 @@
   "estabs": [
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2026-01-30"
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
     },
     {
       "name": "ERINGER INSTITUT",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-11-07"
+      "last": "2025-11-07",
+      "last_pretty": "07 november 2025"
     },
     {
       "name": "LES FITNESS HARMONY",
-      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2025-09-28"
+      "last": "2025-09-28",
+      "last_pretty": "28 september 2025"
     }
   ]
 }

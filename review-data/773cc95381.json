@@ -1,31 +1,37 @@
 {
   "carte": "32300",
   "name": "Carole",
-  "nb_estabs": 4,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "1er Acte Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "name": "Nail Café",
       "visits": 1,
-      "last": "2026-04-14"
+      "last": "2026-05-26",
+      "last_pretty": "26 may 2026"
+    },
+    {
+      "name": "1er Acte Coiffure",
+      "visits": 1,
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
     },
     {
       "name": "Tempête de Calme",
-      "url": "https://www.bodypass.ch/etablissements/tempete-de-calme/",
       "visits": 1,
-      "last": "2026-04-13"
+      "last": "2026-04-13",
+      "last_pretty": "13 april 2026"
     },
     {
       "name": "Naïda Massothérapie",
-      "url": "https://www.bodypass.ch/etablissements/naida-massotherapie/",
       "visits": 1,
-      "last": "2026-03-10"
+      "last": "2026-03-10",
+      "last_pretty": "10 march 2026"
     },
     {
       "name": "Flaventino coiffure Aubonne",
-      "url": "https://www.bodypass.ch/etablissements/flaventino-coiffure-aubonne/",
       "visits": 1,
-      "last": "2026-01-21"
+      "last": "2026-01-21",
+      "last_pretty": "21 january 2026"
     }
   ]
 }

@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "visits": 1,
-      "last": "2025-11-27"
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025"
     },
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-11-09"
+      "last": "2025-11-09",
+      "last_pretty": "09 november 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-10-29"
+      "last": "2025-10-29",
+      "last_pretty": "29 october 2025"
     },
     {
       "name": "Sawatdee Temple",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-temple/",
       "visits": 1,
-      "last": "2025-07-16"
+      "last": "2025-07-16",
+      "last_pretty": "16 july 2025"
     },
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-06-16"
+      "last": "2025-06-16",
+      "last_pretty": "16 june 2025"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-06-10"
+      "last": "2025-06-10",
+      "last_pretty": "10 june 2025"
     }
   ]
 }

@@ -1,49 +1,43 @@
 {
   "carte": "34251",
   "name": "Laura",
-  "nb_estabs": 7,
+  "nb_estabs": 6,
   "estabs": [
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2026-04-25"
+      "last": "2026-04-25",
+      "last_pretty": "25 april 2026"
     },
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     },
     {
       "name": "Salon Privé Ecublens",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2026-01-22"
+      "last": "2026-01-22",
+      "last_pretty": "22 january 2026"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-12-16"
+      "last": "2025-12-16",
+      "last_pretty": "16 december 2025"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-10-08"
+      "last": "2025-10-08",
+      "last_pretty": "08 october 2025"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2025-09-06"
-    },
-    {
-      "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
-      "visits": 1,
-      "last": "2025-05-21"
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025"
     }
   ]
 }

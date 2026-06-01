@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Hôtel Schweizerhof Bern &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/schweizerhof-bern-hotel-spa/",
       "visits": 1,
-      "last": "2026-04-16"
+      "last": "2026-04-16",
+      "last_pretty": "16 april 2026"
     },
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-02-21"
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-12-25"
+      "last": "2025-12-25",
+      "last_pretty": "25 december 2025"
     },
     {
       "name": "ERINGER HÔTEL",
-      "url": "https://www.bodypass.ch/?s=ERINGER%20H%C3%94TEL",
       "visits": 1,
-      "last": "2025-12-12"
+      "last": "2025-12-12",
+      "last_pretty": "12 december 2025"
     }
   ]
 }

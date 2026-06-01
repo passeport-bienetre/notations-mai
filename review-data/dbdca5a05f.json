@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2026-05-15"
+      "last": "2026-05-15",
+      "last_pretty": "15 may 2026"
     },
     {
       "name": "Chandolin Boutique Hôtel",
-      "url": "https://www.bodypass.ch/etablissements/chandolin-boutique-hotel/",
       "visits": 1,
-      "last": "2026-02-06"
+      "last": "2026-02-06",
+      "last_pretty": "06 february 2026"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-01-03"
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
     },
     {
       "name": "EVERNESS <br>Hôtel &#038; Resort",
-      "url": "https://www.bodypass.ch/etablissements/everness-resort/",
       "visits": 1,
-      "last": "2025-11-21"
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
     }
   ]
 }

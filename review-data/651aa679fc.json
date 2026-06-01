@@ -1,19 +1,37 @@
 {
   "carte": "36940",
   "name": "Caroline",
-  "nb_estabs": 2,
+  "nb_estabs": 5,
   "estabs": [
     {
-      "name": "Odyssée Santé &#038; Beauté",
-      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
+      "name": "So Hair",
       "visits": 1,
-      "last": "2026-05-13"
+      "last": "2026-05-21",
+      "last_pretty": "21 may 2026"
+    },
+    {
+      "name": "Swiss Beauty Studio",
+      "visits": 1,
+      "last": "2026-05-21",
+      "last_pretty": "21 may 2026"
+    },
+    {
+      "name": "Skin Solution",
+      "visits": 1,
+      "last": "2026-05-19",
+      "last_pretty": "19 may 2026"
+    },
+    {
+      "name": "Odyssée Santé &#038; Beauté",
+      "visits": 1,
+      "last": "2026-05-13",
+      "last_pretty": "13 may 2026"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2026-05-06"
+      "last": "2026-05-06",
+      "last_pretty": "06 may 2026"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-11-27"
+      "last": "2025-11-27",
+      "last_pretty": "27 november 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-06-12"
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
     }
   ]
 }

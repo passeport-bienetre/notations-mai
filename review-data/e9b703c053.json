@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2026-04-29"
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
     },
     {
       "name": "Sawatdee Delices",
-      "url": "https://www.bodypass.ch/etablissements/sawatdee-delices/",
       "visits": 1,
-      "last": "2026-04-29"
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
     }
   ]
 }

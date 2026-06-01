@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "LAURA COIFFEUSE PRIVÉE",
-      "url": "https://www.bodypass.ch/etablissements/laura-coiffeuse-privee/",
       "visits": 1,
-      "last": "2026-01-29"
+      "last": "2026-01-29",
+      "last_pretty": "29 january 2026"
     },
     {
       "name": "Atmosp&rsquo;hair",
-      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2025-11-21"
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
     }
   ]
 }

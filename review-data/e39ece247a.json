@@ -1,31 +1,25 @@
 {
   "carte": "31445",
   "name": "Michèle",
-  "nb_estabs": 4,
+  "nb_estabs": 3,
   "estabs": [
     {
       "name": "Lausanne Palace &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/lausanne-palace-spa/",
       "visits": 1,
-      "last": "2026-05-12"
+      "last": "2026-05-12",
+      "last_pretty": "12 may 2026"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-11-10"
+      "last": "2025-11-10",
+      "last_pretty": "10 november 2025"
     },
     {
       "name": "Atmosp&rsquo;hair",
-      "url": "https://www.bodypass.ch/etablissements/atmosphair/",
       "visits": 1,
-      "last": "2025-07-03"
-    },
-    {
-      "name": "Hôtel &#038; Spa Le National",
-      "url": "https://www.bodypass.ch/etablissements/hotel-spa-le-national/",
-      "visits": 1,
-      "last": "2025-06-01"
+      "last": "2025-07-03",
+      "last_pretty": "03 july 2025"
     }
   ]
 }

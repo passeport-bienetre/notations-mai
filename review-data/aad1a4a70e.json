@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Vogue La Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/vogue-la-coiffure/",
       "visits": 1,
-      "last": "2026-03-12"
+      "last": "2026-03-12",
+      "last_pretty": "12 march 2026"
     },
     {
       "name": "Luna aesthetic",
-      "url": "https://www.bodypass.ch/etablissements/luna-aesthetic/",
       "visits": 1,
-      "last": "2026-01-30"
+      "last": "2026-01-30",
+      "last_pretty": "30 january 2026"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-07-29"
+      "last": "2025-07-29",
+      "last_pretty": "29 july 2025"
     },
     {
       "name": "Organik Beauty",
-      "url": "https://www.bodypass.ch/etablissements/organik-beauty/",
       "visits": 1,
-      "last": "2025-06-07"
+      "last": "2025-06-07",
+      "last_pretty": "07 june 2025"
     }
   ]
 }

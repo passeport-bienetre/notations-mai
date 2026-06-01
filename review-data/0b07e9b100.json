@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-23"
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
     },
     {
       "name": "Parallèles Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/paralleles-coiffure/",
       "visits": 1,
-      "last": "2025-12-20"
+      "last": "2025-12-20",
+      "last_pretty": "20 december 2025"
     },
     {
       "name": "Le Bal des Créateurs",
-      "url": "https://www.bodypass.ch/etablissements/le-bal-des-createurs-3/",
       "visits": 1,
-      "last": "2025-08-19"
+      "last": "2025-08-19",
+      "last_pretty": "19 august 2025"
     },
     {
       "name": "Akyado Genève Centre",
-      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-07-24"
+      "last": "2025-07-24",
+      "last_pretty": "24 july 2025"
     }
   ]
 }

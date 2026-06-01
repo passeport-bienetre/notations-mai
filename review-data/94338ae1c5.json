@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Namasté",
-      "url": "https://www.bodypass.ch/etablissements/namaste/",
       "visits": 1,
-      "last": "2025-12-08"
+      "last": "2025-12-08",
+      "last_pretty": "08 december 2025"
     },
     {
       "name": "Institut ZenSkin",
-      "url": "https://www.bodypass.ch/etablissements/institut-fs/",
       "visits": 1,
-      "last": "2025-11-15"
+      "last": "2025-11-15",
+      "last_pretty": "15 november 2025"
     }
   ]
 }

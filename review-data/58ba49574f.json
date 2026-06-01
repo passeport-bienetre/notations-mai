@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Deep Nature Les Granges d&rsquo;en Haut",
-      "url": "https://www.bodypass.ch/etablissements/deep-nature-les-granges-den-haut/",
       "visits": 1,
-      "last": "2026-02-07"
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
     },
     {
       "name": "LES FITNESS HARMONY",
-      "url": "https://www.bodypass.ch/?s=LES%20FITNESS%20HARMONY",
       "visits": 1,
-      "last": "2026-01-17"
+      "last": "2026-01-17",
+      "last_pretty": "17 january 2026"
     }
   ]
 }

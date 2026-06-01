@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE &#8211; Eva",
-      "url": "https://www.bodypass.ch/?s=LE%20CENTRE%20GEN%C3%88VE%20BY%20CHARLINE%20%E2%80%93%20Eva",
       "visits": 1,
-      "last": "2026-01-27"
+      "last": "2026-01-27",
+      "last_pretty": "27 january 2026"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-09-26"
+      "last": "2025-09-26",
+      "last_pretty": "26 september 2025"
     },
     {
       "name": "POWERCUBE",
-      "url": "https://www.bodypass.ch/etablissements/powercube/",
       "visits": 1,
-      "last": "2025-09-22"
+      "last": "2025-09-22",
+      "last_pretty": "22 september 2025"
     },
     {
       "name": "Akyado Genève Centre",
-      "url": "https://www.bodypass.ch/?s=Akyado%20Gen%C3%A8ve%20Centre",
       "visits": 1,
-      "last": "2025-09-08"
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025"
     }
   ]
 }

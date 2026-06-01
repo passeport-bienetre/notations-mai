@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Thaiotop",
-      "url": "https://www.bodypass.ch/etablissements/thaiotop-3/",
       "visits": 1,
-      "last": "2025-09-04"
+      "last": "2025-09-04",
+      "last_pretty": "04 september 2025"
     },
     {
       "name": "LA VALLÉE SPA SUITES <Br> THE RITZ CARLTON HÔTEL DE LA PAIX",
-      "url": "https://www.bodypass.ch/etablissements/lavalleespa/",
       "visits": 1,
-      "last": "2025-07-30"
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
     }
   ]
 }

@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "Altitude by Garance",
-      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "visits": 1,
-      "last": "2026-03-29"
+      "last": "2026-03-29",
+      "last_pretty": "29 march 2026"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2026-02-25"
+      "last": "2026-02-25",
+      "last_pretty": "25 february 2026"
     },
     {
       "name": "Swiss Aesthetica",
-      "url": "https://www.bodypass.ch/etablissements/swiss-aesthetica/",
       "visits": 1,
-      "last": "2025-12-30"
+      "last": "2025-12-30",
+      "last_pretty": "30 december 2025"
     },
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2025-12-26"
+      "last": "2025-12-26",
+      "last_pretty": "26 december 2025"
     },
     {
       "name": "Spa Baron Tavernier",
-      "url": "https://www.bodypass.ch/?s=Spa%20Baron%20Tavernier",
       "visits": 1,
-      "last": "2025-10-17"
+      "last": "2025-10-17",
+      "last_pretty": "17 october 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-10-04"
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025"
     }
   ]
 }

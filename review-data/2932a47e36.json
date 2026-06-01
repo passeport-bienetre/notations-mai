@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Beausquet Genève",
-      "url": "https://www.bodypass.ch/etablissements/le-beausquet-geneve/",
       "visits": 1,
-      "last": "2025-08-30"
+      "last": "2025-08-30",
+      "last_pretty": "30 august 2025"
     },
     {
       "name": "SAKURA LAB",
-      "url": "https://www.bodypass.ch/etablissements/sakura-lab/",
       "visits": 1,
-      "last": "2025-06-05"
+      "last": "2025-06-05",
+      "last_pretty": "05 june 2025"
     }
   ]
 }

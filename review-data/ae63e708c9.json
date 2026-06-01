@@ -5,45 +5,45 @@
   "estabs": [
     {
       "name": "SUBLIMEYES",
-      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-01-24"
+      "last": "2026-01-24",
+      "last_pretty": "24 january 2026"
     },
     {
       "name": "Swiss Beauty Studio",
-      "url": "https://www.bodypass.ch/etablissements/swiss-beauty-studio/",
       "visits": 1,
-      "last": "2025-12-18"
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
     },
     {
       "name": "INSTITUT VALMONT CHEZ GLOBUS GENEVE",
-      "url": "https://www.bodypass.ch/etablissements/institut-valmont-chez-globus-geneve/",
       "visits": 1,
-      "last": "2025-12-18"
+      "last": "2025-12-18",
+      "last_pretty": "18 december 2025"
     },
     {
       "name": "So Hair",
-      "url": "https://www.bodypass.ch/etablissements/so-hair/",
       "visits": 1,
-      "last": "2025-11-26"
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
     },
     {
       "name": "CLINIQUE LA JOUVENCE GENÈVE",
-      "url": "https://www.bodypass.ch/etablissements/clinique-la-jouvence-geneve/",
       "visits": 1,
-      "last": "2025-11-26"
+      "last": "2025-11-26",
+      "last_pretty": "26 november 2025"
     },
     {
       "name": "Thai Corner",
-      "url": "https://www.bodypass.ch/etablissements/thai-corner-3/",
       "visits": 1,
-      "last": "2025-10-18"
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025"
     },
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2025-09-12"
+      "last": "2025-09-12",
+      "last_pretty": "12 september 2025"
     }
   ]
 }

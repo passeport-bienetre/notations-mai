@@ -1,19 +1,25 @@
 {
   "carte": "36832",
   "name": "Nathalie",
-  "nb_estabs": 2,
+  "nb_estabs": 3,
   "estabs": [
     {
-      "name": "EUPHORIA &#038; BEAUTY STUDIO",
-      "url": "https://www.bodypass.ch/etablissements/euphoria-beauty-studio/",
+      "name": "FLEUR D’EPIDERME",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-05-29",
+      "last_pretty": "29 may 2026"
+    },
+    {
+      "name": "EUPHORIA &#038; BEAUTY STUDIO",
+      "visits": 1,
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     },
     {
       "name": "LE CENTRE GENÈVE BY CHARLINE",
-      "url": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
       "visits": 1,
-      "last": "2026-04-17"
+      "last": "2026-04-17",
+      "last_pretty": "17 april 2026"
     }
   ]
 }

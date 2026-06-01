@@ -5,39 +5,39 @@
   "estabs": [
     {
       "name": "CJ Coiffure",
-      "url": "https://www.bodypass.ch/etablissements/cj-coiffure/",
       "visits": 1,
-      "last": "2026-02-17"
+      "last": "2026-02-17",
+      "last_pretty": "17 february 2026"
     },
     {
       "name": "Maison Perle",
-      "url": "https://www.bodypass.ch/etablissements/maison-perle/",
       "visits": 1,
-      "last": "2025-12-23"
+      "last": "2025-12-23",
+      "last_pretty": "23 december 2025"
     },
     {
       "name": "Karré Long",
-      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2025-12-04"
+      "last": "2025-12-04",
+      "last_pretty": "04 december 2025"
     },
     {
       "name": "Salon Privé Ecublens",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-ecublens/",
       "visits": 1,
-      "last": "2025-10-16"
+      "last": "2025-10-16",
+      "last_pretty": "16 october 2025"
     },
     {
       "name": "Elvi Haute Coiffure",
-      "url": "https://www.bodypass.ch/?s=Elvi%20Haute%20Coiffure",
       "visits": 1,
-      "last": "2025-07-30"
+      "last": "2025-07-30",
+      "last_pretty": "30 july 2025"
     },
     {
       "name": "Nail Café",
-      "url": "https://www.bodypass.ch/etablissements/nail-cafe/",
       "visits": 1,
-      "last": "2025-06-14"
+      "last": "2025-06-14",
+      "last_pretty": "14 june 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Le Mirador Resort &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/le-mirador-resort-spa/",
       "visits": 1,
-      "last": "2025-06-20"
+      "last": "2025-06-20",
+      "last_pretty": "20 june 2025"
     },
     {
       "name": "Salon Privé Gare",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive/",
       "visits": 1,
-      "last": "2025-06-12"
+      "last": "2025-06-12",
+      "last_pretty": "12 june 2025"
     }
   ]
 }

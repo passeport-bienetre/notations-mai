@@ -1,13 +1,19 @@
 {
   "carte": "34206",
   "name": "Samantha",
-  "nb_estabs": 1,
+  "nb_estabs": 2,
   "estabs": [
     {
-      "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
+      "name": "Institut ZenSkin",
       "visits": 1,
-      "last": "2025-12-05"
+      "last": "2026-05-23",
+      "last_pretty": "23 may 2026"
+    },
+    {
+      "name": "VAGHEGGI Phyto Space Lausanne",
+      "visits": 1,
+      "last": "2025-12-05",
+      "last_pretty": "05 december 2025"
     }
   ]
 }

@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Altitude by Garance",
-      "url": "https://www.bodypass.ch/etablissements/altitude-by-garance/",
       "visits": 1,
-      "last": "2025-08-23"
+      "last": "2025-08-23",
+      "last_pretty": "23 august 2025"
     },
     {
       "name": "Odyssée Santé &#038; Beauté",
-      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "visits": 1,
-      "last": "2025-08-16"
+      "last": "2025-08-16",
+      "last_pretty": "16 august 2025"
     }
   ]
 }

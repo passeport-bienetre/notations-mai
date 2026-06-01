@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "SUBLIMEYES",
-      "url": "https://www.bodypass.ch/etablissements/institut-sublimeyes/",
       "visits": 1,
-      "last": "2026-04-23"
+      "last": "2026-04-23",
+      "last_pretty": "23 april 2026"
     },
     {
       "name": "GLOW IN GENEVA",
-      "url": "https://www.bodypass.ch/etablissements/glow-in-geneva/",
       "visits": 1,
-      "last": "2026-04-14"
+      "last": "2026-04-14",
+      "last_pretty": "14 april 2026"
     }
   ]
 }

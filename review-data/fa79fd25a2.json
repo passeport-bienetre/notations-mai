@@ -1,25 +1,19 @@
 {
   "carte": "34066",
   "name": "Aurelly",
-  "nb_estabs": 3,
+  "nb_estabs": 2,
   "estabs": [
     {
       "name": "Les Cliniques Matignon",
-      "url": "https://www.bodypass.ch/?s=Les%20Cliniques%20Matignon",
       "visits": 1,
-      "last": "2025-07-15"
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
     },
     {
       "name": "BLISS",
-      "url": "https://www.bodypass.ch/etablissements/bliss/",
       "visits": 1,
-      "last": "2025-07-15"
-    },
-    {
-      "name": "Amiia Clinique",
-      "url": "https://www.bodypass.ch/etablissements/amiia-clinique/",
-      "visits": 1,
-      "last": "2025-05-19"
+      "last": "2025-07-15",
+      "last_pretty": "15 july 2025"
     }
   ]
 }

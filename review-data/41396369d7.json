@@ -1,19 +1,13 @@
 {
   "carte": "33998",
   "name": "Cindelle",
-  "nb_estabs": 2,
+  "nb_estabs": 1,
   "estabs": [
     {
       "name": "KASA AMO",
-      "url": "https://www.bodypass.ch/etablissements/kasa-amo/",
       "visits": 1,
-      "last": "2025-10-27"
-    },
-    {
-      "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
-      "visits": 1,
-      "last": "2025-05-21"
+      "last": "2025-10-27",
+      "last_pretty": "27 october 2025"
     }
   ]
 }

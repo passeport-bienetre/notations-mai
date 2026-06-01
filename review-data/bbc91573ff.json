@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2026-01-16"
+      "last": "2026-01-16",
+      "last_pretty": "16 january 2026"
     },
     {
       "name": "Arte Beauty EPFL",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-epfl/",
       "visits": 1,
-      "last": "2025-07-07"
+      "last": "2025-07-07",
+      "last_pretty": "07 july 2025"
     }
   ]
 }

@@ -1,19 +1,25 @@
 {
   "carte": "35527",
   "name": "Marina",
-  "nb_estabs": 2,
+  "nb_estabs": 3,
   "estabs": [
     {
-      "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
+      "name": "Namasté",
       "visits": 1,
-      "last": "2026-04-24"
+      "last": "2026-05-28",
+      "last_pretty": "28 may 2026"
+    },
+    {
+      "name": "Guess What",
+      "visits": 1,
+      "last": "2026-04-24",
+      "last_pretty": "24 april 2026"
     },
     {
       "name": "Salon Privé Chailly",
-      "url": "https://www.bodypass.ch/etablissements/salon-prive-chailly/",
       "visits": 1,
-      "last": "2026-04-22"
+      "last": "2026-04-22",
+      "last_pretty": "22 april 2026"
     }
   ]
 }

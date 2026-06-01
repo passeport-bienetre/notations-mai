@@ -5,9 +5,9 @@
   "estabs": [
     {
       "name": "Institut Sirène",
-      "url": "https://www.bodypass.ch/etablissements/institut-sirene/",
       "visits": 1,
-      "last": "2026-04-29"
+      "last": "2026-04-29",
+      "last_pretty": "29 april 2026"
     }
   ]
 }

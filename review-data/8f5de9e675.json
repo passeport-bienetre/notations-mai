@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Hôtel de Rougemont &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2026-01-03"
+      "last": "2026-01-03",
+      "last_pretty": "03 january 2026"
     },
     {
       "name": "Institut Biotiful",
-      "url": "https://www.bodypass.ch/etablissements/institut-biotiful-2/",
       "visits": 1,
-      "last": "2025-11-29"
+      "last": "2025-11-29",
+      "last_pretty": "29 november 2025"
     },
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-10-18"
+      "last": "2025-10-18",
+      "last_pretty": "18 october 2025"
     },
     {
       "name": "ERINGER INSTITUT",
-      "url": "https://www.bodypass.ch/etablissements/eringer-institut/",
       "visits": 1,
-      "last": "2025-10-04"
+      "last": "2025-10-04",
+      "last_pretty": "04 october 2025"
     },
     {
       "name": "W Verbier",
-      "url": "https://www.bodypass.ch/?s=W%20Verbier",
       "visits": 1,
-      "last": "2025-06-11"
+      "last": "2025-06-11",
+      "last_pretty": "11 june 2025"
     }
   ]
 }

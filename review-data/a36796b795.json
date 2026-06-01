@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Le Grand Bellevue",
-      "url": "https://www.bodypass.ch/etablissements/le-grand-bellevue/",
       "visits": 1,
-      "last": "2026-02-28"
+      "last": "2026-02-28",
+      "last_pretty": "28 february 2026"
     },
     {
       "name": "Hôtel de Rougemont &#038; Spa",
-      "url": "https://www.bodypass.ch/etablissements/hotel-de-rougemont-spa/",
       "visits": 1,
-      "last": "2026-02-22"
+      "last": "2026-02-22",
+      "last_pretty": "22 february 2026"
     },
     {
       "name": "VAGHEGGI Phyto Space Lausanne",
-      "url": "https://www.bodypass.ch/?s=VAGHEGGI%20Phyto%20Space%20Lausanne",
       "visits": 1,
-      "last": "2026-01-08"
+      "last": "2026-01-08",
+      "last_pretty": "08 january 2026"
     },
     {
       "name": "Institut Osmose",
-      "url": "https://www.bodypass.ch/etablissements/institut-osmose/",
       "visits": 1,
-      "last": "2025-12-03"
+      "last": "2025-12-03",
+      "last_pretty": "03 december 2025"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-09-08"
+      "last": "2025-09-08",
+      "last_pretty": "08 september 2025"
     }
   ]
 }

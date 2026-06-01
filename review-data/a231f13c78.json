@@ -5,15 +5,15 @@
   "estabs": [
     {
       "name": "Blossom Institut",
-      "url": "https://www.bodypass.ch/etablissements/blossom-institut/",
       "visits": 1,
-      "last": "2025-08-08"
+      "last": "2025-08-08",
+      "last_pretty": "08 august 2025"
     },
     {
       "name": "Hôtel Intercontinental Spa 5 Mondes",
-      "url": "https://www.bodypass.ch/etablissements/hotel-intercontinental-spa-5-mondes/",
       "visits": 1,
-      "last": "2025-06-27"
+      "last": "2025-06-27",
+      "last_pretty": "27 june 2025"
     }
   ]
 }

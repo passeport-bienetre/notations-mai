@@ -5,27 +5,27 @@
   "estabs": [
     {
       "name": "Beauty Concept Vevey",
-      "url": "https://www.bodypass.ch/?s=Beauty%20Concept%20Vevey",
       "visits": 1,
-      "last": "2026-03-27"
+      "last": "2026-03-27",
+      "last_pretty": "27 march 2026"
     },
     {
       "name": "Karré Long",
-      "url": "https://www.bodypass.ch/etablissements/karre-long-3/",
       "visits": 1,
-      "last": "2026-03-20"
+      "last": "2026-03-20",
+      "last_pretty": "20 march 2026"
     },
     {
       "name": "BEAUTY CONCEPT PULLY",
-      "url": "https://www.bodypass.ch/?s=BEAUTY%20CONCEPT%20PULLY",
       "visits": 1,
-      "last": "2026-03-02"
+      "last": "2026-03-02",
+      "last_pretty": "02 march 2026"
     },
     {
       "name": "Guess What",
-      "url": "https://www.bodypass.ch/etablissements/guess-what-3/",
       "visits": 1,
-      "last": "2025-11-21"
+      "last": "2025-11-21",
+      "last_pretty": "21 november 2025"
     }
   ]
 }

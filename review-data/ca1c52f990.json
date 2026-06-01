@@ -5,33 +5,33 @@
   "estabs": [
     {
       "name": "Arte Beauty Lutry",
-      "url": "https://www.bodypass.ch/etablissements/arte-beauty-lutry/",
       "visits": 1,
-      "last": "2026-02-21"
+      "last": "2026-02-21",
+      "last_pretty": "21 february 2026"
     },
     {
       "name": "Odyssée Santé &#038; Beauté",
-      "url": "https://www.bodypass.ch/etablissements/odyssee-sante-beaute/",
       "visits": 1,
-      "last": "2026-02-07"
+      "last": "2026-02-07",
+      "last_pretty": "07 february 2026"
     },
     {
       "name": "Nirvana Spa",
-      "url": "https://www.bodypass.ch/?s=Nirvana%20Spa",
       "visits": 1,
-      "last": "2025-09-13"
+      "last": "2025-09-13",
+      "last_pretty": "13 september 2025"
     },
     {
       "name": "Bhumi",
-      "url": "https://www.bodypass.ch/?s=Bhumi",
       "visits": 1,
-      "last": "2025-09-06"
+      "last": "2025-09-06",
+      "last_pretty": "06 september 2025"
     },
     {
       "name": "Saai Nam Massage &#8211; Manor",
-      "url": "https://www.bodypass.ch/etablissements/saai-nam-massage-manor/",
       "visits": 1,
-      "last": "2025-08-22"
+      "last": "2025-08-22",
+      "last_pretty": "22 august 2025"
     }
   ]
 }
